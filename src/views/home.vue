@@ -1,0 +1,454 @@
+<template>
+  <div class="home">
+      <!-- <h2>hi</h2> -->
+        <!-- Product Disc -->
+  <section style="background-color:white;">
+    <div class="mt-2">
+      <div class="row">
+        <div class="col-lg " style=" text-align: left; color: black;">
+          <div class=" mr-5 p-5 ">
+            <div class="pr-5 pt-3">      
+              <h1 class="mr-5  "><b> Education for the Real World </b></h1>
+              <p class="mr-5  mt-4">Matic offers online STEAM courses in topics we all wish we could have learned in school like Coding, Storytelling, Investing, and more.</p>
+              <button button type="" class="btn btn-success btn-lg " style="height:65px; width : 300px; border-radius: 12px;font-size:16px">Try A Free class</button>      
+            </div>
+            <div class="row mt-1">
+                <div class="col-4 mt-5">
+                    <img src="../assets/img/trustpilot.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
+                </div>
+                <div class="col-8 mt-5">
+                    <img src="../assets/img/trustpilot-starts.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
+                </div>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg">
+          <img src="../assets/img/placeholder.jpg" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+<!--automata,ai,networkin,tbn -->
+
+  <section style="background-color: #e6f7f6">
+      <!-- <h1>hiii</h1> -->
+      <div class="row  pt-4 pb-4">
+          <div class="col mb-4 mt-4 ml-4">
+              <h5> Featured In - </h5>
+          </div>
+          <div class="col mb-4 mt-4 ">
+               <img src="../assets/img/website-logos/fast-co-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
+          </div>
+          <div class="col mb-4 mt-4">
+                <img src="../assets/img/website-logos/TC-01.png" alt="" width="100%" style="background-size:contain; background-repeat: no-repeat; text-align: center;">
+          </div>
+          <div class="col mb-4 mt-4">
+               <img src="../assets/img/website-logos/fortune-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
+          </div>
+          <div class="col mb-4 mt-4">
+               <img src="../assets/img/website-logos/forbes-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
+          </div>
+          <div class="col mb-4 mt-4">
+               <img src="../assets/img/website-logos/WSJ-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
+          </div>
+          <div class="col mb-4 mt-4">
+               <img src="../assets/img/website-logos/bloomberg-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
+          </div>
+          <div class="col mb-4 mt-4">
+                <img src="../assets/img/website-logos/yahho-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
+          </div>
+          <div class="col mb-4 mt-4">
+                <img src="../assets/img/website-logos/AP-01.png" alt="" width="100%" style="background-size:contain;   background-repeat: no-repeat; text-align: center;">
+          </div>
+          <div class="col mb-4 mt-4 mr-4">
+                <img src="../assets/img/website-logos/market-watch-01.png" alt="" width="100%" style="background-size:contain;   background-repeat: no-repeat; text-align: center;">
+          </div>
+
+      </div>
+  </section>
+
+    <!-- best seller slides -->
+  <best_seller_slides/>
+
+
+
+  <explore_more_topics/>
+
+  <!-- testemonials slides -->
+  <testemonials/>
+
+
+  <compare_course/>
+
+  <section class="pt-5 pb-5">
+    <div class="row"> 
+      <div class="col-6">
+        <!-- First Tick -->
+        <div class=" m-5">
+          <h1 ><b>Our Approach to Learning</b> </h1>
+          <h2 class="mt-5 mb-5 ml-5"><b> 
+            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#261159" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+              <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+            </svg> 
+
+              Real-World Skills that Matter </b></h2>
+          <p class="mt-5 mb-5 ml-5">We’re realists who dream big! That’s why we focus on teaching the skills of tomorrow to help prepare our students for the real world.</p>
+        </div>
+        <!-- First Tick -->
+        <div class=" m-5">
+          <h2 class="mt-5 mb-5 ml-5"><b> 
+            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#261159" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+              <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+            </svg> 
+
+              Learn-by-Doing Approach </b></h2>
+          <p class="mt-5 mb-5 ml-5">Project and Discovery-Based courses help children internalize concepts rather than memorizing them (And have fun while doing it!).</p>
+        </div>
+        <!-- First Tick -->
+        <div class=" m-5">
+          <h2 class="mt-5 mb-5 ml-5"><b> 
+            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#261159" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+              <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+            </svg> 
+
+              We Make Online Education Human </b></h2>
+          <p class="mt-5 mb-5 ml-5">Matic's community is dedicated to supporting your child's education journey by offering out-of-class opportunities like Matic Clubs, Instructor office hours, and project shares.</p>
+        </div>
+      </div>
+      <!-- <div class="col-6">
+        <img src="../assets/img/placeholder3.jpeg" alt=""  style="width:100%;">
+      </div> -->
+    </div>
+  </section>
+
+  <section style="background-color: #e6f7f6" class="pt-5 pb-5">
+    <h1 class="mt-4 mb-4"><b>Preview a Matic Class</b></h1>
+
+    <iframe width="560" height="315" class="mt-5 mb-5" src="https://www.youtube.com/embed/K4TOrB7at0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+    <!-- col -->
+    <div class="row pt-5 pl-5 pr-5">
+      <div class="col-4">
+        <img src="../assets/img/icon1.jpg" alt="" class="circular--square" style="width:300px;">
+        <h3 class="mt-4"><b> Quality Instruction </b></h3>
+        <div class="m-4 " style="text-align:left">
+          <ul>
+            <li>
+              Instructors from top US Universities
+            </li>
+            <li>
+              Private 1:1 Classes or On Demand Self Learning
+            </li>
+            <li>
+              Virtual Learning through our Learner Portal
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-4">
+        <img src="../assets/img/icon1.jpg" alt="" class="circular--square" style="width:300px;">
+        <h3 class="mt-4"><b> Real-World Subjects </b></h3>
+        <div class="m-4 " style="text-align:left">
+          <ul>
+            <li>
+              Structured, project-based curriculum
+            </li>
+            <li>
+              For beginners through advanced learners
+            </li>
+            <li>
+              STEAM Topics like Coding, Investing, Storytelling and more!
+            </li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="col-4">
+        <img src="../assets/img/icon1.jpg" alt="" class="circular--square" style="width:300px;">
+        <h3 class="mt-4"><b> Community of Learners </b></h3>
+        <div class="m-4 " style="text-align:left">
+          <ul>
+            <li>
+              Meet students around the country in study groups and at live events
+            </li>
+            <li>
+              Work on thousands of shared projects
+            </li>
+            <li>
+              Build a portfolio
+            </li>
+          </ul>
+  
+        </div>
+      </div>
+
+
+    </div>
+
+  
+  </section>
+
+  <section class="pt-5 pb-5" style="background-color:#f2f8fa">
+    <h1 class="mt-4"><b>New to Matic?</b></h1>
+    <h1 class="mb-4"><b>Speak with a Matic Advisor today</b> </h1>
+    <div class="row text-left">
+      <div class="col-6 " >
+        <h3 class="ml-5 mt-5"><b>Call Us</b></h3>
+        <h3 class="ml-5 mt-2"><b>650-263-4306</b> </h3>
+      </div>
+      <div class="col-6" style="font-size:18px">
+        <p class="ml-5 mt-5 mb-0"><b>Or, send us a message.</b></p>
+        <p class="ml-5 mt-0"><b>We normally respond within the hour:</b></p>
+        <form class=" mr-4">
+          <div class="row">
+            <div class="col mt-5">
+              <label for="formGroupExampleInput">First Name</label>
+              <input type="text" class="form-control" id="formGroupExampleInput" placeholder="First name">
+            </div>
+            <div class="col mt-5">
+              <label for="formGroupExampleInput2">Last Name</label>
+              <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Last name">
+            </div>
+          </div>
+          <div class="row mt-5">
+            <div class="form-group col-md-6">
+              <label for="inputEmail4">Email</label>
+              <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+            </div>
+            <div class="form-group col-md-6">
+              <label for="inputphone">Phone</label>
+              <input type="text" class="form-control" id="inputphone" placeholder="Enter Phone Number">
+            </div>
+          </div>
+
+            <div class="form-group">
+              <label for="exampleFormControlTextarea1">Message</label>
+              <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            </div>
+          <div class="col-auto my-1">
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" id="autoSizingCheck2">
+              <label class="form-check-label" for="autoSizingCheck2">
+                Text me for Matic news and offers
+              </label>
+            </div>
+              <button type="submit" class="btn btn-success">Submit</button>
+          </div>
+
+        </form>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="pt-5 pb-5" style="background-color:#5a3cf0">
+      <h1 class="mt-4 mb-4"><b style="color:white !important">All Matic Courses Include:</b></h1>
+      <div class="row pl-4 pr-4" >
+        <div class="col-3">
+          <div class="row">
+            <h2 class="mt-5 mb-3 ml-5" ><b style="color:white !important"> 
+            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+              <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+            </svg> 
+
+              Top Instruction </b></h2>
+          </div>
+          <div class="row">
+            <ul class="ml-5" style="color:white !important;  font-weight:bolder; text-align:left">
+                <li>
+                  Instructors from Top US Universities
+                </li>
+                <li>
+                  Expert-Designed Curricula
+                </li>
+                <li>
+                  Project-Based Coursework
+                </li>
+              </ul>
+          </div>
+
+
+        </div>
+
+        <div class="col-3">
+          <div class="row">
+            <h2 class="mt-5 mb-3 ml-5" ><b style="color:white !important"> 
+            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+              <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+            </svg> 
+
+              Community </b></h2>
+          </div>
+          <div class="row">
+          <ul class="ml-5" style="color:white !important;  font-weight:bolder; text-align:left">
+                <li>
+                  Matic Clubs
+                </li>
+                <li>
+                  Matic Events
+                </li>
+                <li>
+                  Shared Projects
+                </li>
+              </ul>
+          </div>
+
+        </div>
+
+        <div class="col-3">
+          <div class="row">          
+            <h2 class="mt-5 mb-3 ml-5" ><b style="color:white !important"> 
+            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+              <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+            </svg> 
+
+              Live Support</b></h2>
+          </div>
+          <div class="row">
+              <ul class="ml-5" style="color:white !important;  font-weight:bolder; text-align:left">
+                <li>
+                  Instructor Office Hours
+                </li>
+                <li>
+                  Study Groups
+                </li>
+                <li>
+                  Access to Matic Advisors
+                </li>
+              </ul>
+          </div>
+        </div>
+
+        <div class="col-3">
+          <div class="row">
+            <h2 class="mt-5 mb-3 ml-2" ><b style="color:white !important"> 
+            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+              <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+            </svg> 
+
+              Progress Targets</b></h2>
+          </div>
+          <div class="row">
+            <ul class="" style="color:white !important;  font-weight:bolder; text-align:left">
+                <li>
+                  Course Roadmaps
+                </li>
+                <li>
+                  Checkpoints
+                </li>
+                <li>
+                  Certificates of Completion
+                </li>
+              </ul>
+          </div>
+        </div>
+
+      </div>
+  </section>
+
+  <section class="pt-5 pb-5">
+    <div class="row">
+      <div class="col-lg">
+        <!-- image here -->
+      </div>
+      <div class="col-lg text-left">
+        <div class="ml-3 mr-5">
+          <h2 ><b>Matic's Learner Portal</b></h2>
+          <div class="mt-4">
+            <p><b>Simple course management and progress tracking for our parents.</b></p>
+          </div>
+          <ul style="color:#0b0970;  font-weight:bolder; text-align:left">
+            <li>
+              Session notes
+            </li>
+            <li>
+              Certificates of completion
+            </li>
+            <li>
+              Flexible scheduling / rescheduling
+            </li>
+            <li>
+              Course and instructor information
+            </li>
+            <li>
+              Access to the Matic Community including clubs, projects and more
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--  Faqs-->
+  <Faqs/>
+  </div>
+</template>
+
+<script>
+
+// import HelloWorld from '@/components/HelloWorld.vue'
+// import HelloWorld from '@/components/blogs.vue'
+import best_seller_slides from '../components/best-seller-slides.vue'
+import testemonials from '../components/testemonials.vue'
+import Faqs from '../components/Faqs.vue'
+import compare_course from '../components/compare-course.vue'
+import explore_more_topics from '../components/explore-more-topics.vue'
+
+export default {
+  name: 'HomeView',
+  components: {
+    // HelloWorld
+    // blogs,
+    testemonials,
+    compare_course,
+    explore_more_topics,
+    Faqs,
+    best_seller_slides
+  }
+}
+</script>
+
+<style scoped>
+.collections{
+  background-size: cover;  
+  background-repeat: no-repeat;
+  height: 270px;
+  overflow-y:hidden ;
+}
+
+.no-overflow{
+  overflow-x:hidden;
+  overflow-y:hidden;
+}
+
+.card-body .col {
+    overflow-y:hidden !important;
+    overflow-x:hidden !important;
+}
+
+.card-body{
+  height: 280px
+}
+
+p a b,label{
+  color:#211ea6
+}
+
+.circular-square { border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%; }
+
+li{
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+</style>
