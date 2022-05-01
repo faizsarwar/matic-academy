@@ -39,7 +39,7 @@
   </button>
   <div class="collapse navbar-collapse ml-5 mr-5" id="navbarNavDropdown" style="color:#0b0970">
     <ul class="navbar-nav">
-      <li class="nav-item ml-2 mr-4 dropdown" >
+      <li class="nav-item ml-2 mr-3 dropdown" >
         <a class="" style="color:#0b0970;" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Subjects
         </a>
@@ -49,10 +49,9 @@
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/math"><strong>Math</strong> <p>Earlt Elementary Math Through AP Calculus</p> </a>
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/science"><strong>Science</strong> <p>Physics , Chemistry , Biology and More</p> </a>
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/communication"><strong>Communications</strong> <p>Reading , Writing , Public Speaking, Video Editing and More</p> </a>
-
         </div>
       </li>
-      <li class="nav-item mr-4 ml-4  dropdown" >
+      <li class="nav-item mr-3 ml-3  dropdown" >
         <a class=" " style="color:#0b0970; " href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Class Formats
         </a>
@@ -62,13 +61,13 @@
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/bootcamps"><strong>Bootcamp</strong> <p>small groups short courses with live instructions</p> </a>
         </div>
       </li>
-      <li class="nav-item mr-4 ml-4 mr-2 ">
+      <li class="nav-item mr-3 ml-3 mr-2 ">
         <a class="" style="color:#0b0970" href="/how-it-works">How It Works</a>
       </li>
-      <li class="nav-item mr-4 ml-4 mr-2 ">
+      <li class="nav-item mr-3 ml-3 mr-2 ">
         <a class="" style="color:#0b0970" href="/instructors">Instructors</a>
       </li>
-      <li class="nav-item ml-4 mr-2 dropdown">
+      <li class="nav-item ml-3 mr-3 dropdown">
         <a class=" ml-4" style="color:#0b0970" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           More
         </a>
