@@ -62,6 +62,31 @@ const routes = [
       name: 'review',
       component: () => import(/* webpackChunkName: "about" */ '../views/review.vue')
     },
+    {
+      path: '/contact',
+      name: 'contact',
+      component: () => import(/* webpackChunkName: "about" */ '../views/contact.vue')
+    },
+    {
+      path: '/help',
+      name: 'help',
+      component: () => import(/* webpackChunkName: "about" */ '../views/help.vue')
+    },
+    {
+      path: '/gift',
+      name: 'gift',
+      component: () => import(/* webpackChunkName: "about" */ '../views/gift.vue')
+    },
+    {
+      path: '/employeers',
+      name: 'employeers',
+      component: () => import(/* webpackChunkName: "about" */ '../views/employeers.vue')
+    },
+    {
+      path: '/blogs',
+      name: 'blogs',
+      component: () => import(/* webpackChunkName: "about" */ '../views/blogs.vue')
+    },
 ]  
 
 

@@ -63,7 +63,7 @@
                       </div>
                       <div class="row" >
                       <p
-                        class="card-text ml-3 mr-3 mb-4"
+                        class="card-text ml-3 mr-3 mb-4 pl-3 pr-3"
                         style="text-align: center; color: #466d1d"
                       >
                         Lorem Ipsum is simply dummy text of the printing and
@@ -78,7 +78,7 @@
                         >Quick view</a
                       > -->
                       <hr>
-                      <p class="card-text ml-3 mr-3 mb-4">Age 11-18 | Meets Weekly | Private 1:1</p>
+                      <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
                     </div>
                   </div>
                   </div>
@@ -106,7 +106,7 @@
                       </div>
                       <div class="row" >
                       <p
-                        class="card-text ml-3 mr-3 mb-4"
+                        class="card-text ml-3 mr-3 mb-4 pl-3 pr-3"
                         style="text-align: center; color: #466d1d"
                       >
                         Lorem Ipsum is simply dummy text of the printing and
@@ -121,7 +121,7 @@
                         >Quick view</a
                       > -->
                       <hr>
-                      <p class="card-text ml-3 mr-3 mb-4">Age 11-18 | Meets Weekly | Private 1:1</p>
+                      <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
                     </div>
                   </div>
                 </div>
@@ -149,7 +149,7 @@
                       </div>
                       <div class="row" >
                       <p
-                        class="card-text ml-3 mr-3 mb-4"
+                        class="card-text ml-3 mr-3 mb-4 pl-3 pr-3"
                         style="text-align: center; color: #466d1d"
                       >
                         Lorem Ipsum is simply dummy text of the printing and
@@ -164,7 +164,7 @@
                         >Quick view</a
                       > -->
                       <hr>
-                      <p class="card-text ml-3 mr-3 mb-4">Age 11-18 | Meets Weekly | Private 1:1</p>
+                      <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
                     </div>
                   </div>
                   </div>
@@ -199,7 +199,7 @@
                       </div>
                       <div class="row" >
                       <p
-                        class="card-text ml-3 mr-3 mb-4"
+                        class="card-text ml-3 mr-3 mb-4 pl-3 pr-3"
                         style="text-align: center; color: #466d1d"
                       >
                         Lorem Ipsum is simply dummy text of the printing and
@@ -214,7 +214,7 @@
                         >Quick view</a
                       > -->
                       <hr>
-                      <p class="card-text ml-3 mr-3 mb-4">Age 11-18 | Meets Weekly | Private 1:1</p>
+                      <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
                     </div>
                   </div>
                   </div>
@@ -242,7 +242,7 @@
                       </div>
                       <div class="row" >
                       <p
-                        class="card-text ml-3 mr-3 mb-4"
+                        class="card-text ml-3 mr-3 mb-4 pl-3 pr-3"
                         style="text-align: center; color: #466d1d"
                       >
                         Lorem Ipsum is simply dummy text of the printing and
@@ -257,7 +257,7 @@
                         >Quick view</a
                       > -->
                       <hr>
-                      <p class="card-text ml-3 mr-3 mb-4">Age 11-18 | Meets Weekly | Private 1:1</p>
+                      <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
                     </div>
                   </div>
                   </div>
@@ -285,7 +285,7 @@
                       </div>
                       <div class="row" >
                       <p
-                        class="card-text ml-3 mr-3 mb-4"
+                        class="card-text ml-3 mr-3 mb-4 pl-3 pr-3"
                         style="text-align: center; color: #466d1d"
                       >
                         Lorem Ipsum is simply dummy text of the printing and
@@ -300,7 +300,7 @@
                         >Quick view</a
                       > -->
                       <hr>
-                      <p class="card-text ml-3 mr-3 mb-4">Age 11-18 | Meets Weekly | Private 1:1</p>
+                      <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
                     </div>
                   </div>
                   </div>

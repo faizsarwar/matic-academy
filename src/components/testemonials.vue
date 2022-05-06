@@ -37,7 +37,7 @@
                             <p class="card-title1" style="text-align:center; color:#466D1D;"><strong> Testemonials</strong></p>
                           <!-- </div> -->
                           <!-- <div class="row" > -->
-                            <p class="card-text1" style="text-align:center; ">Lorem Ipsum is simply dummy text of the printing and
+                            <p class="card-text1 pl-3 pr-3" style="text-align:center; ">Lorem Ipsum is simply dummy text of the printing and
                         typesetting industry. Lorem Ipsum has been the
                         industry's standard dummy text ever since the 1500s</p>
                           <!-- </div> -->
@@ -65,7 +65,7 @@
                             <p class="card-title1" style="text-align:center; color:#466D1D;"><strong> Testemonials</strong></p>
                           <!-- </div> -->
                           <!-- <div class="row" > -->
-                            <p class="card-text1" style="text-align:center; ">Lorem Ipsum is simply dummy text of the printing and
+                            <p class="card-text1 pl-3 pr-3" style="text-align:center; ">Lorem Ipsum is simply dummy text of the printing and
                         typesetting industry. Lorem Ipsum has been the
                         industry's standard dummy text ever since the 1500s</p>
                           <!-- </div> -->
@@ -93,7 +93,7 @@
                             <p class="card-title1" style="text-align:center; color:#466D1D;"><strong> Testemonials</strong></p>
                           <!-- </div> -->
                           <!-- <div class="row" > -->
-                            <p class="card-text1" style="text-align:center; ">Lorem Ipsum is simply dummy text of the printing and
+                            <p class="card-text1 pl-3 pr-3" style="text-align:center; ">Lorem Ipsum is simply dummy text of the printing and
                         typesetting industry. Lorem Ipsum has been the
                         industry's standard dummy text ever since the 1500s</p>
                           <!-- </div> -->
@@ -128,7 +128,7 @@
                             <p class="card-title1 seller-Card" style="text-align:center; color:#466D1D;"><strong>Testenmonial</strong></p>
                           <!-- </div> -->
                           <!-- <div class="row" > -->
-                            <p class="card-text1" style="text-align:center; ">                        Lorem Ipsum is simply dummy text of the printing and
+                            <p class="card-text1 pl-3 pr-3" style="text-align:center; ">                        Lorem Ipsum is simply dummy text of the printing and
                         typesetting industry. Lorem Ipsum has been the
                         industry's standard dummy text ever since the 1500s</p>
                           <!-- </div> -->
@@ -154,7 +154,7 @@
                             <p class="card-title1 seller-Card" style="text-align:center; color:#466D1D;"><strong>Testenmonial</strong></p>
                           <!-- </div> -->
                           <!-- <div class="row" > -->
-                            <p class="card-text1" style="text-align:center; ">                        Lorem Ipsum is simply dummy text of the printing and
+                            <p class="card-text1 pl-3 pr-3" style="text-align:center; ">                        Lorem Ipsum is simply dummy text of the printing and
                         typesetting industry. Lorem Ipsum has been the
                         industry's standard dummy text ever since the 1500s</p>
                           <!-- </div> -->
@@ -180,7 +180,7 @@
                             <p class="card-title1 seller-Card" style="text-align:center; color:#466D1D;"><strong>Testenmonial</strong></p>
                           <!-- </div> -->
                           <!-- <div class="row" > -->
-                            <p class="card-text1" style="text-align:center; ">                        Lorem Ipsum is simply dummy text of the printing and
+                            <p class="card-text1 pl-3 pr-3" style="text-align:center; ">                        Lorem Ipsum is simply dummy text of the printing and
                         typesetting industry. Lorem Ipsum has been the
                         industry's standard dummy text ever since the 1500s</p>
                           <!-- </div> -->

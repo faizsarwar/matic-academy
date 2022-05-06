@@ -30,7 +30,7 @@
         <div>
             <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2"><b >We’re experts at teaching kids to code for an increasingly tech-driven world.</b></h1>
             <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0">
-                Job demand for coding skills is projected to grow over 2x faster than other occupations. Prepare your kids for the modern world with Juni, no matter their experience level. We offer a full computer science curriculum for kids ages 8-18.
+                Job demand for coding skills is projected to grow over 2x faster than other occupations. Prepare your kids for the modern world with matic, no matter their experience level. We offer a full computer science curriculum for kids ages 8-18.
             </p>
             <button
                 type=""
@@ -79,7 +79,7 @@
               Top Instruction </b></h2>
           </div>
           <div class="row">
-            <ul class="ml-5" style="  font-weight:bolder; text-align:left">
+            <ul class="ml-3" style="  font-weight:bolder; text-align:left">
                 <li>
                   Instructors from Top US Universities
                 </li>
@@ -188,9 +188,9 @@
           </div>
         </div>
         <div class="row text-left">
-          <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">As a trained engineer myself, I was keen for my children to learn how to code. Juni has created a great learning environment to do just that.</b> </h1>
-          <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">My hope with Juni was to advance my kids’ interest and exposure to coding. I’ve found that my kids quickly identify with their Juni Instructors, and they tend to ask a lot of questions and remain excited about coding.</h5>
-          <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Tim B., Juni Parent Former Chief Product Officer At Yahoo And CEO At QuestBridge</h5>
+          <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">As a trained engineer myself, I was keen for my children to learn how to code. matic has created a great learning environment to do just that.</b> </h1>
+          <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">My hope with matic was to advance my kids’ interest and exposure to coding. I’ve found that my kids quickly identify with their matic Instructors, and they tend to ask a lot of questions and remain excited about coding.</h5>
+          <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Tim B., matic Parent Former Chief Product Officer At Yahoo And CEO At QuestBridge</h5>
       
         </div>
       </div>
@@ -200,9 +200,9 @@
   <section class="pt-5 pb-5" style=" display:flex ; justify-contents:center; ">
       <div class="col-2"></div>
        <div class="pl-5 pr-5 col-8">
-            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-3 mb-2"><b >Have Questions? Speak to a Juni Advisor Today.</b></h1>
+            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-3 mb-2"><b >Have Questions? Speak to a matic Advisor Today.</b></h1>
             <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0">
-              We're here to help your child succeed, no matter their experience level. Learn more about our coding courses by booking an appointment to speak with a Juni Advisor today.
+              We're here to help your child succeed, no matter their experience level. Learn more about our coding courses by booking an appointment to speak with a matic Advisor today.
             </p>
             <button
                 type=""
@@ -223,7 +223,7 @@
   <!-- 1 -->
   <section class="pt-5 pb-5" style="background-color:#f2f8fa;">
     <h1><b>Join our community of young coders</b></h1>
-    <p class="pt-2 m-5">Kids at Juni join a tight knit network of learners like them. Through projects and clubs, our computer science students are able to connect, share ideas, learn from others, and have more fun as they level up their coding skills.</p>
+    <p class="pt-2 m-5">Kids at matic join a tight knit network of learners like them. Through projects and clubs, our computer science students are able to connect, share ideas, learn from others, and have more fun as they level up their coding skills.</p>
     <div class="row">
 
     </div>
@@ -290,7 +290,7 @@
             </svg>
   
             <h1 style="color:white" class="mb-5">I'm a coder now.</h1>
-            <h5 style="color:white" >When I started it was hard to code. The instructors are really nice and helped me when I had trouble. They also saw what I liked and helped me learn those things even more. Now, I've learned how to make things on my own and even share my projects on Juni and with my friends. It makes me feel really smart!</h5>
+            <h5 style="color:white" >When I started it was hard to code. The instructors are really nice and helped me when I had trouble. They also saw what I liked and helped me learn those things even more. Now, I've learned how to make things on my own and even share my projects on matic and with my friends. It makes me feel really smart!</h5>
             <div class="row pl-4 pr-4 pt-4">
               <div class="col-3">
                 <img src="../assets/img/placeholder.jpg" alt="" class=" mr-3   " style="background-size:contain; width:150px;height:150px; background-repeat: no-repeat; text-align: center;border-radius:50%">
@@ -301,7 +301,7 @@
                     Theo N.
                   </b>
                   <p style="color:white">
-                    Juni Student
+                    matic Student
                   </p>
                 </div>
               </div>
@@ -333,9 +333,9 @@
   <section class="pt-5 pb-5" style="background-color:#f2f8fa; display:flex ; justify-contents:center; ">
       <div class="col-2"></div>
        <div class="pl-5 pr-5 col-8">
-            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-3 mb-2"><b >Try the full Juni experience for free</b></h1>
+            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-3 mb-2"><b >Try the full matic experience for free</b></h1>
             <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0">
-              Take a free class to see if Juni is right for your child.
+              Take a free class to see if matic is right for your child.
             </p>
             <button
                 type=""

@@ -37,7 +37,7 @@
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse ml-5 mr-5" id="navbarNavDropdown" style="color:#0b0970">
+  <div class="collapse navbar-collapse ml-5 " id="navbarNavDropdown" style="color:#0b0970">
     <ul class="navbar-nav">
       <li class="nav-item ml-2 mr-3 dropdown" >
         <a class="" style="color:#0b0970;" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -74,12 +74,12 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
           <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/review"> <strong>Reviews</strong> </a>
           <a class="dropdown-item mb-4 ml-2 mr-2" href="#"><strong>Student Projects</strong> </a>
-          <a class="dropdown-item mb-4 ml-2 mr-2" href="#"><strong>Gift Cards</strong> </a>
+          <a class="dropdown-item mb-4 ml-2 mr-2" href="/gift"><strong>Gift Cards</strong> </a>
           <a class="dropdown-item mb-4 ml-2 mr-2" href="#"><strong> Homeschool</strong></a>
-          <a class="dropdown-item mb-4 ml-2 mr-2" href="#"><strong>matic for Employeers</strong> </a>
-          <a class="dropdown-item mb-4 ml-2 mr-2" href="#"><strong>Blogs</strong> </a>          
-          <a class="dropdown-item mb-4 ml-2 mr-2" href="#"><strong> Help Center & FAQ</strong></a>          
-          <a class="dropdown-item mb-4 ml-2 mr-2" href="#"><strong> Contact Us</strong></a>          
+          <a class="dropdown-item mb-4 ml-2 mr-2" href="/employeers"><strong>matic for Employeers</strong> </a>
+          <a class="dropdown-item mb-4 ml-2 mr-2" href="/blogs"><strong>Blogs</strong> </a>          
+          <a class="dropdown-item mb-4 ml-2 mr-2" href="/help"><strong> Help Center & FAQ</strong></a>          
+          <a class="dropdown-item mb-4 ml-2 mr-2" href="/contact"><strong> Contact Us</strong></a>          
         </div>
       </li>
     </ul>
@@ -91,7 +91,7 @@
     </div>
 
   <!--button  -->
-    <div class="ml-auto">
+    <div class="ml-auto mr-0">
       <a href="#" style="color:#0b0970"> Login</a>
       <button type="" class="btn btn-success btn-lg ml-4" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try A Free class</button>
     </div>

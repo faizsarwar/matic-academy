@@ -164,4 +164,8 @@ a:hover {
   cursor: pointer;
 }
 
+p{
+    padding: 10px;
+}
+
 </style>
