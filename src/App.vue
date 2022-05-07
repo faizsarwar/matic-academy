@@ -28,7 +28,7 @@
 <nav class="navbar navbar-expand-lg navbar-light mt-0 mb-0" id="navbar_top" style="background-color:white; color:#0b0970">
             <a href="/">
             <img
-              src="./assets/img/icon3.png"
+              src="./assets/img/icon2.png"
               alt=""
               srcset=""
               style="height: 90px"
@@ -73,7 +73,7 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
           <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/review"> <strong>Reviews</strong> </a>
-          <a class="dropdown-item mb-4 ml-2 mr-2" href="#"><strong>Student Projects</strong> </a>
+          <a class="dropdown-item mb-4 ml-2 mr-2" href="/projects"><strong>Student Projects</strong> </a>
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/gift"><strong>Gift Cards</strong> </a>
           <a class="dropdown-item mb-4 ml-2 mr-2" href="#"><strong> Homeschool</strong></a>
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/employeers"><strong>matic for Employeers</strong> </a>
@@ -172,19 +172,19 @@
 
             <ul class="ml-0">
               <li>
-                <a href="/categories/Agricultural-Products" >Student Projects </a>
+                <a href="/projects" >Student Projects </a>
               </li>
               <li>
-                <a href="/categories/Livestock,-Equine-and-Pet-Products" >Gift Cards</a>
+                <a href="/gift" >Gift Cards</a>
               </li>
               <li>
-                <a href="/categories/Anasazi-Gold-Swag" >Blogs</a>
+                <a href="/blogs" >Blogs</a>
               </li>
               <li>
-                <a href="/categories/Human-Consumable-Products" >Homeschool</a>
+                <a href="#" >Homeschool</a>
               </li>
               <li>
-                <a href="/categories/Human-Consumable-Products" >matic For Employeers</a>
+                <a href="/employeers" >matic For Employeers</a>
               </li>
             </ul>
           </div>
@@ -207,7 +207,7 @@
                 <a href="/review" >Reviews</a>
               </li>
               <li>
-                <a href="/" >Founders Story </a>
+                <a href="/about-us" >Founders Story </a>
               </li>
               <li>
                 <a href="/" >Careers</a>
@@ -216,10 +216,10 @@
                 <a href="/" >Instructor Jobs</a>
               </li>
               <li>
-                <a href="/" >Our Policies</a>
+                <a href="/terms" >Our Policies</a>
               </li>
               <li>
-                <a href="/" >Contact Us</a>
+                <a href="/contact" >Contact Us</a>
               </li>
             </ul>
           </div>

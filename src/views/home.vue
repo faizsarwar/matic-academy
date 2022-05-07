@@ -60,11 +60,8 @@
           <div class="col mb-4 mt-4">
                 <img src="../assets/img/website-logos/yahho-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
-                <img src="../assets/img/website-logos/AP-01.png" alt="" width="100%" style="background-size:contain;   background-repeat: no-repeat; text-align: center;">
-          </div>
           <div class="col mb-4 mt-4 mr-4">
-                <img src="../assets/img/website-logos/market-watch-01.png" alt="" width="100%" style="background-size:contain;   background-repeat: no-repeat; text-align: center;">
+                <img src="../assets/img/website-logos/AP-01.png" alt="" width="100%" style="background-size:contain;   background-repeat: no-repeat; text-align: center;">
           </div>
 
       </div>
