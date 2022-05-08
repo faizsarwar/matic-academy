@@ -40,7 +40,8 @@
               <div class="carousel-item active">
                 <div class="row seller-Card">
                   <div class="col-md-4 mb-3" >
-                    <div class="card" style="">
+                    <a href="/course">
+                                        <div class="card" style="">
                     <img
                       src="../assets/img/placeholder.jpg"
                       class="card-img-top"
@@ -81,9 +82,11 @@
                       <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
                     </div>
                   </div>
+                    </a>
                   </div>
                 <div class="col-md-4 mb-3" >
-                    <div class="card" style="">
+                    <a href="/course">
+                                        <div class="card" style="">
                     <img
                       src="../assets/img/placeholder.jpg"
                       class="card-img-top"
@@ -101,7 +104,7 @@
                         class="card-title ml-5 mt-4"
                         style="text-align: center; color: #466d1d"
                       >
-                        <strong> Python leve 2: Problem solver</strong>
+                        <strong> Python leve 1: Graphics Superstar</strong>
                       </p>
                       </div>
                       <div class="row" >
@@ -124,9 +127,11 @@
                       <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
                     </div>
                   </div>
+                    </a>
                 </div>
                 <div class="col-md-4 mb-3" >
-                    <div class="card" style="">
+                    <a href="/course">
+                                        <div class="card" style="">
                     <img
                       src="../assets/img/placeholder.jpg"
                       class="card-img-top"
@@ -144,7 +149,7 @@
                         class="card-title ml-5 mt-4"
                         style="text-align: center; color: #466d1d"
                       >
-                        <strong> Course 3</strong>
+                        <strong> Python leve 1: Graphics Superstar</strong>
                       </p>
                       </div>
                       <div class="row" >
@@ -167,6 +172,7 @@
                       <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
                     </div>
                   </div>
+                    </a>
                   </div>
                 </div>
               </div>
@@ -176,7 +182,8 @@
               <div class="carousel-item">
                 <div class="row seller-Card">
                   <div class="col-md-4 mb-3" >
-                    <div class="card" style="">
+                    <a href="/course">
+                                        <div class="card" style="">
                     <img
                       src="../assets/img/placeholder.jpg"
                       class="card-img-top"
@@ -194,7 +201,7 @@
                         class="card-title ml-5 mt-4"
                         style="text-align: center; color: #466d1d"
                       >
-                        <strong> Course 4</strong>
+                        <strong> Python leve 1: Graphics Superstar</strong>
                       </p>
                       </div>
                       <div class="row" >
@@ -217,9 +224,11 @@
                       <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
                     </div>
                   </div>
+                    </a>
                   </div>
                     <div class="col-md-4 mb-3" >
-                    <div class="card" style="">
+                    <a href="/course">
+                                        <div class="card" style="">
                     <img
                       src="../assets/img/placeholder.jpg"
                       class="card-img-top"
@@ -237,7 +246,7 @@
                         class="card-title ml-5 mt-4"
                         style="text-align: center; color: #466d1d"
                       >
-                        <strong> Course 5</strong>
+                        <strong> Python leve 1: Graphics Superstar</strong>
                       </p>
                       </div>
                       <div class="row" >
@@ -260,9 +269,11 @@
                       <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
                     </div>
                   </div>
+                    </a>
                   </div>
                     <div class="col-md-4 mb-3" >
-                    <div class="card" style="">
+                    <a href="/course">
+                                        <div class="card" style="">
                     <img
                       src="../assets/img/placeholder.jpg"
                       class="card-img-top"
@@ -280,7 +291,7 @@
                         class="card-title ml-5 mt-4"
                         style="text-align: center; color: #466d1d"
                       >
-                        <strong> Course 6</strong>
+                        <strong> Python leve 1: Graphics Superstar</strong>
                       </p>
                       </div>
                       <div class="row" >
@@ -303,6 +314,7 @@
                       <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
                     </div>
                   </div>
+                    </a>
                   </div>
 
                 </div>
@@ -376,11 +388,14 @@
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 //
+div{
+  color:blue;
+}
 .card , .card-body{
-    overflow-x:hidden
+    overflow-x:hidden;
 }
 .card-img-top{
-    height:200px
+    height:200px;
 }
 .card{
     border-radius: 12px;
