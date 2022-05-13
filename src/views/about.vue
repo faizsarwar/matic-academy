@@ -5,7 +5,7 @@
       <div class="row mt-4 mb-4 ml-4 mr-3 text-left p-5">
         <div class="col-lg">
           <h1 class="ml-4 pr-5"><b style="color:white !important">From students to founders</b></h1>
-            <p class="ml-4 pr-5 mt-2" style="color:white !important">How Juni was born from our own story</p>
+            <p class="ml-4 pr-5 mt-2" style="color:white !important">How matic was born from our own story</p>
 
             
         </div>
@@ -41,7 +41,7 @@
                         </div>
                         <div class="col-6 ">
                             <h1><b> Vivian Shen </b></h1> 
-                            <b> Juni CEO & Co-Founder </b>
+                            <b> matic CEO & Co-Founder </b>
                             <p>Stanford B.S. in Computer Science, <br> Creative Writing Minor </p>
                         </div>
                     </div>
@@ -62,11 +62,11 @@
                         </div>
                         <div class="col-6 ">
                             <h1><b> Ruby Lee </b></h1> 
-                            <b> Juni CTO & Co-Founder </b>
+                            <b> matic CTO & Co-Founder </b>
                             <p>Stanford M.S. in Computer Science, B.S. in <br> Bioengineering </p>
                         </div>
                     </div>
-                    <h5 class="p-5 p3"><b> Ruby has always held a lifelong passion for technology and education. Before co-founding Juni, she was an investor and Product Partner at Kleiner Perkins, and an Associate Product Manager at Google, where she worked on the Chrome browser and later helped launch Project Fi, Google's wireless carrier service.</b></h5>
+                    <h5 class="p-5 p3"><b> Ruby has always held a lifelong passion for technology and education. Before co-founding matic, she was an investor and Product Partner at Kleiner Perkins, and an Associate Product Manager at Google, where she worked on the Chrome browser and later helped launch Project Fi, Google's wireless carrier service.</b></h5>
 
                 </div>
                 <div class="col-6">
@@ -84,10 +84,10 @@
 
         <div class="p-5 row text-left">
             <div class="col p-3">
-                <h1 class="p3"><b>Why We Founded Juni</b></h1>
+                <h1 class="p3"><b>Why We Founded matic</b></h1>
             </div>
             <div class="col p-3">
-                <p>In 2017 in San Francisco, we (Vivian and Ruby) founded Juni to be <b> the educational opportunity we wished we had back when we were students. </b></p>
+                <p>In 2017 in San Francisco, we (Vivian and Ruby) founded matic to be <b> the educational opportunity we wished we had back when we were students. </b></p>
                 <br>
                 <p>Our story begins with two young girls excited by their newfound passions. Raised on the East Coast, Ruby stumbled upon coding at age 11 as part of her obsession with making websites for her Neopets (a virtual pet game). From there on, she was hooked—and tried to learn everything she could through books! Silicon Valley native Vivian, on the other hand, was excited by entrepreneurship and nonprofits.</p>
                 <br>
@@ -96,7 +96,7 @@
             <div class="col p-3">
                 <p>This story is far too common for many kids around the world, even today. Kids come with an amazing curiosity or desire to learn, but are <b> discouraged by traditional “right versus wrong” teaching, low diversity, or the lack of options. </b> Or, they just never get exposure to subjects outside of school to begin with.</p>
                 <br>
-                <p>We built Juni to make sure these kids’ passions never stop burning. We believe that <b> when kids have access to the right kind of support, learning styles, and peer community, it can change lives. </b> And changing kids’ lives everywhere through learning continues to be our mission today.</p>
+                <p>We built matic to make sure these kids’ passions never stop burning. We believe that <b> when kids have access to the right kind of support, learning styles, and peer community, it can change lives. </b> And changing kids’ lives everywhere through learning continues to be our mission today.</p>
             </div>
         </div>
     </section>
@@ -109,15 +109,15 @@
         
         <div class="p-5 row text-left">
             <div class="col p-3">
-                <h1 class="p3"><b>Why Juni Works</b></h1>
+                <h1 class="p3"><b>Why matic Works</b></h1>
             </div>
             <div class="col p-3">
                 <p>As students, there were times we felt that learning was an uphill battle. But even in our experiences as two very different people, we both remember the same three core things that kept us going: <b> caring mentors, strong support from friends, and understanding teachers </b> that saw us as unique individuals.</p>
                 <br>
-                <p>Juni works because it’s modeled after those three key pillars. <b> Juni Instructors </b> are that mentor—the role model that guides, but also the friend and teammate that cheers you on through your challenges. <b> The Juni Community </b> is that tight-knit group of friends and like-minded peers for inspiration and collaboration. And our <b> dynamic platform and curriculum </b> are shaped after those teachers that empowered us to stay curious, be creative, and drive our own lessons.</p>
+                <p>matic works because it’s modeled after those three key pillars. <b> matic Instructors </b> are that mentor—the role model that guides, but also the friend and teammate that cheers you on through your challenges. <b> The matic Community </b> is that tight-knit group of friends and like-minded peers for inspiration and collaboration. And our <b> dynamic platform and curriculum </b> are shaped after those teachers that empowered us to stay curious, be creative, and drive our own lessons.</p>
             </div>
             <div class="col p-3">
-                <p>Our own experiences, as well as the inspiring stories from countless Juni students give us confidence in Juni’s approach. Today, we’re both ex-Google employees, and founders of our own Silicon Valley tech company—these were our dreams, but they don’t have to be yours. <b> We believe that joyful learning will empower kids everywhere to discover, and then achieve whatever future they can dream of. </b></p>
+                <p>Our own experiences, as well as the inspiring stories from countless matic students give us confidence in matic’s approach. Today, we’re both ex-Google employees, and founders of our own Silicon Valley tech company—these were our dreams, but they don’t have to be yours. <b> We believe that joyful learning will empower kids everywhere to discover, and then achieve whatever future they can dream of. </b></p>
             </div>
         </div>
     </section>
@@ -143,7 +143,7 @@
         <div class="row text-left">
           <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">I love working with students and watching them grow!</b> </h1>
           <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">I’ve been teaching one of my students twice a week for over a year and a half - we’ve had over 123 sessions together. In that time, he has gone from not knowing a thing about computer science, to having a better grasp of advanced concepts than most of my peers in college!</h5>
-            <p class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important"><b  style="color:white !important">George O., Juni Instructor</b> <br> Juni Instructor, UCLA</p>
+            <p class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important"><b  style="color:white !important">George O., matic Instructor</b> <br> matic Instructor, UCLA</p>
       
         </div>
       </div>

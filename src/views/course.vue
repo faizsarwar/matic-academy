@@ -3,8 +3,8 @@
     <section class="pt-5 pb-5 bg-light text-left">
       <div class="row p-5">
         <div class="col">
-          <div class="row">
-            <h1><b>Python Level 2: Problem Solver</b></h1>
+          <div class="row pt-5">
+            <h1><b>   {{this.blog.tittle}}</b></h1>
             <div
               class="col-8 ml-0 mr-0"
               style="text-align: left; font-size: 14px"
@@ -12,11 +12,7 @@
               4.7 | Taken By 120,00 students
             </div>
             <p class="pt-5 pb-3">
-              Watch them level up while they build Blackjack and other games. In
-              this course, learners solve more complex programming problems and
-              progress through Python fundamentals. They’re on their way to
-              Python fluency. This 1:1 course features individualized lesson
-              planning.
+              {{this.blog.description}}
             </p>
           </div>
           <div class="row">
@@ -58,7 +54,9 @@
             </div>
           </div>
         </div>
-        <div class="col"></div>
+        <div class="col">
+          <img :src="blog.get_image" style="width: 100% ; background-size: 'cover' ; background-repeat: 'no=repeat';"  alt="">
+        </div>
       </div>
     </section>
 
@@ -177,13 +175,13 @@
                       >
                         <div class="col-6">
                           <div class="row pl-3">
-                            <h5><b> $250 </b></h5>
+                            <h5><b> ${{this.blog.price_per_month}} </b></h5>
                             / month
                           </div>
                         </div>
                         <div class="col"></div>
                         <div class="col2">
-                          4 classes / month × $62.50 / class
+                          {{this.blog.classes_per_month}} / month × ${{this.blog.price_per_month/this.blog.classes_per_month}} / class
                         </div>
                       </div>
 
@@ -259,10 +257,7 @@
                 <div class="card-body row text-left">
                   <!-- paragraph -->
                   <p>
-                    1:1 classes are 50 minutes long and can be scheduled anytime
-                    Monday-Sunday from 7am to 7pm PT. To begin, select Try a
-                    Free Class to signup. Our team will then match you and set
-                    up your first class!
+                    {{this.blog.learning_targets}}
                   </p>
 
                 </div>
@@ -321,10 +316,7 @@
                 <div class="card-body row text-left">
                   <!-- paragraph -->
                   <p>
-                    1:1 classes are 50 minutes long and can be scheduled anytime
-                    Monday-Sunday from 7am to 7pm PT. To begin, select Try a
-                    Free Class to signup. Our team will then match you and set
-                    up your first class!
+                    {{this.blog.scheduling}}
                   </p>
                   <div class="col-2">
                     <svg
@@ -344,7 +336,7 @@
                     </svg>
                   </div>
                   <div class="col-7">Course duration</div>
-                  <div class="col-3">4-6 months</div>
+                  <div class="col-3">{{this.blog.durantion_in_months}} months</div>
                   <div class="col-2 mt-2">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -360,7 +352,7 @@
                     </svg>
                   </div>
                   <div class="col-7 mt-2">Lesson</div>
-                  <div class="col-3 mt-2">50 minutes</div>
+                  <div class="col-3 mt-2">{{this.blog.total_duration_in_minutes}} minutes</div>
                 </div>
               </div>
             </div>
@@ -415,11 +407,7 @@
                 <div class="card-body row">
                   <!-- paragraph -->
                   <p>
-                    Instructors will assign students roughly 60 minutes of
-                    project related homework at the end of each session.
-                    Homework is designed to complement the class experience and
-                    ensure the student continues to gain practical experience
-                    outside of the session.
+                    {{this.blog.homework}}
                   </p>
                 </div>
               </div>
@@ -474,7 +462,7 @@
               >
                 <div class="card-body row">
                   <!-- paragraph -->
-                  <p>Completion of Python Level 1</p>
+                  <p> {{this.blog.pre_requisites}}</p>
                 </div>
               </div>
             </div>
@@ -487,13 +475,7 @@
         <div class="col">
           <!-- <img src="" alt=""> -->
           <p class="p-4 text-left">
-            Python Level 2 gives students the opportunity to apply their
-            knowledge to more complex coding problems. By the end of the course,
-            students will feel comfortable and confident using ciphers, sets,
-            conditional statements, and dictionaries to solve more difficult
-            coding challenges. With guidance from a personalized Juni
-            instructor, students will build exciting projects like their own
-            calculator, a text sentiment tool, and a virtual Blackjack game.
+            {{this.blog.description_2}}
           </p>
           <button
                 type=""
@@ -518,7 +500,7 @@
             class="col-lg text-left"
             style="text-align: center; color: black"
           >
-            <h1 class="pl-5"><b>Who are Juni’s Instructors?</b></h1>
+            <h1 class="pl-5"><b>Who are matic’s Instructors?</b></h1>
             <p class="pl-5 pb-2">
                 Our instructors are subject matter experts from top US universities. Instructors are highly-vetted and background checked prior to joining and undergo extensive training before ever teaching on our platform.
             </p>
@@ -541,7 +523,7 @@
     <section class="pt-5 pb-5 pl-4 pr-4 text-center">
       <div class="pt-5 pb-5 pl-4 pr-4 text-center">
         <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2">
-          <b>Start Learning with Juni</b>
+          <b>Start Learning with matic</b>
         </h1>
         <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2">
           Turn your child’s passion into a professional skill
@@ -566,29 +548,48 @@
   </div>
 </template>
 
+
 <script>
-// import HelloWorld from '@/components/HelloWorld.vue'
-// import HelloWorld from '@/components/blogs.vue'
+// ES6 Modules or TypeScript
+// import Loading from 'vue-loading-overlay'
+// import 'vue-loading-overlay/dist/vue-loading.css'
 import best_seller_slides from "../components/best-seller-slides.vue";
-// import testemonials from "../components/testemonials.vue";
-// import Faqs from "../components/Faqs.vue";
-// import compare_course from "../components/compare-course.vue";
-// import explore_more_topics from "../components/explore-more-topics.vue";
 
+import axios from 'axios'
 export default {
-  name: "course-1",
-  components: {
-    // HelloWorld
-    // blogs,
-    // testemonials,
-    // compare_course,
-    // explore_more_topics,
-    // Faqs,
-    best_seller_slides,
+  name: 'course-1',
+  data(){
+      return {
+          id: this.$route.params.courseId,
+          isLoading: true,
+          blog:{}
+      }
   },
-};
+  components: {
+    // Loading
+    best_seller_slides
+  },
+  mounted(){
+    this.getBlog()
+    // this.setDiscount()
+  },
+  methods:{
+      async getBlog() {
+        // this.$store.commit('setIsLoading', true)
+        // console.log(this.id)
+        await axios.get('/api/v1/Course/' + this.id)
+        .then(response=>{
+          this.blog=response.data[0]
+        })
+        .catch(error=>{
+            console.log(error)
+        })
+        // this.$store.commit('setIsLoading', false)
+        // this.isLoading=false
+      },
+  }
+}
 </script>
-
 <style scoped>
 .collections {
   background-size: cover;

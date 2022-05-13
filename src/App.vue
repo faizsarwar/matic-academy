@@ -363,10 +363,7 @@ document.addEventListener("DOMContentLoaded", function(){
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (max-width: 999px) {
-.seller-Card{
-    // height:400px;
-    
-}
+
 .card-img-top{
   height: 260px !important;
 }
@@ -532,24 +529,15 @@ nav {
         html {
           font-size: 100%;
         }
-        .footer-img{
-          /* width: 1326px; */
-        }
       }
       @media (max-width: 1200px) {
         html {
           font-size: 95%;
         }
-        .footer-img{
-          /* width: 1200px; */
-        }
       }
       @media (max-width: 1100px) {
         html {
           font-size: 90%;
-        }
-        .footer-img{
-          /* width: 1100px; */
         }
       }
       #footer {

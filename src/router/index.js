@@ -13,6 +13,11 @@ const routes = [
       component: () => import(/* webpackChunkName: "about" */ '../views/how_it_works.vue')
     },
     {
+      path: '/blogs/:blogId',
+      name: 'blog',
+      component: () => import('../views/blog.vue')
+    },
+    {
       path: '/instructors',
       name: 'instructors',
       component: () => import(/* webpackChunkName: "about" */ '../views/Instructors.vue')
@@ -103,7 +108,7 @@ const routes = [
       component: () => import(/* webpackChunkName: "about" */ '../views/about.vue')
     },
     {
-      path: '/course',
+      path: '/course/:courseId',
       name: 'course',
       component: () => import(/* webpackChunkName: "about" */ '../views/course.vue')
     },

@@ -14,25 +14,41 @@
 
     <section class="p-5">
         <div class="row">
-            <div class="col">
+           <div class="col-md-4 mb-3" v-for="blog in this.blogs" :key="blog.id">
+                    <div class="card seller-Card">
+                    <img :src= blog.get_image  class="card-img-top" alt="..."  style="height:300px">
+                      <div class="card-body">
+                        <!-- <div class="row" style="color:#466D1D;"> -->
+                          <!-- <div class="row"> -->
+                            <p class="card-title " style="text-align:center; color:#466D1D;"><strong> {{blog.tittle}}</strong></p>
+                          <!-- </div> -->
+                          <!-- <div class="row" > -->
+                          <!-- </div> -->
+                        <!-- </div> -->
+                          <a :href="'/blogs/' + blog.id " class="btn btn btn-success">Read More</a>
+
+                      </div>
+
+                    </div>
+                  </div>
+
+            <!-- <div class="col" v-for="blog in this.blogs" :key="blog.id">
                     <div class="card" style="">
                     <img
-                      src="../assets/img/placeholder.jpg"
+                      :src= blog.get_image
                       class="card-img-top p-3"
                       alt="..."
 
                     />
                     <div class="card-body seller-Card">
-                    <!-- <p class="mt-3 ml-4 pr-5" style=" ">
-                     <span class="px-4 py-2 "  style="border-radius: 9px; border-color: coral !important; color: rgb(0, 91, 172);">  Ages 8-18</span>
-                    </p> -->
+
                       <div class="row" style="color:#466D1D;">
                       <div class="row">
                       <p
                         class="card-title ml-5 mt-4"
                         style="text-align: center; color: #466d1d"
                       >
-                        <strong>Summer Tutoring Programs</strong>
+                        <strong>{{blog.tittle}}</strong>
                       </p>
                       </div>
                       <div class="row" >
@@ -46,94 +62,10 @@
                       </p>
                       </div>
                       </div>
-                      <!-- <a
-                        :href="'/products/' + item.id"
-                        class="btn btn btn-success"
-                        >Quick view</a
-                      > -->
                     </div>
                   </div>
-            </div>
-            <div class="col">
-                    <div class="card" style="">
-                    <img
-                      src="../assets/img/placeholder.jpg"
-                      class="card-img-top p-3"
-                      alt="..."
+            </div> -->
 
-                    />
-                    <div class="card-body seller-Card">
-                    <!-- <p class="mt-3 ml-4 pr-5" style=" ">
-                     <span class="px-4 py-2 "  style="border-radius: 9px; border-color: coral !important; color: rgb(0, 91, 172);">  Ages 8-18</span>
-                    </p> -->
-                      <div class="row" style="color:#466D1D;">
-                      <div class="row">
-                      <p
-                        class="card-title ml-5 mt-4"
-                        style="text-align: center; color: #466d1d"
-                      >
-                        <strong>Summer Tutoring Programs</strong>
-                      </p>
-                      </div>
-                      <div class="row" >
-                      <p
-                        class="card-text ml-3 mr-3 mb-4 pl-3 pr-3"
-                        style="text-align: center; color: #466d1d"
-                      >
-                        Lorem Ipsum is simply dummy text of the printing and
-                        typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s
-                      </p>
-                      </div>
-                      </div>
-                      <!-- <a
-                        :href="'/products/' + item.id"
-                        class="btn btn btn-success"
-                        >Quick view</a
-                      > -->
-                    </div>
-                  </div>
-            </div>
-            <div class="col">
-                    <div class="card" style="">
-                    <img
-                      src="../assets/img/placeholder.jpg"
-                      class="card-img-top p-3"
-                      alt="..."
-
-                    />
-                    <div class="card-body seller-Card">
-                    <!-- <p class="mt-3 ml-4 pr-5" style=" ">
-                     <span class="px-4 py-2 "  style="border-radius: 9px; border-color: coral !important; color: rgb(0, 91, 172);">  Ages 8-18</span>
-                    </p> -->
-                      <div class="row" style="color:#466D1D;">
-                      <div class="row">
-                      <p
-                        class="card-title ml-5 mt-4"
-                        style="text-align: center; color: #466d1d"
-                      >
-                        <strong>Summer Tutoring Programs</strong>
-                      </p>
-                      </div>
-                      <div class="row" >
-                      <p
-                        class="card-text ml-3 mr-3 mb-4 pl-3 pr-3"
-                        style="text-align: center; color: #466d1d"
-                      >
-                        Lorem Ipsum is simply dummy text of the printing and
-                        typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s
-                      </p>
-                      </div>
-                      </div>
-                      <!-- <a
-                        :href="'/products/' + item.id"
-                        class="btn btn btn-success"
-                        >Quick view</a
-                      > -->
-                    </div>
-                  </div>
-            </div>
         </div>
     </section>
 
@@ -143,28 +75,36 @@
 </template>
 
 <script>
-// import HelloWorld from '@/components/HelloWorld.vue'
-// import HelloWorld from '@/components/blogs.vue'
-// import best_seller_slides from "../components/best-seller-slides.vue";
-// import testemonials from '../components/testemonials.vue'
-// import Faqs from '../components/Faqs.vue'
-// import compare_course from "../components/compare-course.vue";
-// import explore_more_topics from "../components/explore-more-topics.vue";
-
+import axios from 'axios'
 export default {
-  name: "blog-1",
+  name: "blogs-1",
+  data() {
+    return {
+      blogs: [],
+      isLoading:true
+    };
+  },
   components: {
-    // HelloWorld
-    // blogs,
-    // testemonials,
-    // compare_course,
-    // explore_more_topics,
-    // Faqs,
-    // best_seller_slides,
+        // Loading
+    },
+  mounted() {
+    this.getBlogs();
+  },
+  methods: {
+    getBlogs() {
+      axios
+        .get("/api/v1/Blogs/")
+        .then((response) => {
+          this.blogs = response.data;
+        })
+        .catch((error) => {
+          console.log(error);
+        });
+        this.isLoading=false
+    },
   },
 };
 </script>
-
 <style scoped>
 .collections {
   background-size: cover;
