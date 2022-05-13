@@ -1,7 +1,7 @@
 <template>
     <div>
       <section >
-        <img :src="blog.image" style="width: 100% ; background-size: 'cover' ; background-repeat: 'no=repeat'; height:80%" >
+        <img :src="blog.get_image" style="width: 100% ; background-size: 'cover' ; background-repeat: 'no=repeat'; height:80%" >
       </section>    
       <h1 class="heading mt-5 mb-5">
             {{this.blog.tittle}}
