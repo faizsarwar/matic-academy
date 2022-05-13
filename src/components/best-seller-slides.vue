@@ -43,7 +43,7 @@
                     <a href="/course">
                                         <div class="card" style="">
                     <img
-                      :src= blog.get_image
+                      :src= blog.image
                       class="card-img-top"
                       alt="..."
 
