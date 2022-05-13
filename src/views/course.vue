@@ -55,7 +55,7 @@
           </div>
         </div>
         <div class="col">
-          <img :src="blog.get_image" style="width: 100% ; background-size: 'cover' ; background-repeat: 'no=repeat';"  alt="">
+          <img :src="blog.image" style="width: 100% ; background-size: 'cover' ; background-repeat: 'no=repeat';"  alt="">
         </div>
       </div>
     </section>
