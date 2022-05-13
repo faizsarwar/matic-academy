@@ -16,7 +16,7 @@
         <div class="row">
            <div class="col-md-4 mb-3" v-for="blog in this.blogs" :key="blog.id">
                     <div class="card seller-Card">
-                    <img :src= blog.image  class="card-img-top" alt="..."  style="height:300px">
+                    <img :src= blog.get_image  class="card-img-top" alt="..."  style="height:300px">
                       <div class="card-body">
                         <!-- <div class="row" style="color:#466D1D;"> -->
                           <!-- <div class="row"> -->
