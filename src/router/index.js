@@ -112,6 +112,26 @@ const routes = [
       name: 'course',
       component: () => import(/* webpackChunkName: "about" */ '../views/course.vue')
     },
+    {
+      path: '/Learnosteam',
+      name: 'Learnosteam',
+      component: () => import(/* webpackChunkName: "about" */ '../views/Learnosteam.vue')
+    },
+    {
+      path: '/diy-kits',
+      name: 'diy-kits',
+      component: () => import(/* webpackChunkName: "about" */ '../views/diy-kits.vue')
+    },
+    {
+      path: '/makerspace',
+      name: 'makerspace',
+      component: () => import(/* webpackChunkName: "about" */ '../views/makerspace.vue')
+    },
+    {
+      path: '/coding-for-kids',
+      name: 'coding-for-kids',
+      component: () => import(/* webpackChunkName: "about" */ '../views/coding-for-kids.vue')
+    },
 ]  
 
 

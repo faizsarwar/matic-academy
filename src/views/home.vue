@@ -245,7 +245,7 @@
     </div>
   </section>
 
-  <section class="pt-5 pb-5" style="background-color:#5a3cf0">
+  <section class="pt-5 pb-5" style="background-color:#A2469a">
       <h1 class="mt-4 mb-4"><b style="color:white !important">All Matic Courses Include:</b></h1>
       <div class="row pl-4 pr-4" >
         <div class="col-3">

@@ -60,6 +60,18 @@
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/bootcamps"><strong>Bootcamp</strong> <p>small groups short courses with live instructions</p> </a>
         </div>
       </li>
+      <li class="nav-item mr-3 ml-3  dropdown" >
+        <a class=" " style="color:#0b0970; " href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          For Schools
+        </a>
+        <div class="dropdown-menu"  aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/Learnosteam"><strong>Learnosteam</strong>  </a>
+          <a class="dropdown-item  mb-4 ml-2 mr-2" href="/makerspace"><strong>Makerspace</strong>  </a>
+          <a class="dropdown-item  mb-4 ml-2 mr-2" href="#"><strong>STEAM CAMPS</strong> </a>
+          <a class="dropdown-item  mb-4 ml-2 mr-2" href="/diy-kits"><strong>Diy Kits</strong>  </a>
+          <a class="dropdown-item  mb-4 ml-2 mr-2" href="/coding-for-kids"><strong>CODING FOR KIDS</strong> </a>
+        </div>
+      </li>
       <li class="nav-item mr-3 ml-3 mr-2 ">
         <a class="" style="color:#0b0970" href="/how-it-works">How It Works</a>
       </li>
@@ -104,7 +116,7 @@
     </section>
 
     <!-- Footer -->
-    <footer class="font-small footer " style="background-color: #211ea6">
+    <footer class="font-small footer " style="background-color:#231F20">
       <!-- Footer Links -->
       <div class=" text-center text-md-left pt-5 pb-5" style="color: white">
         <!-- Grid row -->
@@ -260,7 +272,7 @@
         class="ml-5"
       /> -->
       <!-- Copyright -->
-      <div class="footer-copyright pl-5 pt-3" style="color: white; background-color: #0b0970">
+      <div class="footer-copyright pl-5 pt-3" style="color: white; background-color: #A2469A">
         Copyright © 2022 matic Learning. All rights reserved.
       </div>
       <!-- Copyright -->
