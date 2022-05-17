@@ -1,8 +1,8 @@
 <template>
     <div>
 
-    <section class="pt-5 pb-5" style="background-color: #3a0078;color:white">
-      <div class="row mt-4 mb-4 ml-4 mr-3 text-left">
+    <section class="" style="background-color: #3a0078;color:white">
+      <div class="row mt-4 mb-4 ml-4  text-left">
         <div class="col-lg">
           <h1 class="ml-4 pr-5 pt-5 pb-5"><b style="color:white !important">Coding for Kids</b></h1>
           <p class="mt-3 ml-4 pr-5" style=" ">
@@ -20,7 +20,9 @@
         </div>
 
         <div class="col-lg">
-          <!-- img here -->
+        <div class="">
+                  <img src="../assets/img/placeholder4.jpg" alt="" class="" style="width:100%;">
+        </div>
         </div>
       </div>
     </section>

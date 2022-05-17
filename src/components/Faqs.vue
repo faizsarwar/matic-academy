@@ -20,7 +20,7 @@
           >
             <div
               class="card-header"
-              id="heading1"
+              :id="'heading'+item.id"
               style="background-color: white !important"
             >
               <h5 class="mb-0">
@@ -34,9 +34,9 @@
                     no-underline
                   "
                   data-toggle="collapse"
-                  data-target="#collapse1"
+                  :data-target="'#collapse'+item.id"
                   aria-expanded="true"
-                  aria-controls="collapse1"
+                  :aria-controls="'collapse'+item.id"
                   style="color: black"
                 >
                   <div>
@@ -60,10 +60,7 @@
               </h5>
             </div>
             <div
-              id="collapse1"
-              class="collapse"
-              aria-labelledby="heading1"
-              data-parent="#accordion"
+:id="'collapse'+item.id" class="collapse " :aria-labelledby="'heading'+item.id" data-parent="#accordion"
             >
               <div class="card-body row">
                 <!-- paragraph -->

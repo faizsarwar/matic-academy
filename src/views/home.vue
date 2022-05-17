@@ -24,7 +24,7 @@
           </div>
         </div>
         <div class="col-lg">
-          <img src="../assets/img/placeholder.jpg" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
+          <img src="../assets/img/c.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
         </div>
       </div>
     </div>
@@ -80,7 +80,7 @@
 
   <compare_course/>
 
-  <section class="pt-5 pb-5">
+  <section class=" pb-5">
     <div class="row"> 
       <div class="col-6">
         <!-- First Tick -->
@@ -118,9 +118,11 @@
           <p class="mt-5 mb-5 ml-5">Matic's community is dedicated to supporting your child's education journey by offering out-of-class opportunities like Matic Clubs, Instructor office hours, and project shares.</p>
         </div>
       </div>
-      <!-- <div class="col-6">
-        <img src="../assets/img/placeholder3.jpeg" alt=""  style="width:100%;">
-      </div> -->
+      <div class="col-6">
+        <div class="pt-5">
+                  <img src="../assets/img/a.png" alt=""  style="width:100%;">
+        </div>
+      </div>
     </div>
   </section>
 
@@ -354,13 +356,15 @@
       </div>
   </section>
 
-  <section class="pt-5 pb-5">
+  <section class=" pb-5">
     <div class="row">
       <div class="col-lg">
-        <!-- image here -->
+        <div class="">
+          <img src="../assets/img/b.png" alt=""  style="width:100%;">
+        </div>
       </div>
       <div class="col-lg text-left">
-        <div class="ml-3 mr-5">
+        <div class="ml-3 mr-5 mt-5">
           <h2 ><b>Matic's Learner Portal</b></h2>
           <div class="mt-4">
             <p><b>Simple course management and progress tracking for our parents.</b></p>

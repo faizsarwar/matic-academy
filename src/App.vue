@@ -67,7 +67,7 @@
         <div class="dropdown-menu"  aria-labelledby="navbarDropdownMenuLink">
           <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/Learnosteam"><strong>Learnosteam</strong>  </a>
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/makerspace"><strong>Makerspace</strong>  </a>
-          <a class="dropdown-item  mb-4 ml-2 mr-2" href="#"><strong>STEAM CAMPS</strong> </a>
+          <a class="dropdown-item  mb-4 ml-2 mr-2" href="/steam-camp"><strong>STEAM CAMPS</strong> </a>
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/diy-kits"><strong>Diy Kits</strong>  </a>
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/coding-for-kids"><strong>CODING FOR KIDS</strong> </a>
         </div>
@@ -86,7 +86,7 @@
           <a class="dropdown-item mt-4 mb-4 ml-2 mr-2" href="/review"> <strong>Reviews</strong> </a>
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/projects"><strong>Student Projects</strong> </a>
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/gift"><strong>Gift Cards</strong> </a>
-          <a class="dropdown-item mb-4 ml-2 mr-2" href="#"><strong> Homeschool</strong></a>
+          <!-- <a class="dropdown-item mb-4 ml-2 mr-2" href="#"><strong> Homeschool</strong></a> -->
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/employeers"><strong>matic for Employeers</strong> </a>
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/blogs"><strong>Blogs</strong> </a>          
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/help"><strong> Help Center & FAQ</strong></a>          

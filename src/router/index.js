@@ -132,6 +132,11 @@ const routes = [
       name: 'coding-for-kids',
       component: () => import(/* webpackChunkName: "about" */ '../views/coding-for-kids.vue')
     },
+    {
+      path: '/steam-camp',
+      name: 'steam-camp',
+      component: () => import(/* webpackChunkName: "about" */ '../views/steam-camp.vue')
+    },
 ]  
 
 
