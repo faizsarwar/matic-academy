@@ -11,9 +11,7 @@
            <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 7-18</span>
           </p>
             <p class="ml-4 pr-5 mt-3 mb-3" style="color:white !important">
-                Expand your learner's skills in communication, creative thinking, and
-                self-expression with a range of highly engaging and hands-on classes.
-            </p>
+The most popular classes for kids looking to learn more about communication, creativity and self-expression are now available at your local Language Arts & Communications School. Whether you're just beginning or want a fresh outlook on life from the perspective of an experienced learner these courses will expand upon what's been learned in previous years while adding new skills that have never before been covered! Get started today by checking out our online catalog which features many hands-on learning opportunities like journalism papers/projects; videos created using editing software such as Avid Media Composer , animation tutorials etc.            </p>
 
             <!--button  -->
             <div class="mt-5">

@@ -94,7 +94,7 @@ our top instructors.
                             class="btn btn-success btn-lg"
                             style="
                             height: 65px;
-                            width: 200px;
+                            width: 170px;
                             border-radius: 12px;
                             font-size: 16px;
                             "

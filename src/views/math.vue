@@ -12,9 +12,7 @@
            <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 7-18</span>
           </p>
             <p class="ml-4 pr-5 mt-3 mb-3" style="color:white !important">
-                Experience our expert-designed online math curriculum. matic nurtures
-                learners' math skills with hands-on lessons that go beyond memorization
-                and keeps kids excited to learn.
+Junior offers math courses for kids aged 7-18. These online lessons are designed by experts and go beyond memorization and keep students excited to learn, with a hands-on approach that will make them successful in the subject they love most - mathematics!
             </p>
 
             <!--button  -->

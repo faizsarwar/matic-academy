@@ -40,8 +40,7 @@
               <div class="carousel-item active">
                 <div class="row seller-Card">
                   <div class="col-md-4 mb-3"  v-for="blog in this.blogs" :key="blog.id">
-                    <a href="/course">
-                                        <div class="card" style="">
+                                                          <div class="card" style="">
                     <img
                       :src= blog.image
                       class="card-img-top"
@@ -76,7 +75,7 @@
                       <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
                     </div>
                   </div>
-                    </a>
+                    
                   </div>
                 </div>
               </div>

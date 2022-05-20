@@ -11,8 +11,7 @@
           <p class="mt-3 ml-4 pr-5" style=" ">
            <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 9-18</span>
           </p>
-            <p class="ml-4 pr-5 mt-2" style="color:white !important">Introduce your child to the finance and business skills that will last a
-lifetime and prepare them for the real world.
+            <p class="ml-4 pr-5 mt-2" style="color:white !important">Take your child on a journey of financial education, where they will learn how to be an entrepreneur in the future. Introduce them with topics such as finance and investing for beginners or teach Concepts like compound interest! These courses offer invaluable skills that can help shape any young person’s life - giving you peace-of mind knowing they are prepared for making decisions about their own professions in the future
             </p>
 
             <!--button  -->

@@ -1,8 +1,8 @@
 <template>
     <div>
 
-    <section class="pt-2 pb-5" >
-      <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
+    <section class="pt-2 pb-3" >
+      <div class="row mt-2 mb-2 ml-4 mr-3 text-left">
         <div class="col-lg">
           <h1 class="ml-4 pr-5 pt-5 "><b style=""> LearnOSTEAM: COMPREHENSIVE ONLINE STEAM EDUCATION
             PLATFORM FOR SCHOOLS
@@ -21,23 +21,26 @@
         </div>
 
         <div class="col-lg">
-          <!-- img here -->
+          <img src="../assets/img/1.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
+
         </div>
       </div>
     </section>
 
 
-    <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
-        <div class="p-5 " style="border-radius:35px;background-color:#A2469A">
-            <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
+    <section class="pt-3 pb-3 pl-4 pr-4 mb-5 text-center" >
+        <div class=" " style="border-radius:35px;background-color:#A2469A">
+            <div class="row mt-2 mb-4  mr-3 text-left">
 
                 <div class="col-lg">
-                <!-- img here -->
+                  <img src="../assets/img/2.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
                 </div>
                 <div class="col-lg">
-                    <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Teach through experiential activities
+                  <div class="ml-4 pr-5 pt-5 mt-5">
+                    <h1 class="ml-4 mt-5 pr-5 pt-5 "><b style="color:white !important"> Teach through experiential activities
                         </b>
                     </h1>
+                  </div>
                     <p class="ml-4 pr-5 mt-5" style="color:white !important">Introduce students to the wonderful world of STEAM and incorporate play-based learning for an engaging experience.
                     </p>
 
@@ -54,17 +57,21 @@
     </section>
 
 
-    <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
-        <div class="p-5 " style="border-radius:35px;background-color:#4cbd94">
-            <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
+    <section class="pt-3 pb-3 pl-4 pr-4 mb-5 text-center" >
+        <div class="" style="border-radius:35px;background-color:#4cbd94">
+            <div class="row mt-2 mb-4  mr-3 text-left">
 
                 <div class="col-lg">
-                <!-- img here -->
+                  <img src="../assets/img/3.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
+       
                 </div>
-                <div class="col-lg">
-                    <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Train through immersive simulators
+                <div class="col-lg pt-5">
+                  <div class="ml-4 pr-5 pt-5 mt-5">
+                    <h1 class="ml-4 pr-5 pt-5 mt-5"><b style="color:white !important"> Train through immersive simulators
                         </b>
                     </h1>
+                  </div>
+
                     <p class="ml-4 pr-5 mt-5" style="color:white !important">Combine learning with our hardware simulators and save costs on expensive robotics kits.
                     </p>
 
@@ -80,17 +87,20 @@
         </div>
     </section>
 
-    <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
-        <div class="p-5 " style="border-radius:35px;background-color:#FED01F">
-            <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
+    <section class="pt-3 pb-3 pl-4 pr-4 mb-5 text-center" >
+        <div class=" " style="border-radius:35px;background-color:#FED01F">
+            <div class="row mt-2 mb-4  mr-3 text-left">
 
                 <div class="col-lg">
-                <!-- img here -->
+                  <img src="../assets/img/4.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
                 </div>
                 <div class="col-lg">
-                    <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">STEAM enablement through curriculum designed by experts
+                  <div class="ml-4 pr-5 pt-3 mt-5">
+                    <h1 class="ml-4 pr-5  "><b style="color:white !important">STEAM enablement through curriculum designed by experts
                         </b>
                     </h1>
+                  </div>
+
                     <p class="ml-4 pr-5 mt-5" style="color:white !important">Learn 21st century skills through our robust, trainer-independent STEAM curriculum.
                     </p>
 
@@ -111,8 +121,8 @@
         <div class="p-5 " style="border-radius:35px;background-color:#231F20">
             <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
 
-                <div class="col-lg">
-                <!-- img here -->
+                <div class="col-lg pt-5">
+                  <img src="../assets/img/5.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
                 </div>
                 <div class="col-lg">
                     <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">Analyze and manage student learning
@@ -134,16 +144,19 @@
     </section>
 
     <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
-        <div class="p-5 " style="border-radius:35px;background-color:#A2469A">
-            <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
+        <div class=" " style="border-radius:35px;background-color:#A2469A">
+            <div class="row mt-2 mb-4  mr-3 text-left">
 
                 <div class="col-lg">
-                <!-- img here -->
+                  <img src="../assets/img/6.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
+               
                 </div>
                 <div class="col-lg">
+                  <div class="ml-4 pr-5 pt-3 mt-5">
                     <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> No teacher training required
                         </b>
                     </h1>
+                  </div>
                     <p class="ml-4 pr-5 mt-5" style="color:white !important">Automated learning enabling school teachers without STEAM expertise to teach.
                     </p>
 

@@ -11,9 +11,7 @@
           <p class="mt-3 ml-4 pr-5" style=" ">
            <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 8-18</span>
           </p>
-            <p class="ml-4 pr-5 mt-2" style="color:white !important">Bring out your child's inner scientist with fun,
-                project-driven classes in physics, chemistry,
-                biology, and more!
+            <p class="ml-4 pr-5 mt-2" style="color:white !important">Online Science Classes for Kids (AGES 8-18) Bring out your child's inner scientist with fun, project-driven classes in physics, chemistry, biology, and more.
             </p>
 
             <!--button  -->
