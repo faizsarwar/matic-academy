@@ -35,32 +35,32 @@
 
   <section style="background-color: #e6f7f6">
       <!-- <h1>hiii</h1> -->
-      <div class="row  pt-4 pb-4">
-          <div class="col mb-4 mt-4 ml-4">
+      <div class="row  p-4">
+          <div class="col m-4">
               <h5> Featured In - </h5>
           </div>
-          <div class="col mb-4 mt-4 ">
+          <div class="col m-4 ">
                <img src="../assets/img/website-logos/fast-co-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
+          <div class="col m-4">
                 <img src="../assets/img/website-logos/TC-01.png" alt="" width="100%" style="background-size:contain; background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
+          <div class="col m-4">
                <img src="../assets/img/website-logos/fortune-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
+          <div class="col m-4">
                <img src="../assets/img/website-logos/forbes-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
+          <div class="col m-4">
                <img src="../assets/img/website-logos/WSJ-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
+          <div class="col m-4">
                <img src="../assets/img/website-logos/bloomberg-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
+          <div class="col m-4">
                 <img src="../assets/img/website-logos/yahho-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4 mr-4">
+          <div class="col m-4">
                 <img src="../assets/img/website-logos/AP-01.png" alt="" width="100%" style="background-size:contain;   background-repeat: no-repeat; text-align: center;">
           </div>
 

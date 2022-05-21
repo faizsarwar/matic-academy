@@ -79,29 +79,30 @@
             </div>
         </div>
     </section>
-
-    <section class="pt-5 pb-5" style="background-color:#5a3cf0">
-      <div class="row">
-        <div class="col-4">
-             <img src="../assets/img/professional.png" alt="" class="ml-5 mr-3 mt-5  " style="background-size:contain; width:390px;height:370px; background-repeat: no-repeat; text-align: center;border-radius:50%">
-        </div>
-        <div class="col-8" style="text-align: center;" >
-          <div class="row">
-            <div class="ml-5 mr-4 mb-0">
-              <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#a195de" class="bi bi-quote" viewBox="0 0 16 16">
-                <path d="M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 9 7.558V11a1 1 0 0 0 1 1h2Zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 3 7.558V11a1 1 0 0 0 1 1h2Z"/>
-              </svg>
-            </div>
+  <section class="pt-5 pb-5" style="background-color:#5a3cf0">
+    <div class="row">
+      <div class="col-4 pt-5">
+           <img src="../assets/img/professional.png" alt="" class="ml-5 mr-3 mt-5  " style="background-size:contain; width:100%; background-repeat: no-repeat; text-align: center;border-radius:50%">
+      </div>
+      <div class="col-8" style="text-align: center;" >
+        <div class="col-lg">
+          <div class="ml-5 mr-4 mb-0">
+            <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#a195de" class="bi bi-quote" viewBox="0 0 16 16">
+              <path d="M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 9 7.558V11a1 1 0 0 0 1 1h2Zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 3 7.558V11a1 1 0 0 0 1 1h2Z"/>
+            </svg>
           </div>
-          <div class="row text-left">
+        </div>
+        <div class="col-lg text-left">
             <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">As a trained engineer myself, I was keen for my children to learn how to code. matic has created a great learning environment to do just that.</b> </h1>
             <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">My hope with matic was to advance my kids’ interest and exposure to coding. I’ve found that my kids quickly identify with their matic Instructors, and they tend to ask a lot of questions and remain excited about coding.</h5>
             <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Tim B., matic Parent Former Chief Product Officer At Yahoo And CEO At QuestBridge</h5>
-
-          </div>
+      
         </div>
       </div>
-    </section>
+    </div>
+  </section>
+
+
 
         <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center">
         <div class="pl-5 pr-5 pt-5 pb-5">
@@ -337,4 +338,17 @@ li {
 .card-body{
   overflow-x:hidden;
 }
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  h1,h2,h3,h4,h5 {
+    font-size: 15px;
+  }
+   
+  .card-img-top,.card-dissapear{
+    display:none;
+  }
+
+}
+
 </style>

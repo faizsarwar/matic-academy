@@ -5,9 +5,9 @@
 
         <!-- Card row -->
       <div class="row mt-5 mb-4 ml-5 mr-5" >
-        <div class="col no-overflow" style="text-align:left">
+        <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card3.jpeg') + ')' }"> -->
-            <div class="card-body bg-light"> 
+            <div class="card-body mb-4 bg-light"> 
               <h2 class="card-title m-3" ><b>Coding</b></h2>
               <p class="card-text m-4" > Our world is increasingly powered by code. Give your child access to the languages of the future.</p>
               <!-- <a href="/categories/anasazi_gold_swag" class="btn btn btn-success">View Products</a> -->
@@ -18,9 +18,9 @@
           <!-- </div> -->
         </div>
 
-        <div class="col no-overflow" style="text-align:left">
+        <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card4.jpeg') + ')' }"> -->
-            <div class="card-body no-overflow bg-light" >
+            <div class="card-body  no-overflow1 bg-light" >
               <h2 class="card-title m-3" ><b>Investing</b></h2>
               <p class="card-text m-4" >Money skills are life skills. Teach your child the fundamentals of money and business.</p>
               <!-- <a href="/categories/human_consumable" class="btn btn btn-success">View Products</a> -->
@@ -35,9 +35,9 @@
 
         <!-- Card row -->
       <div class="row mt-3 mb-4 ml-5 mr-5" >
-        <div class="col no-overflow" style="text-align:left">
+        <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card3.jpeg') + ')' }"> -->
-            <div class="card-body bg-light"> 
+            <div class="card-body mb-4 bg-light"> 
               <h2 class="card-title m-3" ><b>Communications</b></h2>
               <p class="card-text m-4" > The most successful people are often the best storytellers. Learn skills from creative thinking to public speaking.
 
@@ -50,9 +50,9 @@
           <!-- </div> -->
         </div>
 
-        <div class="col no-overflow" style="text-align:left">
+        <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card4.jpeg') + ')' }"> -->
-            <div class="card-body no-overflow bg-light" >
+            <div class="card-body  no-overflow1 bg-light" >
               <h2 class="card-title m-3" ><b>Maths </b></h2>
               <p class="card-text m-4" >Matic's take on a classic. Math is a fundamental skill for understanding the world and learning to think critically.</p>
               <!-- <a href="/categories/human_consumable" class="btn btn btn-success">View Products</a> -->
@@ -66,9 +66,9 @@
 
       <!-- Card row -->
       <div class="row mt-3 mb-4 ml-5 mr-5" >
-        <div class="col no-overflow" style="text-align:left">
+        <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card3.jpeg') + ')' }"> -->
-            <div class="card-body bg-light"> 
+            <div class="card-body mb-4 bg-light"> 
               <h2 class="card-title m-3" ><b>Scientist</b></h2>
               <p class="card-text m-4" > Bring out your child's inner scientist with fundamental skills for understanding the world.</p>
               <!-- <a href="/categories/anasazi_gold_swag" class="btn btn btn-success">View Products</a> -->
@@ -79,9 +79,9 @@
           <!-- </div> -->
         </div>
 
-        <div class="col no-overflow" style="text-align:left">
+        <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card4.jpeg') + ')' }"> -->
-            <div class="card-body no-overflow bg-light" >
+            <div class="card-body  no-overflow1 bg-light" >
               <h2 class="card-title m-3" ><b>Explore By Class Format </b></h2>
               <p class="card-text m-4" >View courses by format or filter for yourself in our course explorer.</p>
               <!-- <a href="/categories/human_consumable" class="btn btn btn-success">View Products</a> -->
@@ -111,3 +111,12 @@ export default {
 }
 
 </script>
+
+<style scoped>
+.no-overflow1{
+  overflow-y:hidden
+}
+.card-text{
+  visibility: visible;
+}
+</style>

@@ -26,7 +26,7 @@
         <h1><b> Trending Projects</b></h1>
         <div class="pt-5">
         <div class="row ">
-          <div class="col">
+          <div class="col-lg">
             <div class="card" style="">
               <div class="card-body text-left seller-Card">
                 <!-- <p class="mt-3 ml-4 pr-5" style=" ">
@@ -74,7 +74,7 @@
               </div>
             </div>
           </div>
-          <div class="col">
+          <div class="col-lg">
             <div class="card" style="">
               <div class="card-body text-left seller-Card">
                 <!-- <p class="mt-3 ml-4 pr-5" style=" ">
@@ -122,7 +122,7 @@
               </div>
             </div>
           </div>
-          <div class="col">
+          <div class="col-lg">
             <div class="card" style="">
               <div class="card-body text-left seller-Card">
                 <!-- <p class="mt-3 ml-4 pr-5" style=" ">
@@ -172,7 +172,7 @@
           </div>
         </div>
                 <div class="row mt-3">
-          <div class="col">
+          <div class="col-lg">
             <div class="card" style="">
               <div class="card-body text-left seller-Card">
                 <!-- <p class="mt-3 ml-4 pr-5" style=" ">
@@ -220,7 +220,7 @@
               </div>
             </div>
           </div>
-          <div class="col">
+          <div class="col-lg">
             <div class="card" style="">
               <div class="card-body text-left seller-Card">
                 <!-- <p class="mt-3 ml-4 pr-5" style=" ">
@@ -268,7 +268,7 @@
               </div>
             </div>
           </div>
-          <div class="col">
+          <div class="col-lg">
             <div class="card" style="">
               <div class="card-body text-left seller-Card">
                 <!-- <p class="mt-3 ml-4 pr-5" style=" ">

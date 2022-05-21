@@ -12,7 +12,7 @@
 
       <div class="m-5">
         <div class="row">
-          <div class="col m-2">
+          <div class="col-lg m-2">
             <div class="card" >
               <div class="card-body seller-Card" style="overflow-x :hidden">
                 <div class="p-4 text-left">
@@ -28,7 +28,7 @@
               </div>
             </div>
           </div>
-          <div class="col m-2">
+          <div class="col-lg m-2">
             <div class="card" >
               <div class="card-body seller-Card" style="overflow-x :hidden">
                 <div class="p-4 text-left">
@@ -44,7 +44,7 @@
               </div>
             </div>
           </div>
-          <div class="col m-2">
+          <div class="col-lg m-2">
             <div class="card" >
               <div class="card-body seller-Card" style="overflow-x :hidden">
                 <div class="p-4 text-left">

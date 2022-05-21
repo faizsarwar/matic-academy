@@ -333,9 +333,9 @@ document.addEventListener("DOMContentLoaded", function(){
 }
 /* max 1250 or less */
 @media only screen and (max-width: 1250px) {
-  .card-text{
-    display:none;
-  }
+  // .card-text{
+  //   display:none;
+  // }
 }
 @media only screen and (max-width: 770px) {
   .product-img{
@@ -730,4 +730,14 @@ nav {
           height:50%
         }
       }
+      
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  h1,h2,h3,h4,h5 {
+    font-size: 15px;
+  }
+  //   .card-img-top, .card-body, .seller-Card{
+  //   height: 200px
+  // }
+}
 </style>

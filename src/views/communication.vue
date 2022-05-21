@@ -2,8 +2,8 @@
     <div>
 
     <section class="pt-2 pb-5" style="background-color: #3a0078;color:white">
-      <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
-        <div class="col-lg">
+      <div class="row mt-2 mb-4  text-left">
+        <div class="col-lg ml-4 mr-3">
           <h1 class="ml-4 pr-5 pt-5 mt-5"><b style="color:white !important">Communications & Language Arts Courses for Kids
             </b>
           </h1>
@@ -224,7 +224,7 @@ The most popular classes for kids looking to learn more about communication, cre
         <h1 class="pt-5 pb-4"><b>See some of our students' business projects</b></h1>
         <div class="row p-5">
 
-                    <div class="col">
+                    <div class="col-lg">
                       <div class="card" style="border-radius:15px">
                     <img
                       src="../assets/img/placeholder.jpg"
@@ -249,7 +249,7 @@ The most popular classes for kids looking to learn more about communication, cre
                     </div>
                   </div>
           </div>
-                    <div class="col">
+                    <div class="col-lg">
      <div class="card" style="border-radius:15px">
                     <img
                       src="../assets/img/placeholder.jpg"

@@ -3,7 +3,7 @@
     <h1 class="mt-4 mb-4"><b>  Compare course formats for your learner </b></h1>
 
     <div class="row pt-5 pl-5 pr-5">
-      <div class="col-4">
+      <div class="col-lg">
         <img src="../assets/img/icon1.jpg" alt="" class="circular--square" style="width:300px;">
         <h3 class="mt-4"><b> Private 1:1 </b></h3>
         <div class="m-4 " style="text-align:left">
@@ -21,7 +21,7 @@
         </div>
       </div>
 
-      <div class="col-4">
+      <div class="col-lg">
         <img src="../assets/img/icon1.jpg" alt="" class="circular--square" style="width:300px;">
         <h3 class="mt-4"><b>On-Demand</b></h3>
         <div class="m-4 " style="text-align:left">
@@ -42,7 +42,7 @@
         </div>
       </div>
       
-      <div class="col-4">
+      <div class="col-lg">
         <img src="../assets/img/icon1.jpg" alt="" class="circular--square" style="width:300px;">
         <h3 class="mt-4"><b>Bootcamps</b></h3>
         <div class="m-4 " style="text-align:left">

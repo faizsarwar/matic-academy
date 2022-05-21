@@ -2,8 +2,8 @@
     <div>
 
     <section class="pt-2 pb-5" style="background-color: #3a0078;color:white">
-      <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
-        <div class="col-lg">
+      <div class="row mt-2 mb-4   text-left">
+        <div class="col-lg ml-4 mr-3">
           <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">Finance, Investing, and Entrepreneurship
             Courses for Kids
             </b>
@@ -51,7 +51,7 @@
     </section>
 
 
-    <section class="pt-5 pb-5">
+    <section class="p-5">
         <h1><b> Find an online coding class that fits your schedule & needs</b></h1>
         <p>Online learning tailored to you. Get matched with a vetted instructor who fits your learning style & interests and dive deep into our most popular courses in private 1:1 classes.</p>
         <best_seller_slides/>
@@ -214,7 +214,7 @@
       <section class="pt-5 pb-5" style="background-color:#f2f8fa">
         <h1 class="pt-5 pb-4"><b>See some of our students' business projects</b></h1>
         <div class="row p-5">
-          <div class="col">
+          <div class="col-lg">
      <div class="card" style="border-radius:15px">
                     <img
                       src="../assets/img/placeholder.jpg"
@@ -239,7 +239,7 @@
                     </div>
                   </div>
           </div>
-                    <div class="col">
+                    <div class="col-lg">
                       <div class="card" style="border-radius:15px">
                     <img
                       src="../assets/img/placeholder.jpg"
@@ -264,7 +264,7 @@
                     </div>
                   </div>
           </div>
-                    <div class="col">
+                    <div class="col-lg">
      <div class="card" style="border-radius:15px">
                     <img
                       src="../assets/img/placeholder.jpg"

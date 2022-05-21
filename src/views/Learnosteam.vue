@@ -2,9 +2,9 @@
     <div>
 
     <section class="pt-2 pb-3" >
-      <div class="row mt-2 mb-2 ml-4 mr-3 text-left">
-        <div class="col-lg">
-          <h1 class="ml-4 pr-5 pt-5 "><b style=""> LearnOSTEAM: COMPREHENSIVE ONLINE STEAM EDUCATION
+      <div class="row mt-2 mb-2  text-left">
+        <div class="col-lg pb-3">
+          <h1 class="ml-4 p-5 "><b style=""> LearnOSTEAM: COMPREHENSIVE ONLINE STEAM EDUCATION
             PLATFORM FOR SCHOOLS
             </b>
           </h1>
@@ -20,7 +20,7 @@
 
         </div>
 
-        <div class="col-lg">
+        <div class="col-lg pb-3">
           <img src="../assets/img/1.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
 
         </div>
@@ -30,22 +30,22 @@
 
     <section class="pt-3 pb-3 pl-4 pr-4 mb-5 text-center" >
         <div class=" " style="border-radius:35px;background-color:#A2469A">
-            <div class="row mt-2 mb-4  mr-3 text-left">
+            <div class="row mt-2 mb-4   text-left">
 
-                <div class="col-lg">
+                <div class="col-lg  ">
                   <img src="../assets/img/2.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
                 </div>
-                <div class="col-lg">
-                  <div class="ml-4 pr-5 pt-5 mt-5">
-                    <h1 class="ml-4 mt-5 pr-5 pt-5 "><b style="color:white !important"> Teach through experiential activities
+                <div class="col-lg pb-3">
+                  <div class="ml-4 pr-5 pt-5 mt-2">
+                    <h1 class="ml-4 mt-2 pr-5 pt-5 "><b style="color:white !important"> Teach through experiential activities
                         </b>
                     </h1>
                   </div>
-                    <p class="ml-4 pr-5 mt-5" style="color:white !important">Introduce students to the wonderful world of STEAM and incorporate play-based learning for an engaging experience.
+                    <p class="ml-4 pr-5 mt-4" style="color:white !important">Introduce students to the wonderful world of STEAM and incorporate play-based learning for an engaging experience.
                     </p>
 
                     <!--button  -->
-                    <div class="mt-5">
+                    <div class="mt-3 pb-3">
                     <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
@@ -59,14 +59,14 @@
 
     <section class="pt-3 pb-3 pl-4 pr-4 mb-5 text-center" >
         <div class="" style="border-radius:35px;background-color:#4cbd94">
-            <div class="row mt-2 mb-4  mr-3 text-left">
+            <div class="row mt-2 mb-4   text-left">
 
                 <div class="col-lg">
                   <img src="../assets/img/3.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
        
                 </div>
-                <div class="col-lg pt-5">
-                  <div class="ml-4 pr-5 pt-5 mt-5">
+                <div class="col-lg pb-3">
+                  <div class="ml-4 pr-5 pt-5 mt-2">
                     <h1 class="ml-4 pr-5 pt-5 mt-5"><b style="color:white !important"> Train through immersive simulators
                         </b>
                     </h1>
@@ -76,7 +76,7 @@
                     </p>
 
                     <!--button  -->
-                    <div class="mt-5">
+                    <div class="m-3 pb-4">
                     <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
@@ -89,7 +89,7 @@
 
     <section class="pt-3 pb-3 pl-4 pr-4 mb-5 text-center" >
         <div class=" " style="border-radius:35px;background-color:#FED01F">
-            <div class="row mt-2 mb-4  mr-3 text-left">
+            <div class="row mt-2 mb-4   text-left">
 
                 <div class="col-lg">
                   <img src="../assets/img/4.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
@@ -105,7 +105,7 @@
                     </p>
 
                     <!--button  -->
-                    <div class="mt-5">
+                    <div class="mt-5 pb-3">
                     <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
@@ -145,7 +145,7 @@
 
     <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
         <div class=" " style="border-radius:35px;background-color:#A2469A">
-            <div class="row mt-2 mb-4  mr-3 text-left">
+            <div class="row mt-2 mb-4   text-left">
 
                 <div class="col-lg">
                   <img src="../assets/img/6.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
@@ -157,11 +157,11 @@
                         </b>
                     </h1>
                   </div>
-                    <p class="ml-4 pr-5 mt-5" style="color:white !important">Automated learning enabling school teachers without STEAM expertise to teach.
+                    <p class="ml-4 pr-5 pl-3 mt-5" style="color:white !important">Automated learning enabling school teachers without STEAM expertise to teach.
                     </p>
 
                     <!--button  -->
-                    <div class="mt-5">
+                    <div class="mt-5 pb-5">
                     <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     

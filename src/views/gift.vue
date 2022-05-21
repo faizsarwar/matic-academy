@@ -3,7 +3,7 @@
 
     <section class="pt-5 pb-5" style="background-color: #3a0078;color:white">
       <div class="row mt-4 mb-4 ml-4 mr-3 text-left">
-        <div class="col-4">
+        <div class="col-5">
           <h1 class="ml-4 pr-5"><b style="color:white !important">Gift a Future that’s
             Merry and Bright</b></h1>
           <!-- <p class="mt-3 ml-4 pr-5" style=" ">
@@ -15,12 +15,12 @@
 
             <!--button  -->
             <div class="mt-5">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Buy A Gift Card</button>
+            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 120px; border-radius: 12px;font-size:16px">Buy A Gift Card</button>
             </div>
 
         </div>
 
-        <div class="col-8">
+        <div class="col-7">
           <!-- img here -->
         </div>
       </div>
@@ -28,40 +28,38 @@
 
   <section style="background-color: #e6f7f6">
       <!-- <h1>hiii</h1> -->
-      <div class="row  pt-4 pb-4">
-          <div class="col mb-4 mt-4 ml-4">
+      <div class="row  p-4">
+          <div class="col m-4">
               <h5> Featured In - </h5>
           </div>
-          <div class="col mb-4 mt-4 ">
+          <div class="col m-4 ">
                <img src="../assets/img/website-logos/fast-co-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
+          <div class="col m-4">
                 <img src="../assets/img/website-logos/TC-01.png" alt="" width="100%" style="background-size:contain; background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
+          <div class="col m-4">
                <img src="../assets/img/website-logos/fortune-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
+          <div class="col m-4">
                <img src="../assets/img/website-logos/forbes-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
+          <div class="col m-4">
                <img src="../assets/img/website-logos/WSJ-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
+          <div class="col m-4">
                <img src="../assets/img/website-logos/bloomberg-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
+          <div class="col m-4">
                 <img src="../assets/img/website-logos/yahho-01.png" alt="" width="100%" style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
           </div>
-          <div class="col mb-4 mt-4">
+          <div class="col m-4">
                 <img src="../assets/img/website-logos/AP-01.png" alt="" width="100%" style="background-size:contain;   background-repeat: no-repeat; text-align: center;">
-          </div>
-          <div class="col mb-4 mt-4 mr-4">
-                <img src="../assets/img/website-logos/market-watch-01.png" alt="" width="100%" style="background-size:contain;   background-repeat: no-repeat; text-align: center;">
           </div>
 
       </div>
   </section>
+
 
     <!-- to be modified later -->
     <section style="background-color: #e6f7f6" class="pt-4 pb-5">

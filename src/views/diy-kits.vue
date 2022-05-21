@@ -46,13 +46,13 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
 
                 </div>
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
                     <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Buddy Bot
@@ -63,13 +63,13 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
 
                 </div>
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
                     <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> IOT Starter Kit
@@ -80,7 +80,7 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -106,13 +106,13 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
 
                 </div>
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
                     <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Brush Bot
@@ -122,13 +122,13 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
 
                 </div>
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
                     <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Solar House
@@ -139,7 +139,7 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -165,13 +165,13 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
 
                 </div>
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
                     <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Melody Matic
@@ -181,13 +181,13 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
 
                 </div>
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
                     <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Smart Watch
@@ -198,7 +198,7 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -224,13 +224,13 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
 
                 </div>
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
                     <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Wearable Kit
@@ -240,13 +240,13 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
 
                 </div>
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
                     <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Health Kit
@@ -257,7 +257,7 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -287,13 +287,13 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
 
                 </div>
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
                     <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> IOT & Home Automation Kit
@@ -305,13 +305,13 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
 
                 </div>
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
                     <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Soldering Kit
@@ -322,7 +322,7 @@ over 18 DIY Kits
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>

@@ -2,8 +2,8 @@
     <div>
 
     <section class="pt-2 pb-5" style="background-color: #3a0078;color:white">
-      <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
-        <div class="col-lg">
+      <div class="row mt-2 mb-4  text-left">
+        <div class="col-lg ml-4 mr-3">
           <h1 class="ml-4 pr-5 pt-5 mt-5"><b style="color:white !important">Online Math Courses
             for Kids
             </b>
@@ -179,27 +179,30 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
 
   <section class="pt-5 pb-5" style="background-color:#5a3cf0">
     <div class="row">
-      <div class="col-4">
-           <img src="../assets/img/professional.png" alt="" class="ml-5 mr-3 mt-5  " style="background-size:contain; width:390px;height:370px; background-repeat: no-repeat; text-align: center;border-radius:50%">
-      </div>
+      <div class="col-4 pt-5">
+             <img src="../assets/img/professional.png" alt="" class="ml-5 mr-3 mt-5  " style="background-size:contain; width:100%; background-repeat: no-repeat; text-align: center;border-radius:50%">
+    </div>
       <div class="col-8" style="text-align: center;" >
-        <div class="row">
+        <div class="col-lg">
           <div class="ml-5 mr-4 mb-0">
             <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#a195de" class="bi bi-quote" viewBox="0 0 16 16">
               <path d="M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 9 7.558V11a1 1 0 0 0 1 1h2Zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 3 7.558V11a1 1 0 0 0 1 1h2Z"/>
             </svg>
           </div>
         </div>
-        <div class="row text-left">
+        <div class="col-lg text-left">
           <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">The math curriculum and software are amazing.</b> </h1>
           <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">The curriculum is super thorough with fundamentals, but there's still freedom for students to explore and discover new ideas for themselves. I get to focus entirely on exploring the concepts with my students. The whiteboard feature is especially nice for collaborating on math problems.</h5>
           <h5 class="pl-5  pr-5  ml-2 mr-5 mt-0" style="color:white !important">Obie K., matic Instructor</h5>
-        </div>
-          <p class="text-left pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white">Washington University In St. Louis</p>
+                <p class="text-left pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white">Washington University In St. Louis</p>
       
+
+        </div>
       </div>
     </div>
   </section>
+
+
 
       <section class="pt-5 pb-5">
         <h1 class="p-4 pb-5"><b>Start learning in 3 simple steps</b></h1>
@@ -239,7 +242,7 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
         <h1 class="pt-5 pb-4"><b>See some of our students' business projects</b></h1>
         <div class="row p-5">
 
-                    <div class="col">
+                    <div class="col-lg">
                       <div class="card" style="border-radius:15px">
                     <img
                       src="../assets/img/placeholder.jpg"
@@ -264,7 +267,7 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
                     </div>
                   </div>
           </div>
-                    <div class="col">
+                    <div class="col-lg">
      <div class="card" style="border-radius:15px">
                     <img
                       src="../assets/img/placeholder.jpg"

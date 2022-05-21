@@ -15,7 +15,7 @@
                 </a>
                 </div>
             </div>
-            <div class="col-10">    
+            <div class="col-9">    
           <div id="carouselExampleIndicators3" class="carousel slide" data-ride="carousel">
 
             <div class="carousel-inner seller-Card">
@@ -28,7 +28,7 @@
                       <div class="card-body seller-Card">
                         <!-- <div class="row" style="color:#466D1D;"> -->
                           <!-- <div class="row"> -->
-                            <div class="ml-5 mr-2 ">
+                            <div class="ml-3 mr-2">
                             <div class="row m-4 ml-2 mr-2">
                               <i class="material-icons">star</i> <i class="material-icons">star</i> <i
                                 class="material-icons">star</i> <i class="material-icons">star</i> <i
@@ -59,7 +59,7 @@
                       <div class="card-body">
                         <!-- <div class="row" style="color:#466D1D;"> -->
                           <!-- <div class="row"> -->
-                          <div class="ml-5 mr-2 ">
+                          <div class="ml-3 mr-2 ">
                             <div class="row m-4 ml-2 mr-2 ">
                               <i class="material-icons">star</i> <i class="material-icons">star</i> <i
                                 class="material-icons">star</i> <i class="material-icons">star</i> <i

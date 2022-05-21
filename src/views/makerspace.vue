@@ -31,7 +31,7 @@
 
     <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
         <div class="   " style="border-radius:35px;background-color:#A2469A">
-            <div class="row mt-2 mb-4  mr-3 text-left">
+            <div class="row mt-2 mb-4   text-left">
 
                 <div class="col-lg">
                   <img src="../assets/img/4.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
@@ -55,9 +55,9 @@
 
     <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
         <div class="" style="border-radius:35px;background-color:#4cbd94">
-            <div class="row mt-2 mb-4 ml-4  text-left">
+            <div class="row mt-2 mb-4   text-left">
 
-                <div class="col-lg">
+                <div class="col-lg ml-4 pb-5">
                     <h1 class="ml-4 pr-5 pt-4 "><b style="color:white !important"> Achieve specific learning outcomes through a structured and lesson-based approach.
                         </b>
                     </h1>

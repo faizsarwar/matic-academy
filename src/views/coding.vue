@@ -2,8 +2,8 @@
     <div>
 
     <section class="" style="background-color: #3a0078;color:white">
-      <div class="row mt-4 mb-4 ml-4  text-left">
-        <div class="col-lg">
+      <div class="row mt-4 mb-4   text-left">
+        <div class="col-lg ml-4">
           <h1 class="ml-4 pr-5 pt-5 pb-5"><b style="color:white !important">Coding for Kids</b></h1>
           <p class="mt-3 ml-4 pr-5" style=" ">
            <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 8-18</span>
@@ -13,7 +13,7 @@
 
             <!--button  -->
             <div class="mt-5">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try A Free Coding Class</button>
+            <button type="" class="btn btn-success btn-lg ml-2 mb-3 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try A Free Coding Class</button>
             </div>
 
         </div>
@@ -68,19 +68,26 @@
 
   <section class="pt-5 pb-5" style="background-color:#f2f8fa">
       <h1 class="mt-4 mb-4"><b >All Matic Courses Include:</b></h1>
-      <div class="row pl-4 pr-4" >
-        <div class="col-3">
-          <div class="row">
-            <h2 class="mt-5 mb-3 ml-3" ><b > 
-            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#261159" class="bi bi-check-circle" viewBox="0 0 16 16">
-              <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-              <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
-            </svg> 
+      <div class="row pl-4 pr-4 " >
 
-              Top Instruction </b></h2>
-          </div>
+        <div class="col-3 ">
+          
           <div class="row">
-            <ul class="ml-3" style="  font-weight:bolder; text-align:left">
+            <div class="col-2 mt-2">
+              <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#211ea6" class="bi bi-check-circle" viewBox="0 0 16 16">
+                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+                <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+              </svg> 
+            </div>
+            <div class="col-10 text-center">
+              <h2 class=" mb-3 " ><b style=""> 
+
+                Top Instruction </b></h2>
+            </div>
+
+          </div>
+          <div class="row ">
+            <ul class="ml-2" style="  font-weight:bolder; text-align:left">
                 <li>
                   Instructors from Top US Universities
                 </li>
@@ -96,18 +103,26 @@
 
         </div>
 
-        <div class="col-3">
+        <div class="col-3 ">
           <div class="row">
-            <h2 class="mt-5 mb-3 ml-5" ><b > 
-            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#261159" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <div class="col-2 mt-2">
+              <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#211ea6" class="bi bi-check-circle" viewBox="0 0 16 16">
+                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+                <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+              </svg> 
+            </div>
+            <div class="col-10 text-center">
+            <h2 class="mb-3 " ><b style=""> 
+            <!-- <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
               <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
               <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
-            </svg> 
+            </svg>  -->
 
               Community </b></h2>
+              </div>
           </div>
-          <div class="row">
-          <ul class="ml-5" style="  font-weight:bolder; text-align:left">
+          <div class="row ">
+          <ul class="ml-2" style="font-weight:bolder; text-align:left">
                 <li>
                   Matic Clubs
                 </li>
@@ -123,17 +138,25 @@
         </div>
 
         <div class="col-3">
-          <div class="row">          
-            <h2 class="mt-5 mb-3 ml-5" ><b > 
-            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#261159" class="bi bi-check-circle" viewBox="0 0 16 16">
+          <div class="row">   
+            <div class="col-2 mt-2">
+              <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#211ea6" class="bi bi-check-circle" viewBox="0 0 16 16">
+                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+                <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+              </svg> 
+            </div>       
+                        <div class="col-10 text-center">
+            <h2 class=" mb-3 " ><b style=""> 
+            <!-- <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
               <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
               <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
-            </svg> 
+            </svg>  -->
 
               Live Support</b></h2>
+              </div>
           </div>
-          <div class="row">
-              <ul class="ml-5" style="  font-weight:bolder; text-align:left">
+          <div class="row ">
+              <ul class="ml-2" style=" font-weight:bolder; text-align:left">
                 <li>
                   Instructor Office Hours
                 </li>
@@ -148,17 +171,25 @@
         </div>
 
         <div class="col-3">
-          <div class="row">
-            <h2 class="mt-5 mb-3 ml-2" ><b > 
-            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#261159" class="bi bi-check-circle" viewBox="0 0 16 16">
+          <div class="row">   
+            <div class="col-2 mt-2">
+              <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#211ea6" class="bi bi-check-circle" viewBox="0 0 16 16">
+                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+                <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+              </svg> 
+            </div>       
+                        <div class="col-10 text-center">
+            <h2 class=" mb-3 " ><b style=""> 
+            <!-- <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
               <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
               <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
-            </svg> 
+            </svg>  -->
 
               Progress Targets</b></h2>
+              </div>
           </div>
-          <div class="row">
-            <ul class="" style="  font-weight:bolder; text-align:left">
+          <div class="row ">
+              <ul class="ml-2" style="  font-weight:bolder; text-align:left">
                 <li>
                   Course Roadmaps
                 </li>
@@ -177,18 +208,18 @@
 
   <section class="pt-5 pb-5" style="background-color:#5a3cf0">
     <div class="row">
-      <div class="col-4">
-           <img src="../assets/img/professional.png" alt="" class="ml-5 mr-3 mt-5  " style="background-size:contain; width:390px;height:370px; background-repeat: no-repeat; text-align: center;border-radius:50%">
+      <div class="col-4 pt-5">
+           <img src="../assets/img/professional.png" alt="" class="ml-5 mr-3 mt-5  " style="background-size:contain; width:100%; background-repeat: no-repeat; text-align: center;border-radius:50%">
       </div>
       <div class="col-8" style="text-align: center;" >
-        <div class="row">
+        <div class="col-lg">
           <div class="ml-5 mr-4 mb-0">
             <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#a195de" class="bi bi-quote" viewBox="0 0 16 16">
               <path d="M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 9 7.558V11a1 1 0 0 0 1 1h2Zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 3 7.558V11a1 1 0 0 0 1 1h2Z"/>
             </svg>
           </div>
         </div>
-        <div class="row text-left">
+        <div class="col-lg text-left">
           <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">As a trained engineer myself, I was keen for my children to learn how to code. matic has created a great learning environment to do just that.</b> </h1>
           <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">My hope with matic was to advance my kids’ interest and exposure to coding. I’ve found that my kids quickly identify with their matic Instructors, and they tend to ask a lot of questions and remain excited about coding.</h5>
           <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Tim B., matic Parent Former Chief Product Officer At Yahoo And CEO At QuestBridge</h5>
@@ -293,10 +324,10 @@
             <h1 style="color:white" class="mb-5">I'm a coder now.</h1>
             <h5 style="color:white" >When I started it was hard to code. The instructors are really nice and helped me when I had trouble. They also saw what I liked and helped me learn those things even more. Now, I've learned how to make things on my own and even share my projects on matic and with my friends. It makes me feel really smart!</h5>
             <div class="row pl-4 pr-4 pt-4">
-              <div class="col-3">
+              <div class="col-6 card-dissapear">
                 <img src="../assets/img/placeholder.jpg" alt="" class=" mr-3   " style="background-size:contain; width:150px;height:150px; background-repeat: no-repeat; text-align: center;border-radius:50%">
               </div>
-              <div class="col-9 pt-3">
+              <div class="col-6 pt-3">
                 <div class="pt-3 ml-4">
                   <b class="mt-5" style="color:white">
                     Theo N.
@@ -309,20 +340,21 @@
             </div>
           </div>
         </div>
-        <div class="col-5" >
-          <div class="card" >
-          <img
-            src="../assets/img/placeholder.jpg"
-            class="card-img-top"
-            alt="..."
-          />
-          <div class="card-body seller-Card" style="overflow-x :hidden">
-            <div class="p-4 text-left">
+        <div class="col-5 " >
+
+        <div class="card card-dissapear" >
+            <img
+              src="../assets/img/placeholder.jpg"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body seller-Card" style="overflow-x :hidden">
+              <div class="p-4 text-left">
               <h2><b>Underwater Search</b></h2>
               <h5 class="mt-3 mb-5">By Theo N.</h5>
               <a href="" style="color:blue">See Project</a>
+              </div>
             </div>
-          </div>
           </div>
         </div>
       </div>
@@ -419,4 +451,20 @@ li {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  h1,h2,h3,h4,h5 {
+    font-size: 15px;
+  }
+    .card-img-top, .card-body, .seller-Card{
+    height: 150px
+  }
+  .card-dissapear{
+    display:none;
+  }
+
+}
+
+
 </style>

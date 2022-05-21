@@ -1,8 +1,8 @@
 <template>
   <div>
     <section class="pt-5 pb-5">
-      <div class="row mt-4 mb-4 ml-4 mr-3 text-left">
-        <div class="col-lg">
+      <div class="row mt-4 mb-4  text-left">
+        <div class="col-lg ml-4 mr-3">
           <h1><b>How Matic Works</b></h1>
           <p class="mt-3">
             We make learning real-world skills easy and exciting with expert
@@ -83,11 +83,14 @@
             </li>
           </ul>
             <div class="row mt-1">
-                <div class="col-3 mt-5">
-                    <img src="../assets/img/trustpilot.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
+              <div class="col-8">
+                <div class="row mt-5 mr-0">
+                    <img src="../assets/img/trustpilot.png" alt=""         style=" background-size:contain;  background-repeat: no-repeat; text-align: center;">
+                    <img src="../assets/img/trustpilot-starts.png" alt=""  style=" background-size:contain;  background-repeat: no-repeat; text-align: center;">
+                
                 </div>
-                <div class="col-9 mt-5">
-                    <img src="../assets/img/trustpilot-starts.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;">
+              </div>
+                <div class="col-4 mt-5 ml-0">
                    <b style="color:white !important"> 4.9 out of 5 based on 230+ reviews</b> 
                 </div>
             </div>
@@ -147,7 +150,7 @@
     </div>
   </section>
 
-  <section style="background-color: #e6f7f6" class="pt-4 pb-4">
+  <section style="background-color: #e6f7f6" class="p-4">
     <div class="mt-2 mb-2">
         <h1><b>What's Included In The Matic Portal?</b></h1>
         <p>Your one-stop shop for everything Matic. Parents are able to manage their learner's courses and learing paths, track their progress, and also engage with the Matic community.</p>
