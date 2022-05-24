@@ -23,7 +23,8 @@
         </div>
 
         <div class="col-lg">
-               
+           <img src="../assets/img/ms1.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
+
         </div>
       </div>
     </section>
@@ -34,7 +35,7 @@
             <div class="row mt-2 mb-4   text-left">
 
                 <div class="col-lg">
-                  <img src="../assets/img/4.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
+                 <img src="../assets/img/ms2.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
               
                 </div>
                 <div class="col-lg">
@@ -72,7 +73,7 @@
 
                 </div>
                 <div class="col-lg">
-                  <img src="../assets/img/6.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
+                  <img src="../assets/img/ms3.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
                 </div>
             </div>
         </div>

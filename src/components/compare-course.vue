@@ -2,9 +2,10 @@
   <section style="background-color: #e6f7f6" class="pt-5 pb-5">
     <h1 class="mt-4 mb-4"><b>  Compare course formats for your learner </b></h1>
 
-    <div class="row pt-5 pl-5 pr-5">
+    <div class="row pt-5 pl-3 pr-3">
+      
       <div class="col-lg">
-        <img src="../assets/img/icon1.jpg" alt="" class="circular--square" style="width:300px;">
+        <img src="../assets/img/2.png" alt="" class="circular--square" style="width:300px;height:240px">
         <h3 class="mt-4"><b> Private 1:1 </b></h3>
         <div class="m-4 " style="text-align:left">
           <div class="row m-4">
@@ -22,8 +23,8 @@
       </div>
 
       <div class="col-lg">
-        <img src="../assets/img/icon1.jpg" alt="" class="circular--square" style="width:300px;">
-        <h3 class="mt-4"><b>On-Demand</b></h3>
+         <img src="../assets/img/cfr1.png" alt="" class="circular--square" style="width:300px;height:240px">
+       <h3 class="mt-4"><b>On-Demand</b></h3>
         <div class="m-4 " style="text-align:left">
           <div class="row m-4">
             <p class="ml-0 "><strong style="text-align:left; font-size:18px" class=""><b>  Pricing:  </b></strong>Access to 400+ hours of self-guided courses for $29/month </p>  
@@ -43,7 +44,7 @@
       </div>
       
       <div class="col-lg">
-        <img src="../assets/img/icon1.jpg" alt="" class="circular--square" style="width:300px;">
+         <img src="../assets/img/placeholder3.jpeg" alt="" class="circular--square" style="width:300px;height:240px">
         <h3 class="mt-4"><b>Bootcamps</b></h3>
         <div class="m-4 " style="text-align:left">
           <div class="row m-4">

@@ -8,7 +8,11 @@
         <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card3.jpeg') + ')' }"> -->
             <div class="card-body mb-4 bg-light"> 
-              <h2 class="card-title m-3" ><b>Coding</b></h2>
+             <div class="row ml-3">
+                <img src="../assets/img/iconA3.png" alt="" class="mt-2" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:8%; height:8%">
+
+                <h2 class="card-title m-3 ml-4" ><b>Coding</b></h2>
+             </div>
               <p class="card-text m-4" > Our world is increasingly powered by code. Give your child access to the languages of the future.</p>
               <!-- <a href="/categories/anasazi_gold_swag" class="btn btn btn-success">View Products</a> -->
               <p class="card-text m-4"> <a href=""><b>Scratch</b></a> | <a href=""><b>Python</b></a> | <a href=""><b>Java</b></a> | <a href=""><b>Javascript</b></a> 
@@ -21,7 +25,11 @@
         <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card4.jpeg') + ')' }"> -->
             <div class="card-body  no-overflow1 bg-light" >
+              <div class="row ml-3">
+                <img src="../assets/img/iconA4.png" alt="" class="mt-3" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:10%; height:10%">
+
               <h2 class="card-title m-3" ><b>Investing</b></h2>
+             </div>
               <p class="card-text m-4" >Money skills are life skills. Teach your child the fundamentals of money and business.</p>
               <!-- <a href="/categories/human_consumable" class="btn btn btn-success">View Products</a> -->
               <p class="card-text m-4"> <a href=""><b>Cryptocurrency</b></a> | <a href=""><b>Entreprenuership</b></a>  
@@ -38,7 +46,12 @@
         <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card3.jpeg') + ')' }"> -->
             <div class="card-body mb-4 bg-light"> 
+
+              <div class="row ml-3">
+                <img src="../assets/img/iconA6.png" alt="" class="mt-2" style="background-size:contain;  background-repeat: no-repeat; text-align: center; width:8%; height:8%">
+
               <h2 class="card-title m-3" ><b>Communications</b></h2>
+             </div>
               <p class="card-text m-4" > The most successful people are often the best storytellers. Learn skills from creative thinking to public speaking.
 
               </p>
@@ -53,7 +66,11 @@
         <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card4.jpeg') + ')' }"> -->
             <div class="card-body  no-overflow1 bg-light" >
-              <h2 class="card-title m-3" ><b>Maths </b></h2>
+                           <div class="row ml-3">
+                <img src="../assets/img/iconA5.png" alt="" class="mt-3" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:10% ; height:10%">
+
+                <h2 class="card-title m-3" ><b>Maths </b></h2>
+             </div>
               <p class="card-text m-4" >Matic's take on a classic. Math is a fundamental skill for understanding the world and learning to think critically.</p>
               <!-- <a href="/categories/human_consumable" class="btn btn btn-success">View Products</a> -->
               <p class="card-text m-4"> <a href=""><b>Early Elementary</b></a> | <a href=""><b>Pre-Algebra</b></a>  
@@ -69,7 +86,12 @@
         <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card3.jpeg') + ')' }"> -->
             <div class="card-body mb-4 bg-light"> 
+                           <div class="row ml-3">
+                <img src="../assets/img/iconA1.png" alt="" class="mt-2" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:8%; height:8%">
+
               <h2 class="card-title m-3" ><b>Scientist</b></h2>
+            </div>
+
               <p class="card-text m-4" > Bring out your child's inner scientist with fundamental skills for understanding the world.</p>
               <!-- <a href="/categories/anasazi_gold_swag" class="btn btn btn-success">View Products</a> -->
               <p class="card-text m-4"> <a href=""><b>Physics</b></a> | <a href=""><b>Biology</b></a>  
@@ -82,7 +104,12 @@
         <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card4.jpeg') + ')' }"> -->
             <div class="card-body  no-overflow1 bg-light" >
+                           <div class="row ml-3">
+                <img src="../assets/img/iconA2.png" alt="" class="mt-3" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:8%; height:8%">
+
               <h2 class="card-title m-3" ><b>Explore By Class Format </b></h2>
+            </div>
+
               <p class="card-text m-4" >View courses by format or filter for yourself in our course explorer.</p>
               <!-- <a href="/categories/human_consumable" class="btn btn btn-success">View Products</a> -->
               <p class="card-text m-5"> <a href=""><b>Private 1:1</b></a> | <a href=""><b>On Demand</b></a>  

@@ -1,9 +1,9 @@
 <template>
     <div>
 
-    <section class="pt-2 pb-5" style="background-color: #3a0078;color:white">
+    <section class="" style="background-color: #3a0078;color:white">
       <div class="row mt-2 mb-4  text-left">
-        <div class="col-lg ml-4 mr-3">
+        <div class="col-lg ml-4 mr-3 pt-5">
           <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">Online Science
             Classes For Kids
             </b>
@@ -23,7 +23,8 @@
         </div>
 
         <div class="col-lg">
-          <!-- img here -->
+                <img src="../assets/img/2.png" alt="" class="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+
         </div>
       </div>
     </section>

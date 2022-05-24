@@ -1,7 +1,7 @@
 <template>
   <div>
-    <section class="pt-2 pb-5">
-      <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
+    <section class="pt-2 ">
+      <div class="row mt-2  ml-4  text-left">
         <div class="col-lg">
           <h1 class="ml-4 pr-5 pt-5"><b style="">STEAM CAMPS </b></h1>
           <p class="ml-4 pr-5 mt-5" style="">
@@ -27,7 +27,7 @@
         </div>
 
         <div class="col-lg">
-          <!-- img here -->
+           <img src="../assets/img/sc1.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
         </div>
       </div>
     </section>
@@ -65,6 +65,8 @@
           "
         >
           <div class="col-6 wpb_column vc_column_container">
+              <img src="../assets/img/sc1.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
+
             <!-- <div class="vc_column-inner us_custom_70bd8ebe">
               <div class="wpb_wrapper">
                 <div class="w-slider style_none fit_scaledown">
@@ -151,7 +153,7 @@
               </div>
             </div> -->
           </div>
-          <div class="col-3 wpb_column vc_column_container">
+          <div class="col-3 wpb_column vc_column_container pt-5">
             <div class="vc_column-inner us_custom_055b8ed2">
               <div class="wpb_wrapper">
                 <div class="wpb_text_column us_custom_c8403519  has_text_color" >
@@ -178,7 +180,7 @@
               </div>
             </div>
           </div>
-          <div class="col-3 wpb_column vc_column_container">
+          <div class="col-3 wpb_column vc_column_container pt-5">
             <div class="vc_column-inner us_custom_749267f4">
               <div class="wpb_wrapper">
                 <div class="wpb_text_column us_custom_c8403519 has_text_color">
@@ -350,7 +352,13 @@ to STEAM platform </b> </p>
         <div class="col-6">
             <h1><b style="color:white !important">CAREER PATHS</b></h1>
         </div>
-          <div class="col-6 wpb_column vc_column_container">
+          <div class="col-6 wpb_column vc_column_container pt-5">
+
+            <div class="pt-5">
+              <img src="../assets/img/sc2.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
+
+            </div>
+
             <!-- <div class="vc_column-inner us_custom_70bd8ebe">
               <div class="wpb_wrapper">
                 <div class="w-slider style_none fit_scaledown">

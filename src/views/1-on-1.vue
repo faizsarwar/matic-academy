@@ -1,10 +1,10 @@
 <template>
     <div>
 
-    <section class="pt-5 pb-5" style="background-color: #3a0078;color:white">
-      <div class="row mt-4 mb-4 ml-4 mr-3 text-left">
-        <div class="col-lg">
-          <h1 class="ml-4 pr-5"><b style="color:white !important">Matic One-on-One
+    <section class="" style="background-color: #3a0078;color:white">
+      <div class="row mt-4  ml-4  text-left">
+        <div class="col-lg pt-5">
+          <h1 class="ml-4 mt-5 pr-5"><b style="color:white !important">Matic One-on-One
                 Subscription</b></h1>
           <p class="mt-3 ml-4 pr-5" style=" ">
            <span class="px-4 py-2 " style="border-radius: 9px;background-color:white !important">  Ages 8-18</span>
@@ -22,16 +22,16 @@
         </div>
 
         <div class="col-lg">
-          <!-- img here -->
+          <img src="../assets/img/cfr3.png" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
         </div>
       </div>
     </section>
 
-    <section style="background-color: #e6f7f6" class="pt-4 pb-5">
-        <div class="mt-2 mb-2">
+    <section style="background-color: #e6f7f6" class=" ">
+        <div class=" mb-2">
         <div class="row">
             <div class="col-lg " style=" text-align: center; color: black;">
-                <!-- img here -->
+          <img src="../assets/img/6.png" alt="" class=" " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
             </div>
             <div class="col-lg text-left" style=" text-align: center; color: black;">
             <div class=" mr-5 pt-5 pr-5 pl-5 pb-4">

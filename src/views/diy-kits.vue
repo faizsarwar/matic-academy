@@ -1,8 +1,8 @@
 <template>
     <div>
 
-    <section class="pt-2 pb-5" >
-      <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
+    <section class="pt-2 " >
+      <div class="row mt-2  ml-4  text-left">
         <div class="col-lg">
           <h1 class="ml-4 pr-5 pt-5 "><b style=""> DIY KITS: HANDS-ON LEARNING THROUGH FUN AND ENGAGING
 HARDWARE KITS
@@ -21,7 +21,8 @@ over 18 DIY Kits
         </div>
 
         <div class="col-lg">
-          <!-- img here -->
+           <img src="../assets/img/dk1.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
+
         </div>
       </div>
     </section>

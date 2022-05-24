@@ -1,27 +1,27 @@
 <template>
     <div>
 
-    <section class="pt-2 pb-5" style="background-color: #3a0078;color:white">
-      <div class="row mt-2 mb-4  text-left">
+    <section class="" style="background-color: #3a0078;color:white">
+      <div class="row   text-left">
         <div class="col-lg ml-4 mr-3">
-          <h1 class="ml-4 pr-5 pt-5 mt-5"><b style="color:white !important">Communications & Language Arts Courses for Kids
+          <h2 class="ml-4 pr-5  mt-3"><b style="color:white !important">Communications & Language Arts Courses for Kids
             </b>
-          </h1>
-          <p class="mt-3 ml-4 pr-5" style=" ">
+          </h2>
+          <p class="mt-4 ml-4 pr-5" style=" ">
            <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 7-18</span>
           </p>
-            <p class="ml-4 pr-5 mt-3 mb-3" style="color:white !important">
+            <p class="ml-4 pr-5 mt-4 mb-3" style="color:white !important">
 The most popular classes for kids looking to learn more about communication, creativity and self-expression are now available at your local Language Arts & Communications School. Whether you're just beginning or want a fresh outlook on life from the perspective of an experienced learner these courses will expand upon what's been learned in previous years while adding new skills that have never before been covered! Get started today by checking out our online catalog which features many hands-on learning opportunities like journalism papers/projects; videos created using editing software such as Avid Media Composer , animation tutorials etc.            </p>
 
             <!--button  -->
-            <div class="mt-5">
+            <div class="mt-3">
             <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 290px; border-radius: 12px;font-size:16px">Try A Free Communication Class</button>
             </div>
         
         </div>
 
         <div class="col-lg">
-          <!-- img here -->
+                <img src="../assets/img/cfr4.png" alt="" class="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
         </div>
       </div>
     </section>

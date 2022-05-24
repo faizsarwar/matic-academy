@@ -1,9 +1,9 @@
 <template>
     <div>
 
-    <section class="pt-5 pb-5" style="background-color: #3a0078;color:white">
-      <div class="row mt-4 mb-4 ml-4 mr-3 text-left">
-        <div class="col-lg">
+    <section class="" style="background-color: #3a0078;color:white">
+      <div class="row mt-4 mb-4 ml-4 text-left">
+        <div class="col-lg pt-5">
           <h1 class="ml-4 pr-5"><b style="color:white !important">Introducing Matic Group Bootcamps</b></h1>
           <p class="mt-3 ml-4 pr-5" style=" ">
            <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 8-18</span>
@@ -21,7 +21,7 @@ our top instructors.
         </div>
 
         <div class="col-lg">
-          <!-- img here -->
+          <img src="../assets/img/sc1.png" alt="" class=" ml-2" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
         </div>
       </div>
     </section>
@@ -29,11 +29,11 @@ our top instructors.
         <section class="pt-5 pb-5" >
             <!-- Picture on right -->
             <div class="row">
-                <div class="col-4 " style=" text-align: center; color: black;">
-                    <!-- img here -->
+                <div class="col-5 pt-3 " style=" text-align: center; color: black;">
+                    <img src="../assets/img/sc2.png" alt="" class="mt-5 ml-2" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
                 </div>
-                <div class="col-8 " style=" text-align: left; color: black;">
-                    <div class=" ml-5 pt-5 pr-5 pl-5 ">
+                <div class="col-7 " style=" text-align: left; color: black;">
+                    <div class=" ml-3 pt-5 pr-3 pl-5 ">
                         <h1 class="mt-3 mb-3"><b>Matic, Now in Group Bootcamps.</b></h1>
                         <!-- row with tick -->
                         <div class="row mt-4 mb-4">

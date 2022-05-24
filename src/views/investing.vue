@@ -1,29 +1,29 @@
 <template>
     <div>
 
-    <section class="pt-2 pb-5" style="background-color: #3a0078;color:white">
-      <div class="row mt-2 mb-4   text-left">
-        <div class="col-lg ml-4 mr-3">
-          <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">Finance, Investing, and Entrepreneurship
+    <section class="" style="background-color: #3a0078;color:white">
+      <div class="row  mb-4   text-left">
+        <div class="col-lg ml-2 mr-2 ">
+          <h2 class="ml-4 mt-5 mb-4 pr-5 pt-3  "><b style="color:white !important">Finance, Investing, and Entrepreneurship
             Courses for Kids
             </b>
-          </h1>
+          </h2>
           <p class="mt-3 ml-4 pr-5" style=" ">
            <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 9-18</span>
           </p>
-            <p class="ml-4 pr-5 mt-2" style="color:white !important">Take your child on a journey of financial education, where they will learn how to be an entrepreneur in the future. Introduce them with topics such as finance and investing for beginners or teach Concepts like compound interest! These courses offer invaluable skills that can help shape any young person’s life - giving you peace-of mind knowing they are prepared for making decisions about their own professions in the future
+            <p class="ml-4 pr-5 mt-3" style="color:white !important">Take your child on a journey of financial education, where they will learn how to be an entrepreneur in the future. Introduce them with topics such as finance and investing for beginners or teach Concepts like compound interest! These courses offer invaluable skills that can help shape any young person’s life - giving you peace-of mind knowing they are prepared for making decisions about their own professions in the future
             </p>
 
             <!--button  -->
-            <div class="mt-5">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try A Business Class</button>
+            <div class="mt-2">
+            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:55px; width : 190px; border-radius: 12px;font-size:16px">Try A Business Class</button>
             </div>
             
 
         </div>
 
         <div class="col-lg">
-          <!-- img here -->
+                <img src="../assets/img/ms1.png" alt="" class="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%;">
         </div>
       </div>
     </section>

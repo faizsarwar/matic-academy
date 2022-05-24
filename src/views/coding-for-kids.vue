@@ -1,8 +1,8 @@
 <template>
     <div>
 
-    <section class="pt-2 pb-5" >
-      <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
+    <section class="pt-2 " >
+      <div class="row mt-2  ml-4 text-left">
         <div class="col-lg">
           <h1 class="ml-4 pr-5 pt-5 "><b style="">CODING FOR KIDS
             </b>
@@ -18,8 +18,9 @@
 
         </div>
 
-        <div class="col-lg">
-          <!-- img here -->
+        <div class="col-lg ">
+           <img src="../assets/img/cfr1.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
+
         </div>
       </div>
     </section>
@@ -30,12 +31,13 @@
 
 
     <section class="pt-5 pb-5 pl-4 pr-4 mb-3 text-center" >
-        <div class="p-5" style="border-radius:35px;background-color:#A2469A">
-            <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
+        <div class="pr-5 " style="border-radius:35px;background-color:#A2469A">
+            <div class="row mt-2 mb-4  mr-3 text-left">
 
                 <div class="col-lg">
-                <!-- img here -->
-                </div>
+                 <img src="../assets/img/cfr2.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
+              </div>
+              
                 <div class="col-lg">
                     <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Get started with Blocks
                         </b>
@@ -57,36 +59,11 @@
 
 
     <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
-        <div class="p-5 " style="border-radius:35px;background-color:#4cbd94">
-            <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
+        <div class="pr-5 " style="border-radius:35px;background-color:#FED01F">
+            <div class="row mt-2 mb-4  mr-3 text-left">
 
                 <div class="col-lg">
-                    <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">Get started with Blocks
-                        </b>
-                    </h1>
-                    <p class="ml-4 pr-5 mt-5" style="color:white !important">Introduce students to the world of programming with playful blocks and let them dive deep into loops, conditional statements, variables, functions, and much more.
-                    </p>
-
-                    <!--button  -->
-                    <div class="mt-5">
-                    <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
-                    </div>
-                    
-
-                </div>
-                <div class="col-lg">
-                <!-- img here -->
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
-        <div class="p-5 " style="border-radius:35px;background-color:#FED01F">
-            <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
-
-                <div class="col-lg">
-                <!-- img here -->
+                  <img src="../assets/img/cfr4.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
                 </div>
                 <div class="col-lg">
                     <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">Fun with Javascript
@@ -109,8 +86,8 @@
 
 
     <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
-        <div class="p-5 " style="border-radius:35px;background-color:#231F20">
-            <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
+        <div class="pl-5 " style="border-radius:35px;background-color:#231F20">
+            <div class="row mt-2 mb-4 ml-4  text-left">
 
 
                 <div class="col-lg">
@@ -127,7 +104,7 @@
 
                 </div>
                 <div class="col-lg">
-                <!-- img here -->
+                  <img src="../assets/img/cfr3.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
                 </div>
 
             </div>

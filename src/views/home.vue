@@ -134,7 +134,7 @@
     <!-- col -->
     <div class="row pt-5 pl-5 pr-5">
       <div class="col-lg">
-        <img src="../assets/img/icon1.jpg" alt="" class="circular--square" style="width:300px;">
+        <img src="../assets/img/f.png" alt="" class="circular--square" style="width:300px;height:240px">
         <h3 class="mt-4"><b> Quality Instruction </b></h3>
         <div class="m-4 " style="text-align:left">
           <ul>
@@ -152,7 +152,7 @@
       </div>
 
       <div class="col-lg">
-        <img src="../assets/img/icon1.jpg" alt="" class="circular--square" style="width:300px;">
+        <img src="../assets/img/4.png" alt="" class="circular--square" style="width:300px;height:240px">
         <h3 class="mt-4"><b> Real-World Subjects </b></h3>
         <div class="m-4 " style="text-align:left">
           <ul>
@@ -170,7 +170,7 @@
       </div>
       
       <div class="col-lg">
-        <img src="../assets/img/icon1.jpg" alt="" class="circular--square" style="width:300px;">
+        <img src="../assets/img/sc2.png" alt="" class="circular--square" style="width:300px;height:240px">
         <h3 class="mt-4"><b> Community of Learners </b></h3>
         <div class="m-4 " style="text-align:left">
           <ul>

@@ -1,8 +1,8 @@
 <template>
     <div>
 
-    <section class="pt-2 pb-5" style="background-color: #3a0078;color:white">
-      <div class="row mt-2 mb-4  text-left">
+    <section class="" style="background-color: #3a0078;color:white">
+      <div class="row   text-left">
         <div class="col-lg ml-4 mr-3">
           <h1 class="ml-4 pr-5 pt-5 mt-5"><b style="color:white !important">Online Math Courses
             for Kids
@@ -23,7 +23,7 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
         </div>
 
         <div class="col-lg">
-          <!-- img here -->
+                <img src="../assets/img/1.png" alt="" class="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
         </div>
       </div>
     </section>
