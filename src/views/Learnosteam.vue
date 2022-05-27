@@ -4,12 +4,13 @@
     <section class="pt-2 pb-3" >
       <div class="row mt-2 mb-2  text-left">
         <div class="col-lg pb-3">
-          <h1 class="ml-4 p-5 "><b style=""> LearnOSTEAM: COMPREHENSIVE ONLINE STEAM EDUCATION
+          <h1 class="ml-4 p-2 "><b style=""> LearnOSTEAM: COMPREHENSIVE ONLINE STEAM EDUCATION
             PLATFORM FOR SCHOOLS
             </b>
           </h1>
-            <p class="ml-4 pr-5 mt-5" style="">Teacher independent, scalable across
-            branches, easily affordable solution for progressive educators.
+            <p class="ml-4 pr-5 mt-5" style="">
+The magic of STEM is now at your fingertips. With the rise in popularity and accessibility, more children than ever before have been acquiring an understanding about science, technology engineering or mathematics (STEM) early on through simple games that are easily understandable by young minds.   <br>
+What if there was a way to up your game in the classroom without hiring an expensive tutor or superstar teacher? Well now, with our affordable and scalable education platform for progressive educators you can!
             </p>
 
             <!--button  -->
@@ -30,7 +31,7 @@
 
     <section class="pt-3 pb-3 pl-4 pr-4 mb-5 text-center" >
         <div class=" " style="border-radius:35px;background-color:#A2469A">
-            <div class="row mt-2 mb-4   text-left">
+            <div class="row    text-left">
 
                 <div class="col-lg  ">
                   <img src="../assets/img/2.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
@@ -41,8 +42,8 @@
                         </b>
                     </h1>
                   </div>
-                    <p class="ml-4 pr-5 mt-4" style="color:white !important">Introduce students to the wonderful world of STEAM and incorporate play-based learning for an engaging experience.
-                    </p>
+                    <p class="ml-4 pr-5 mt-2" style="color:white !important">By incorporating play-based learning, you are able to engage your students in the wonderful world of STEAM. This new approach will introduce them not only physically but emotionally as well.
+                       </p>
 
                     <!--button  -->
                     <div class="mt-3 pb-3">
@@ -72,8 +73,9 @@
                     </h1>
                   </div>
 
-                    <p class="ml-4 pr-5 mt-5" style="color:white !important">Combine learning with our hardware simulators and save costs on expensive robotics kits.
-                    </p>
+                    <p class="ml-4 pr-5 mt-5" style="color:white !important">Save time and money with our virtual reality hardware simulator.
+Schools can now introduce new courses without spending thousands on robotics equipment or having their students leave class to use it - all while maintaining the school’s budget.
+  </p>
 
                     <!--button  -->
                     <div class="m-3 pb-4">
@@ -101,8 +103,9 @@
                     </h1>
                   </div>
 
-                    <p class="ml-4 pr-5 mt-5" style="color:white !important">Learn 21st century skills through our robust, trainer-independent STEAM curriculum.
-                    </p>
+                    <p class="ml-4 pr-5 mt-5" style="color:white !important">
+We offer a curriculum that is robust and trainer-independent, making it the perfect match for modern skills.
+  </p>
 
                     <!--button  -->
                     <div class="mt-5 pb-3">
@@ -128,8 +131,8 @@
                     <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">Analyze and manage student learning
                         </b>
                     </h1>
-                    <p class="ml-4 pr-5 mt-5" style="color:white !important">Monitor each student’s progress through easy-to-use teacher dashboards in our Learning Management System
-                    </p>
+                    <p class="ml-4 pr-5 mt-5" style="color:white !important">Teachers will be able to easily monitor their students’ progress with interactive dashboards that provide valuable information about where they are struggling and what needs improvement.
+   </p>
 
                     <!--button  -->
                     <div class="mt-5">
@@ -157,8 +160,8 @@
                         </b>
                     </h1>
                   </div>
-                    <p class="ml-4 pr-5 pl-3 mt-5" style="color:white !important">Automated learning enabling school teachers without STEAM expertise to teach.
-                    </p>
+                    <p class="ml-4 pr-5 pl-3 mt-5" style="color:white !important">The world is changing. Technology has developed at such a rapid pace that it's now possible to teach students without any STEAM expertise by using automated learning tools.
+          </p>
 
                     <!--button  -->
                     <div class="mt-5 pb-5">

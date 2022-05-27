@@ -4,16 +4,16 @@
     <section class="pt-2 " >
       <div class="row mt-2  ml-4  text-left">
         <div class="col-lg">
-          <h1 class="ml-4 pr-5 pt-5 "><b style=""> DIY KITS: HANDS-ON LEARNING THROUGH FUN AND ENGAGING
+          <h2 class="ml-4 pr-5 pt-3 "><b style=""> DIY KITS: HANDS-ON LEARNING THROUGH FUN AND ENGAGING
 HARDWARE KITS
             </b>
-          </h1>
-            <p class="ml-4 pr-5 mt-5" style="">Play, ideate, and create with
-over 18 DIY Kits
+          </h2>
+            <p class="ml-4 pr-5 mt-3" style="">If you're looking for an easy way to get started with technology, look no further than the Arduino Starter Kit! This kit has been designed by tinkerers who know what it takes. With this product in hand and some creativity on display - anyone can create their very own project based off ideas they love like Security System or Alarm system.
+<br> The best part about these inventions? They are all DIY-friendly so there's never any need spend lots of money getting things done when someone else might not want them too
             </p>
 
             <!--button  -->
-            <div class="mt-5">
+            <div class="mt-3">
             <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
             </div>
             
@@ -59,8 +59,8 @@ over 18 DIY Kits
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Buddy Bot
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">Buddy Bot provides you with multiple hands-on fun activities with ability of facial recognition, picking and placing objects and responsive to voice commands. It is also bluetooth/wifi controllable and is convertible into a gaming console.
-                        </p>
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Buddy Bot is a new and innovative way for children to have fun! It features many hands-on activities that are not only educational, but also interactive. The bot can recognize facial expressions as well as voice commands which makes it easier than ever before; perfect if you want your child's attention on something other than themselves all day long (or at least until dinner). With this device in their life they will be able explore technology while learning how much more there really could always be inside each one of us - even without computers or smartphones needed.
+         </p>
 
                         <!--button  -->
                         <div class="mt-5">
@@ -76,8 +76,8 @@ over 18 DIY Kits
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> IOT Starter Kit
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The IoT Starter Kit is a DIY kit aimed at tinkerers who want to dive into the world of IoT. This kit will enable you to make your room smart by controlling devices over the Internet.
-                        </p>
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">Tinkering with IoT is easy and fun! Now you can make your room smart by controlling devices over the Internet. The kit includes all electronics needed for this project, as well as instructions on how to connect them together in one place or many different ones throughout a house - perfect if some of those icky skills aren't quite there yet but soon-to be sibling has been asking too many questions about what's going inside her bedroom wall lately.
+    </p>
 
                         <!--button  -->
                         <div class="mt-5">
@@ -102,8 +102,8 @@ over 18 DIY Kits
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Codi Bot Kit
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">CODI is an educational robot to dive into the exciting world of STEAM. With CODI, you can learn to code, learn about sensors, electronics and solve problems by making different kinds of robots. It is the perfect tool to be ready for the future.
-                        </p>
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">CODI is a revolutionary educational robot that will take you on an exciting journey through the world of STEAM. With Codic, kids can learn how to code and sensors while simultaneously being introduced with electronics in order for them to have skills ready when it comes time for careers or college classes later down this road! A must-have toolbox item any kid should invest their money into owning because what good arresters are gonna be without knowledge.
+                  </p>
 
                         <!--button  -->
                         <div class="mt-5">
@@ -119,7 +119,8 @@ over 18 DIY Kits
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Brush Bot
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">BRUSH BOT is a mini DIY (Do It Yourself) robot, which dances around on your command. Learn the science of vibration and electronics and take the first step in the world of Technology.                        </p>
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">Have you always wanted to make your own robot but didn't know where start? Well, now's the time! BRUSH BOT is a mini DIY (Do-It Yourself) robotic creature that can dance around on command. Learn about science and electronics in this great introduction for tech lovers of all ages - even adults will enjoy putting together their very own gadget assistants just like Buzz Lightyear or predecessor Doctor Smith did back when they were little kids dreaming up ways people might one dayloraspberries from space podcast.
+         </p>
 
                         <!--button  -->
                         <div class="mt-5">
@@ -135,8 +136,8 @@ over 18 DIY Kits
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Solar House
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The SOLAR HOUSE is a DIY (Do It Yourself) kit designed to impart essential knowledge of Solar Energy. You will learn how to make circuits that light up, make sound, move and much more by using the energy of the SUN.
-                        </p>
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">Solar energy is a renewable and eco-friendly form of power that you can harness to light up your home. The SOLAR HOUSE kit was designed by DIYers, for those who want an easy way to learn how they work!
+The instructions will show newcomers just what's needed in order to make circuits with lights flashing tunes playing sound effects moving images on screen - all powered solely from sunlight shining through transparent walls coating everything inside its wifi hotspot ready access points . This smart device requires no wiring whatsoever so anyone interested has nothing but themselves left holding onto misconceptions about owning their own clean perpetual source ́round here.          </p>
 
                         <!--button  -->
                         <div class="mt-5">
@@ -161,8 +162,8 @@ over 18 DIY Kits
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">Me Arm
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Me Arm Kit will help you to create your own personal robotic arm that you can control from your very own computer! Constructing the arm is a challenge that will keep you engaged for hours! Once you have assembled it completely, you will learn how to control the four included servo motors to help it to move in all directions and help pick and place objects!
-                        </p>
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Me Arm Kit is a great way to get creative and have some fun with technology! It's never been easier than now, so grab your computer or smartphone because this project will take you on an adventure like no other. With the help of four servo motors that are included in each kit purchase - all controlled from our very own computers through easy-to use software programs--we can make anything happen: move forward/backward walk right turn left raise arm up down lower arms lift off ground...the possibilities really aren't limited at all when using these innovative kits designed by STEM company named "MeArm."
+                      </p>
 
                         <!--button  -->
                         <div class="mt-5">
@@ -178,7 +179,8 @@ over 18 DIY Kits
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Melody Matic
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Melody Matic DIY kit will help you to create a piano yourself with the help of both electronics and programming! The piano can be customized according to your liking with your choice of the number of buttons as well as the volume. Also included in the set is a sonar sensor that will help you create a piano that with just your hand hovering over it!   </p>
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">With the help of electronics and programming, you can now make your own piano from scratch! You are not limited in terms or how many keys there will be on any one instrument. Furthermore it is possible for anyone who knows some basics about music engineering to create their very own unique design with this kit by using either regular sonar sensor signals or more advanced ones depending upon what They want out their product/instrument- making process.
+  </p>
 
                         <!--button  -->
                         <div class="mt-5">
@@ -194,8 +196,8 @@ over 18 DIY Kits
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Smart Watch
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Smart Watch includes all the items that you would need to make to make your very own OLED screen powered smart watch! The kit includes an Arduino that you can program to tell you the time and any other information that you desire along with a watch strap that will help keep everything together!
-                        </p>
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">Making your very own OLED screen powered smart watch is easy with this kit! The ingredients include an Arduino board and watch strap, so you can customize the information that appears on it.
+   </p>
 
                         <!--button  -->
                         <div class="mt-5">
@@ -220,8 +222,8 @@ over 18 DIY Kits
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">Security Kit
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Security Kit is all that you will need to help protect your home by ringing an alarm in case of fires, intruders or any other unwelcome activity. Learn how circuits work by creating your own circuit for protecting your home while also learning to program an Arduino to help create the ultimate security system as per your individual requirements!
-                        </p>
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Security Kit is your ultimate home security system. It has everything you need to protect the safety and well-being of yourself, family members or guests by ringing an alarm in case there's any fires at night; intruders trying their luck breaking into homes through windows etcetera! Learn how circuits work with this easy step tutorial on creating a simple circuit that will keep those pesky burglars out while also learning some programming techniques for use when designing customised solutions which are perfectly tailored just right according to what requirements YOU have - so get going now before someone else does.
+                                        </p>
 
                         <!--button  -->
                         <div class="mt-5">
@@ -237,7 +239,7 @@ over 18 DIY Kits
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Wearable Kit
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Wearable Kit is a DIY kit aimed at tinkerers who want to dive into the fashionable world of Wearable Electronics without much prior knowledge of the area. This kit will enable you to add items such as cool LEDs to your wearables such as bags, caps and clothes which you can program to work according to your liking!   </p>
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Wearable Kit is an innovative DIY kit that will help you dive into the fashionable world of wearable electronics without much prior knowledge on this subject. This product contains all components needed to program wearables such as bags, caps and clothes with color LED lights- making them fun for everyone.  </p>
 
                         <!--button  -->
                         <div class="mt-5">
@@ -253,8 +255,7 @@ over 18 DIY Kits
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Health Kit
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Health Kit includes several components such as a temperature sensor and a pulse sensor using which any individual’s health, including heartbeat and body temperature can be monitored continuously. The included LCD can also be used to display these values in real time. Also, you can customize this DIY kit according to your liking to ensure the best monitoring of your health!
-                        </p>
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">With the Health Kit, you can monitor your heart rate and temperature continuously. The included LCD will show these values in real time too! You could even customize this DIY kit according to what's best for YOU so that it suits not just how well you are doing but also your personal needs.       </p>
 
                         <!--button  -->
                         <div class="mt-5">
@@ -281,7 +282,7 @@ over 18 DIY Kits
 
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Plant Health Kit is all that you will need to keep your plant healthy by ensuring that it keeps receiving the right amount of water to prevent wilting while also measuring the humidity and temperature to make sure an alarm sounds if the plant’s health is at risk. The provided LCD display provides accurate real-time information about the health of the plant as well.
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">With the Plant Health Kit, you can keep your plants healthy and happy by ensuring that they receive enough water to remain vibrant. The kit also measures humidity levels or temperature in order for an alarm sound if necessary! LCD display provides accurate real-time information about plant's health
 
 
                         </p>
@@ -300,7 +301,8 @@ over 18 DIY Kits
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> IOT & Home Automation Kit
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The IoT & Home Automation Kit aims to help you dive into the amazing world of data by helping you create a Wi-Fi enabled model house using which you can control any appliance of your liking with the help of the included relay module. This will help you monitor the temperature of the model house from anywhere in the world over the internet and control devices such as a fan and lights as well.
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">Control any appliance of your liking with just a few clicks! The IoT & Home Automation Kit lets you dive into the amazing world data by creating an Wi-Fi enabled model house, which can be controlled from anywhere. With this kit's included relay module, you'll have all that is needed for monitoring temperature levels in one place while also being able to turn on or off lights remotely without ever having been there yourself - it makes sense why so many people are choosing these types of tech solutions nowadays.
+The input only contained information about what was being marketed but did not provide much context around how they could benefit someone’s life; therefore we added introductory phrases such as "This will help" throughout our output.
 
 </p>
 
@@ -318,8 +320,7 @@ over 18 DIY Kits
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Soldering Kit
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Soldering Kit is designed to introduce children to an exciting world of electronics. Soldering is the method by which two metals are joined together by melting another metal called solder. With this kit they can make new circuits, alarms, blinking lights and much more.
-                        </p>
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">Get your child started with electronics today! The Soldering Kit is a great way for beginners to learn about the fascinating world of circuit-making. With this kit, they can make new alarms or circuits that will glow in response when touched by another object--and much more than just simple lights are possible too.        </p>
 
                         <!--button  -->
                         <div class="mt-5">

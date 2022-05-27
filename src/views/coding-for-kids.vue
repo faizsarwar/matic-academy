@@ -7,8 +7,8 @@
           <h1 class="ml-4 pr-5 pt-5 "><b style="">CODING FOR KIDS
             </b>
           </h1>
-            <p class="ml-4 pr-5 mt-5" style="">Learn the basics of programming in a hands-on, immersive manner.
-            </p>
+            <p class="ml-4 pr-5 mt-5" style="">Learn in a setting tailored just for you! With private one on one classes and on-demand access to all our most popular courses, get matched with an instructor that fits your learning style. <br>
+Keep things flexible by exploring & mastering real world skills at home or work through self-guided lessons available 24/7 without any prerequisites needed - it’s the perfect way of brushing up before taking those next steps towards becoming certified.         </p>
 
             <!--button  -->
             <div class="mt-5">

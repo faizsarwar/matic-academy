@@ -5,9 +5,8 @@
         <div class="col-lg">
           <h1 class="ml-4 pr-5 pt-5"><b style="">STEAM CAMPS </b></h1>
           <p class="ml-4 pr-5 mt-5" style="">
-            The most loveable STEAM Camp on Earth and coming soon on Mars; with
-            99% positive feedback from parents and students.
-          </p>
+            We design our courses in-house by industry experts and deliver them with certified trainers. This comprehensive curriculum enables outcome oriented learning that will help you get the results your business needs.
+ </p>
 
           <!--button  -->
           <div class="mt-5">
@@ -49,10 +48,8 @@
       <div class="p-5" style="border-radius: 35px">
         <h1><b>ACTIVITIES INCULDED</b></h1>
         <h5 class="mt-3">
-          Students have access to 15+ course domains. Our curriculum is designed
-          by industry experts and experienced inhouse team of STEAM curriculum
-          designers.
-        </h5>
+       We know how to keep your learning experience close and personal. Our trainer-led sessions can easily be shifted online so you'll never miss out on the physical sensations of a place or time again! Taught through our online learning platform, hardware kits and simulators – even without any space requirements for class attendance there's no such thing as too much knowledge when it comes down right here at home with us.
+ </h5>
         <div
           class="
             g-cols
