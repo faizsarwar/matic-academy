@@ -9,7 +9,7 @@
             </b>
           </h1>
             <p class="ml-4 pr-5 mt-5" style="">
-The magic of STEM is now at your fingertips. With the rise in popularity and accessibility, more children than ever before have been acquiring an understanding about science, technology engineering or mathematics (STEM) early on through simple games that are easily understandable by young minds.   <br>
+The magic of STEM is now at your fingertips. With the rise in popularity and accessibility, more children than ever before have been acquiring an understanding about science, technology engineering or matheMatics (STEM) early on through simple games that are easily understandable by young minds.   <br>
 What if there was a way to up your game in the classroom without hiring an expensive tutor or superstar teacher? Well now, with our affordable and scalable education platform for progressive educators you can!
             </p>
 
@@ -74,7 +74,7 @@ What if there was a way to up your game in the classroom without hiring an expen
                   </div>
 
                     <p class="ml-4 pr-5 mt-5" style="color:white !important">Save time and money with our virtual reality hardware simulator.
-Schools can now introduce new courses without spending thousands on robotics equipment or having their students leave class to use it - all while maintaining the school’s budget.
+Schools can now introduce new courses without spending thousands on robotics equipment or having their students leave Class to use it - all while maintaining the school’s budget.
   </p>
 
                     <!--button  -->

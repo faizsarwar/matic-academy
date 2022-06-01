@@ -3,11 +3,11 @@
 
     <section class="pt-5 pb-5" style="background-color: #3a0078;color:white">
         <div class="p-5">
-          <h1 class="ml-4 pr-5"><b style="color:white !important">The matic Blog</b></h1>
+          <h1 class="ml-4 pr-5"><b style="color:white !important">The Matic Blog</b></h1>
           <!-- <p class="mt-3 ml-4 pr-5" style=" ">
            <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 8-18</span>
           </p> -->
-            <p class="ml-4 pr-5 mt-2" style="color:white !important">The matic Learning blog provides online educational resources about Computer Science, Mathematics, and English for kids and their parents.</p>
+            <p class="ml-4 pr-5 mt-2" style="color:white !important">The Matic Learning blog provides online educational resources about Computer Science, MatheMatics, and English for kids and their parents.</p>
 
         </div>
     </section>

@@ -23,7 +23,7 @@
                     <h2><b>Email</b></h2>
                   </div>
                   <p class="mt-5 mb-0">Please Email us at</p>
-                  <a href="" style="color:blue">Support@learnwithmatic.com</a>
+                  <a href="" style="color:blue">Support@learnwithMatic.com</a>
                 </div>
               </div>
             </div>

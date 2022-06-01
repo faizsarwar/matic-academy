@@ -1,9 +1,9 @@
 <template>
   <section class="pt-5 pb-5" style="background-color: white;">
     <div class="container">
-      <div class="row center_elements mt-5">
+      <!-- <div class="row center_elements mt-5">
         <h1 class="mt-5 heading mb-5"><b>Real Reviews from Real Parents</b></h1>
-      </div>
+      </div> -->
 
 
         <div class="row"> 

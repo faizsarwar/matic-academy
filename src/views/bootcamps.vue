@@ -4,9 +4,9 @@
     <section class="" style="background-color: #3a0078;color:white">
       <div class="row mt-4 mb-4 ml-4 text-left">
         <div class="col-lg pt-5">
-          <h1 class="ml-4 pr-5"><b style="color:white !important">Introducing Matic Group Bootcamps</b></h1>
-          <p class="mt-3 ml-4 pr-5" style=" ">
-           <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 8-18</span>
+          <h1 class="ml-4 pr-5 mb-3"><b style="color:white !important">Introducing Matic Group Bootcamps</b></h1>
+          <p class="mt-3 ml-4 pr-5 mt-5" style=" color:white">
+           <span class="px-4 py-2 bg-success" style="border-radius: 9px;">  Age 8-18</span>
           </p>
             <p class="ml-4 pr-5 mt-2" style="color:white !important">For a limited time, get half off group bootcamps
 (starting at $40 a course) created and taught by
@@ -14,7 +14,7 @@ our top instructors.
             </p>
 
             <!--button  -->
-            <div class="mt-5">
+            <div class="mt-3">
             <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get A 50% off Today</button>
             </div>
 
@@ -34,7 +34,7 @@ our top instructors.
                 </div>
                 <div class="col-7 " style=" text-align: left; color: black;">
                     <div class=" ml-3 pt-5 pr-3 pl-5 ">
-                        <h1 class="mt-3 mb-3"><b>Matic, Now in Group Bootcamps.</b></h1>
+                        <h1 class="mt-3 mb-3"><b>Matic, Now In Group Bootcamps.</b></h1>
                         <!-- row with tick -->
                         <div class="row mt-4 mb-4">
                             <div class="col-1 ">

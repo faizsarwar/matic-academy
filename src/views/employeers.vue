@@ -5,12 +5,12 @@
       <div class="row mt-4 mb-4  text-left">
         <div class="col-8 ml-4 mr-3">
             <div class="pl-5 ml-5"> 
-                <h1 class="ml-4 pr-5"><b style="color:white !important">matic for Employers</b></h1>
+                <h1 class="ml-4 pr-5"><b style="color:white !important">Matic for Employers</b></h1>
                 <!-- <p class="mt-3 ml-4 pr-5" style=" ">
                 <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 8-18</span>
                 </p> -->
                     <h5 class="ml-4  pr-5 mt-2" style="color:white !important">Support working parents and families within your <br>
-                        organization by offering matic as a unique learning benefit
+                        organization by offering Matic as a unique learning benefit
                     </h5>
 
                     <!--button  -->
@@ -124,7 +124,7 @@
             </svg> 
 
               We Make Online Education Human </b></h2>
-          <p class="mt-5 mb-5 ml-5">Matic's community is dedicated to supporting your child's education journey by offering out-of-class opportunities like Matic Clubs, Instructor office hours, and project shares.</p>
+          <p class="mt-5 mb-5 ml-5">Matic's community is dedicated to supporting your child's education journey by offering out-of-Class opportunities like Matic Clubs, Instructor office hours, and project shares.</p>
         </div>
       </div>
       <!-- <div class="col-6">
@@ -148,9 +148,9 @@
           </div>
         </div>
         <div class="col-lg text-left">
-                <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">As a trained engineer myself, I was keen for my children to learn how to code. matic has created a great learning environment to do just that.</b> </h1>
-          <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">My hope with matic was to advance my kids’ interest and exposure to coding. I’ve found that my kids quickly identify with their matic Instructors, and they tend to ask a lot of questions and remain excited about coding.</h5>
-          <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Tim B., matic Parent Former Chief Product Officer At Yahoo And CEO At QuestBridge</h5>
+                <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">As a trained engineer myself, I was keen for my children to learn how to code. Matic has created a great learning environment to do just that.</b> </h1>
+          <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">My hope with Matic was to advance my kids’ interest and exposure to coding. I’ve found that my kids quickly identify with their Matic Instructors, and they tend to ask a lot of questions and remain excited about coding.</h5>
+          <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Tim B., Matic Parent Former Chief Product Officer At Yahoo And CEO At QuestBridge</h5>
       
         </div>
       </div>

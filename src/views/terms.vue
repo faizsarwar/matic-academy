@@ -34,7 +34,7 @@
                         class="card-text ml-3 mr-3 mb-4 pt-3 pl-5 pr-5"
                         style="text-align: center; "
                       >
-        matic is a membership-driven learning platform designed to help each student discover and pursue their passions with joy. We offer private 1:1 classes in Computer Science, Math, and English for students ages 7-18 taught by instructors from top US universities.
+        Matic is a membership-driven learning platform designed to help each student discover and pursue their passions with joy. We offer private 1:1 classes in Computer Science, Math, and English for students ages 7-18 taught by instructors from top US universities.
                       </p>
                       </div>
                       </div>

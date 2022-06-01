@@ -9,7 +9,7 @@
           <div class=" mr-5 p-5 ">
             <div class="pr-5 pt-3">      
               <h1 class="mr-5  "><b> Education for the Real World </b></h1>
-              <p class="mr-5  mt-4">We provide a wide range of courses for all interests. Our site offers the possibility to try out free classes in any subject and we have instructors who are available 24/7 via chat, email or phone calls if you ever need help with your learning objectives. You can try out our free classes in all subjects by saving them to your wish list. We offer real-world topics like coding, investing & entrepreneurship or math; science for those who enjoy learning about the natural world around them through data analysis.</p>
+              <p class="mr-5  mt-4 text">We provide a wide range of courses for all interests. Our site offers the possibility to try out free classes in any subject and we have instructors who are available 24/7 via chat, email or phone calls if you ever need help with your learning objectives. You can try out our free classes in all subjects by saving them to your wish list. We offer real-world topics like coding, investing & entrepreneurship or math; science for those who enjoy learning about the natural world around them through data analysis.</p>
               <button button type="" class="btn btn-success btn-lg " style="height:65px; width : 300px; border-radius: 12px;font-size:16px">Try A Free class</button>      
             </div>
             <div class="row mt-1">
@@ -115,7 +115,7 @@
             </svg> 
 
               We Make Online Education Human </b></h2>
-          <p class="mt-5 mb-5 ml-5">Matic's community is dedicated to supporting your child's education journey by offering out-of-class opportunities like Matic Clubs, Instructor office hours, and project shares.</p>
+          <p class="mt-5 mb-5 ml-5">Matic's community is dedicated to supporting your child's education journey by offering out-of-Class opportunities like Matic Clubs, Instructor office hours, and project shares.</p>
         </div>
       </div>
       <div class="col-6">
@@ -198,11 +198,11 @@
     <h1 class="mt-4"><b>New to Matic?</b></h1>
     <h1 class="mb-4"><b>Speak with a Matic Advisor today</b> </h1>
     <div class="row text-left">
-      <div class="col-6 " >
+      <div class="col-3 " >
         <h3 class="ml-5 mt-5"><b>Call Us</b></h3>
         <h3 class="ml-5 mt-2"><b>650-263-4306</b> </h3>
       </div>
-      <div class="col-6" style="font-size:18px">
+      <div class="col-9" style="font-size:18px">
         <p class="ml-5 mt-5 mb-0"><b>Or, send us a message.</b></p>
         <p class="ml-5 mt-0"><b>We normally respond within the hour:</b></p>
         <form class=" mr-4">
@@ -238,7 +238,7 @@
                 Text me for Matic news and offers
               </label>
             </div>
-              <button type="submit" class="btn btn-success">Submit</button>
+              <button type="submit" class="btn btn-success mt-3">Submit</button>
           </div>
 
         </form>
@@ -247,7 +247,7 @@
     </div>
   </section>
 
-  <section class="pt-5 pb-5" style="background-color:#A2469a">
+  <section class="pt-5 pb-5 bg-success" >
       <h1 class="mt-4 mb-4"><b style="color:white !important">All Matic Courses Include:</b></h1>
       <div class="row pl-4 pr-4" >
         <div class="col-3">

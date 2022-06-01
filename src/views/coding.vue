@@ -6,14 +6,14 @@
         <div class="col-lg ml-4">
           <h1 class="ml-4 pr-5 pt-5 pb-5"><b style="color:white !important">Coding for Kids</b></h1>
           <p class="mt-3 ml-4 pr-5" style=" ">
-           <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 8-18</span>
+           <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Age 8-18</span>
           </p>
             <p class="ml-4 pr-5 mt-2" style="color:white !important">Learn how to code and prepare your child for the future with these innovative classes. With each level, students will master new programming concepts while building on what they've learned previously by designing their own projects in different languages like Python or Java!
             </p>
 
             <!--button  -->
             <div class="mt-5">
-            <button type="" class="btn btn-success btn-lg ml-2 mb-3 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try A Free Coding Class</button>
+            <button type="" class="btn btn-success btn-lg ml-4 mb-3 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try A Free Coding Class</button>
             </div>
 
         </div>
@@ -29,13 +29,21 @@
 
     <section class="pt-5 pb-5 pl-4 pr-4 text-center">
         <div>
-            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2"><b >We’re experts at teaching kids to code for an increasingly tech-driven world.</b></h1>
-            <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0">
-                Job demand for coding skills is projected to grow over 2x faster than other occupations. Prepare your kids for the modern world with matic, no matter their experience level. We offer a full computer science curriculum for kids ages 8-18.
-            </p>
+            <h2 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2"><b >We’re experts at teaching kids to code for an increasingly tech-driven world.</b></h2>
+            <!-- <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0">
+                Job demand for coding skills is projected to grow over 2x faster than other occupations. Prepare your kids for the modern world with Matic, no matter their experience level. We offer a full computer science curriculum for kids age 8-18.
+            </p> -->
+            <div class="card ">
+            <div class="p-5">
+     Job demand for coding skills is projected to grow over 2x faster than other occupations. Prepare your kids for the modern world with Matic, no matter their experience level. We offer a full computer science curriculum for kids age 8-18.
+           
+            </div>
+
+            
+          </div>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-0"
+                class="btn btn-success btn-lg pb-3 mt-4"
                 style="
                 height: 65px;
                 width: 200px;
@@ -50,7 +58,7 @@
 
 
 <section class="pt-5 pb-5">
-    <h1><b> Find an online coding class that fits your schedule & needs</b></h1>
+    <h1><b> Find an online coding Class that fits your schedule & needs</b></h1>
         <best_seller_slides/>
             <button
                 type=""
@@ -66,21 +74,21 @@
             </button>
 </section>
 
-  <section class="pt-5 pb-5" style="background-color:#f2f8fa">
-      <h1 class="mt-4 mb-4"><b >All Matic Courses Include:</b></h1>
+  <section class="pt-5 pb-5 bg-success" style="color:white; " >
+      <h1 class="mt-4 mb-4"><b style="color:white">All Matic Courses Include:</b></h1>
       <div class="row pl-4 pr-4 " >
 
         <div class="col-3 ">
           
           <div class="row">
-            <div class="col-2 mt-2">
-              <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#211ea6" class="bi bi-check-circle" viewBox="0 0 16 16">
+            <div class="col-2  mt-2">
+              <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
                 <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
                 <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
               </svg> 
             </div>
-            <div class="col-10 text-center">
-              <h2 class=" mb-3 " ><b style=""> 
+            <div class="col-10 ml-0 text-left">
+              <h2 class=" mb-3 " ><b style="color:white"> 
 
                 Top Instruction </b></h2>
             </div>
@@ -106,13 +114,13 @@
         <div class="col-3 ">
           <div class="row">
               <div class="col-2 mt-2">
-              <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#211ea6" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
                 <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
                 <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
               </svg> 
             </div>
-            <div class="col-10 text-center">
-            <h2 class="mb-3 " ><b style=""> 
+            <div class="col-10 text-left">
+            <h2 class="mb-3 " ><b style="color:white"> 
             <!-- <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
               <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
               <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
@@ -140,13 +148,13 @@
         <div class="col-3">
           <div class="row">   
             <div class="col-2 mt-2">
-              <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#211ea6" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
                 <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
                 <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
               </svg> 
             </div>       
-                        <div class="col-10 text-center">
-            <h2 class=" mb-3 " ><b style=""> 
+                        <div class="col-10 text-left">
+            <h2 class=" mb-3 " ><b style="color:white"> 
             <!-- <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
               <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
               <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
@@ -173,13 +181,13 @@
         <div class="col-3">
           <div class="row">   
             <div class="col-2 mt-2">
-              <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#211ea6" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
                 <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
                 <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
               </svg> 
             </div>       
-                        <div class="col-10 text-center">
-            <h2 class=" mb-3 " ><b style=""> 
+                        <div class="col-10 text-left">
+            <h2 class=" mb-3 " ><b style="color:white"> 
             <!-- <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
               <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
               <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
@@ -220,9 +228,9 @@
           </div>
         </div>
         <div class="col-lg text-left">
-          <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">As a trained engineer myself, I was keen for my children to learn how to code. matic has created a great learning environment to do just that.</b> </h1>
-          <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">My hope with matic was to advance my kids’ interest and exposure to coding. I’ve found that my kids quickly identify with their matic Instructors, and they tend to ask a lot of questions and remain excited about coding.</h5>
-          <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Tim B., matic Parent Former Chief Product Officer At Yahoo And CEO At QuestBridge</h5>
+          <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">As a trained engineer myself, I was keen for my children to learn how to code. Matic has created a great learning environment to do just that.</b> </h1>
+          <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">My hope with Matic was to advance my kids’ interest and exposure to coding. I’ve found that my kids quickly identify with their Matic Instructors, and they tend to ask a lot of questions and remain excited about coding.</h5>
+          <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important"> <b style="color:white !important"> Tim B.</b> , Matic Parent Former Chief Product Officer At Yahoo And CEO At QuestBridge</h5>
       
         </div>
       </div>
@@ -232,9 +240,11 @@
   <section class="pt-5 pb-5" style=" display:flex ; justify-contents:center; ">
       <div class="col-2"></div>
        <div class="pl-5 pr-5 col-8">
-            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-3 mb-2"><b >Have Questions? Speak to a matic Advisor Today.</b></h1>
+            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-3 mb-2"><b >Have Questions?</b></h1>
+            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-3 mb-2"><b >Speak to a Matic Advisor Today.</b></h1>
+             
             <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0">
-              We're here to help your child succeed, no matter their experience level. Learn more about our coding courses by booking an appointment to speak with a matic Advisor today.
+              We're here to help your child succeed, no matter their experience level. Learn more about our coding courses by booking an appointment to speak with a Matic Advisor today.
             </p>
             <button
                 type=""
@@ -254,8 +264,8 @@
 
   <!-- 1 -->
   <section class="pt-5 pb-5" style="background-color:#f2f8fa;">
-    <h1><b>Join our community of young coders</b></h1>
-    <p class="pt-2 m-5">Kids at matic join a tight knit network of learners like them. Through projects and clubs, our computer science students are able to connect, share ideas, learn from others, and have more fun as they level up their coding skills.</p>
+    <h1><b>Join Our Community Of Young Coders</b></h1>
+    <p class="pt-2 m-5">Kids at Matic join a tight knit network of learners like them. Through projects and clubs, our computer science students are able to connect, share ideas, learn from others, and have more fun as they level up their coding skills.</p>
     <div class="row">
 
     </div>
@@ -322,7 +332,7 @@
             </svg>
   
             <h1 style="color:white" class="mb-5">I'm a coder now.</h1>
-            <h5 style="color:white" >When I started it was hard to code. The instructors are really nice and helped me when I had trouble. They also saw what I liked and helped me learn those things even more. Now, I've learned how to make things on my own and even share my projects on matic and with my friends. It makes me feel really smart!</h5>
+            <h5 style="color:white" >When I started it was hard to code. The instructors are really nice and helped me when I had trouble. They also saw what I liked and helped me learn those things even more. Now, I've learned how to make things on my own and even share my projects on Matic and with my friends. It makes me feel really smart!</h5>
             <div class="row pl-4 pr-4 pt-4">
               <div class="col-6 card-dissapear">
                 <img src="../assets/img/placeholder.jpg" alt="" class=" mr-3   " style="background-size:contain; width:150px;height:150px; background-repeat: no-repeat; text-align: center;border-radius:50%">
@@ -333,7 +343,7 @@
                     Theo N.
                   </b>
                   <p style="color:white">
-                    matic Student
+                    Matic Student
                   </p>
                 </div>
               </div>
@@ -366,9 +376,9 @@
   <section class="pt-5 pb-5" style="background-color:#f2f8fa; display:flex ; justify-contents:center; ">
       <div class="col-2"></div>
        <div class="pl-5 pr-5 col-8">
-            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-3 mb-2"><b >Try the full matic experience for free</b></h1>
+            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-3 mb-2"><b >Try the full Matic experience for free</b></h1>
             <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0">
-              Take a free class to see if matic is right for your child.
+              Take a free Class to see if Matic is right for your child.
             </p>
             <button
                 type=""

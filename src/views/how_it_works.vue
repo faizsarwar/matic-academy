@@ -40,7 +40,7 @@
         <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2">
           When you sign up, our Matic Advisors can help you choose the right
           course for your learner. We can also assess their skill level and
-          interests during our first free 1:1 class to help determine the best
+          interests during our first free 1:1 Class to help determine the best
           course for them.
         </p>
         <button
@@ -110,7 +110,7 @@
         <div class="col-lg " style=" text-align: center; color: black;">
           <div class=" mr-5 pt-5 pr-5 pl-5 pb-0">
               <h1><b>Who Are Our Instructors?</b></h1>
-              <p class="pr-5 mr-2">Our instructors are students from top US universities who teach in their areas of expertise. They are highly-vetted and trained before ever joining a class and must meet a strict criteria:</p>
+              <p class="pr-5 mr-2">Our instructors are students from top US universities who teach in their areas of expertise. They are highly-vetted and trained before ever joining a Class and must meet a strict criteria:</p>
           </div>
           <ul class="text-left pt-0 ml-5" style="color:#261159">
               <li>
@@ -236,7 +236,7 @@
 
         <div class="pt-4 pb-4">
             <h1 class="mt-5"><b>Try the full Matic experience for free</b></h1>
-            <p class="mb-4">Take a free class to see if Matic is right for your child.</p>
+            <p class="mb-4">Take a free Class to see if Matic is right for your child.</p>
             <button button type="" class="btn btn-success btn-lg " style="height:65px; width : 300px; border-radius: 12px;font-size:16px">Try A Free class</button>      
         </div>
     

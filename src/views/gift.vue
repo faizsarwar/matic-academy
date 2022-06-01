@@ -9,8 +9,8 @@
           <!-- <p class="mt-3 ml-4 pr-5" style=" ">
            <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 8-18</span>
           </p> -->
-            <h5 class="ml-4 pr-5 mt-2" style="color:white !important">Send a matic gift card redeemable for
-                any of matic’s award-winning courses.
+            <h5 class="ml-4 pr-5 mt-2" style="color:white !important">Send a Matic gift card redeemable for
+                any of Matic’s award-winning courses.
             </h5>
 
             <!--button  -->
@@ -121,7 +121,7 @@
             </svg> 
 
               We Make Online Education Human </b></h2>
-          <p class="mt-5 mb-5 ml-5">Matic's community is dedicated to supporting your child's education journey by offering out-of-class opportunities like Matic Clubs, Instructor office hours, and project shares.</p>
+          <p class="mt-5 mb-5 ml-5">Matic's community is dedicated to supporting your child's education journey by offering out-of-Class opportunities like Matic Clubs, Instructor office hours, and project shares.</p>
         </div>
       </div>
       <!-- <div class="col-6">

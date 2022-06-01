@@ -49,30 +49,30 @@
                     />
                     <div class="card-body seller-Card">
                         <div class="row">
-                            <div class="col-8 ml-0 mr-0" style="text-align:left;font-size:14px">4.7 | Taken By 120,00 students</div>
-                            <div class="col-4 " style="text-align:right;font-size:12px">First class Free</div>
+                            <div class="col-8 ml-0 mr-0" style="text-align:left;font-size:14px; color:black">4.7 | Taken By 120,00 students</div>
+                            <div class="col-4 " style="text-align:right;font-size:12px ; color:black">First class Free</div>
                         </div>
                       <div class="row" style="color:#466D1D;">
                       <div class="row">
                       <p
                         class="card-title ml-5 mt-4"
-                        style="text-align: center; color: #466d1d"
+                        style="text-align: center; color:black"
                       >
                         <strong> {{blog.tittle}}</strong>
                       </p>
                       </div>
                       <div class="row" >
                       <p
-                        class="card-text ml-3 mr-3 mb-4 pl-3 pr-3"
-                        style="text-align: center; color: #466d1d"
+                        class="card-text ml-3 mr-3 mb-4 pl-3 pr-3 text"
+                        style=" color: #466d1d"
                       >
                       {{blog.description}}
                       </p>
                       </div>
                       </div>
-                      <a :href="'/course/' + blog.id " class="btn btn btn-primary">Read More</a>
+                      <a :href="'/course/' + blog.id " class="btn btn btn-success"  >Read More</a>
                       <hr>
-                      <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3">Age 11-18 | Meets Weekly | Private 1:1</p>
+                      <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3" ><b style="color:black"> Age 11-18 | Meets Weekly | Private 1:1 </b></p>
                     </div>
                   </div>
                     

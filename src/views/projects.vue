@@ -324,9 +324,9 @@
 
       <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center">
         <div>
-            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >Try the full matic experience for free</b></h1>
+            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >Try the full Matic experience for free</b></h1>
             <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0">
-           Take a free class to see if matic is right for your child.
+           Take a free Class to see if Matic is right for your child.
             </p>
             <button
                 type=""

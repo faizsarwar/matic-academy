@@ -671,6 +671,11 @@ nav {
   color:#0b0970
 }
 
+.text{
+  text-align: justify;
+  text-justify: inter-word;
+  }
+
     @media (min-width: 768px) { 
     .dropdown:hover .dropdown-menu {
         display: block;

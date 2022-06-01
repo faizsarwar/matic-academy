@@ -6,7 +6,7 @@
   >
     <div class="row">
       <div class="col-3">
-        <h2 class="mt-4">Faqs</h2>
+        <h2 class="mt-4">FAQ’s</h2>
       </div>
       <div class="col-9">
         <div class="mt-3 mb-3" style="overflow-y: hidden">

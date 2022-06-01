@@ -4,10 +4,10 @@
     <section class="pt-2 pb-5" style="background-color: #3a0078;color:white">
       <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
         <div class="col-lg">
-          <h1 class="ml-4 pr-5 pt-5 mt-5 mb-3"><b style="color:white !important">“As a teacher myself, I know first-hand how hard it is to keep young adults engaged, and matic does it better than any other company I tried.”
+          <h1 class="ml-4 pr-5 pt-5 mt-5 mb-3"><b style="color:white !important">“As a teacher myself, I know first-hand how hard it is to keep young adults engaged, and Matic does it better than any other company I tried.”
             </b>
           </h1>
-          <h5><b class="ml-4 mt-5 pt-4 mb-5" style=" color:white">Serguei N., matic Parent</b></h5>
+          <h5><b class="ml-4 mt-5 pt-4 mb-5" style=" color:white">Serguei N., Matic Parent</b></h5>
             <p class="ml-4 pr-5 mt-3 mb-3" style="color:white !important">
                 Vice-Dean for Global Initiatives, Professor of Innovation and Entrepreneurship Wharton School of Business, University of Pennsylvania
             </p>
@@ -28,7 +28,7 @@
 
     <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center">
         <div class="pl-5 pr-5 pt-5 pb-5">
-            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >Hear what parents, students, and instructors are saying about matic</b></h1>
+            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >Hear what parents, students, and instructors are saying about Matic</b></h1>
             <div class="row">
                 <div class="col">
                   <div class="card" style="border-radius:15px">
@@ -48,8 +48,8 @@
                             </div>
                         </div>
                         <hr>
-                      <h4 class="m-4"><b> A year later, our children still love coding at matic, especially the very personal attention from both the instructors and support team. </b></h4>
-                      <p class="m-4">Our friends mentioned they loved matic, and it was a straightforward decision to enroll. We didn’t even need to convince our children because our friend’s children were so enthusiastic about their classes. The updates after every class are extremely helpful, and the scheduling flexibility has allowed matic to seamlessly integrate into our busy lives.</p>
+                      <h4 class="m-4"><b> A year later, our children still love coding at Matic, especially the very personal attention from both the instructors and support team. </b></h4>
+                      <p class="m-4">Our friends mentioned they loved Matic, and it was a straightforward decision to enroll. We didn’t even need to convince our children because our friend’s children were so enthusiastic about their classes. The updates after every Class are extremely helpful, and the scheduling flexibility has allowed Matic to seamlessly integrate into our busy lives.</p>
                     </div>
                   </div>
                 </div>
@@ -71,8 +71,8 @@
                             </div>
                         </div>
                         <hr>
-                      <h4 class="m-4"><b> matic teaches kids critical thinking and problem solving – the foundation for everything they need in school and beyond. </b></h4>
-                      <p class="m-4">My son has taken classes with matic for 3 years, progressing through Python 1, 2, and 3. His instructors are extremely skilled and relatable, as matic works hard to match instructors to students’ interests. Outside of class, matic provides real world case studies for students to practice their skills, and a supportive community to cheer each other on.</p>
+                      <h4 class="m-4"><b> Matic teaches kids critical thinking and problem solving – the foundation for everything they need in school and beyond. </b></h4>
+                      <p class="m-4">My son has taken classes with Matic for 3 years, progressing through Python 1, 2, and 3. His instructors are extremely skilled and relatable, as Matic works hard to match instructors to students’ interests. Outside of class, Matic provides real world case studies for students to practice their skills, and a supportive community to cheer each other on.</p>
                     </div>
                   </div>
                 </div>
@@ -93,9 +93,9 @@
           </div>
         </div>
         <div class="col-lg text-left">
-            <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">As a trained engineer myself, I was keen for my children to learn how to code. matic has created a great learning environment to do just that.</b> </h1>
-            <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">My hope with matic was to advance my kids’ interest and exposure to coding. I’ve found that my kids quickly identify with their matic Instructors, and they tend to ask a lot of questions and remain excited about coding.</h5>
-            <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Tim B., matic Parent Former Chief Product Officer At Yahoo And CEO At QuestBridge</h5>
+            <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">As a trained engineer myself, I was keen for my children to learn how to code. Matic has created a great learning environment to do just that.</b> </h1>
+            <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">My hope with Matic was to advance my kids’ interest and exposure to coding. I’ve found that my kids quickly identify with their Matic Instructors, and they tend to ask a lot of questions and remain excited about coding.</h5>
+            <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Tim B., Matic Parent Former Chief Product Officer At Yahoo And CEO At QuestBridge</h5>
       
         </div>
       </div>
@@ -106,7 +106,7 @@
 
         <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center">
         <div class="pl-5 pr-5 pt-5 pb-5">
-            <!-- <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >Hear what parents, students, and instructors are saying about matic</b></h1> -->
+            <!-- <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >Hear what parents, students, and instructors are saying about Matic</b></h1> -->
             <div class="row">
                 <div class="col">
                   <div class="card" style="border-radius:15px">
@@ -125,8 +125,8 @@
                             </div>
                         </div>
                         <hr>
-                      <h4 class="m-4"><b> The matic Learning teaching method works well for me and keeps me challenged </b></h4>
-                      <p class="m-4">My favorite thing about matic is I can learn at my own pace. When I already know some concepts, we can move quickly through them and then we can spend more time on new topics. I look forward to my matic classes all week!</p>
+                      <h4 class="m-4"><b> The Matic Learning teaching method works well for me and keeps me challenged </b></h4>
+                      <p class="m-4">My favorite thing about Matic is I can learn at my own pace. When I already know some concepts, we can move quickly through them and then we can spend more time on new topics. I look forward to my Matic classes all week!</p>
                     </div>
                   </div>
                 </div>
@@ -148,7 +148,7 @@
                         </div>
                         <hr>
                       <h4 class="m-4"><b>Ever since I have been taking these classes, I have been getting better grades.</b></h4>
-                      <p class="m-4">My matic instructors are very helpful. They help me customize my learning style by taking my feedback to areas where I need to improve, and to cover them to do better.</p>
+                      <p class="m-4">My Matic instructors are very helpful. They help me customize my learning style by taking my feedback to areas where I need to improve, and to cover them to do better.</p>
                     </div>
                   </div>
                 </div>
@@ -168,9 +168,9 @@
           </div>
           <div class="row text-left">
             <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">
-                matic gave me all types of opportunities to share my projects with the community. I realized people enjoyed them.</b> </h1>
-            <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">matic has changed my relationship with coding by showing me that I can share my coding with people for them to enjoy. When I was only learning to code, I didn’t share my programs with other people. Then in October, I decided to participate in matic’s Open Challenge with my friends, and we won the competition. I felt great about it and wanted everyone to see it, because not only did we make an awesome game, but an amazing presentation as well.</h5>
-            <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Evan C., matic Student</h5>
+                Matic gave me all types of opportunities to share my projects with the community. I realized people enjoyed them.</b> </h1>
+            <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Matic has changed my relationship with coding by showing me that I can share my coding with people for them to enjoy. When I was only learning to code, I didn’t share my programs with other people. Then in October, I decided to participate in Matic’s Open Challenge with my friends, and we won the competition. I felt great about it and wanted everyone to see it, because not only did we make an awesome game, but an amazing presentation as well.</h5>
+            <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Evan C., Matic Student</h5>
 
           </div>
         </div>
@@ -179,7 +179,7 @@
 
         <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center">
         <div class="pl-5 pr-5 pt-5 pb-5">
-            <!-- <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >Hear what parents, students, and instructors are saying about matic</b></h1> -->
+            <!-- <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >Hear what parents, students, and instructors are saying about Matic</b></h1> -->
             <div class="row">
                 <div class="col">
                   <div class="card" style="border-radius:15px">
@@ -198,8 +198,8 @@
                             </div>
                         </div>
                         <hr>
-                      <h4 class="m-4"><b> The matic Learning teaching method works well for me and keeps me challenged </b></h4>
-                      <p class="m-4">My favorite thing about matic is I can learn at my own pace. When I already know some concepts, we can move quickly through them and then we can spend more time on new topics. I look forward to my matic classes all week!</p>
+                      <h4 class="m-4"><b> The Matic Learning teaching method works well for me and keeps me challenged </b></h4>
+                      <p class="m-4">My favorite thing about Matic is I can learn at my own pace. When I already know some concepts, we can move quickly through them and then we can spend more time on new topics. I look forward to my Matic classes all week!</p>
                     </div>
                   </div>
                 </div>
@@ -221,7 +221,7 @@
                         </div>
                         <hr>
                       <h4 class="m-4"><b>Ever since I have been taking these classes, I have been getting better grades.</b></h4>
-                      <p class="m-4">My matic instructors are very helpful. They help me customize my learning style by taking my feedback to areas where I need to improve, and to cover them to do better.</p>
+                      <p class="m-4">My Matic instructors are very helpful. They help me customize my learning style by taking my feedback to areas where I need to improve, and to cover them to do better.</p>
                     </div>
                   </div>
                 </div>
@@ -241,10 +241,10 @@
           </div>
           <div class="row text-left">
             <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">
-                I love seeing students progress and gain inspiration from other instructors and students in the greater matic community.</b> </h1>
+                I love seeing students progress and gain inspiration from other instructors and students in the greater Matic community.</b> </h1>
             <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">
-                I like teaching Algebra 1 because I see Algebra as the essential building blocks to constructing a base knowledge of mathematics. I love seeing concepts click for a student when they solve their first equation and graph their first line!</h5>
-            <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Lindsey McKhann, matic Instructor <br>  </h5>
+                I like teaching Algebra 1 because I see Algebra as the essential building blocks to constructing a base knowledge of matheMatics. I love seeing concepts click for a student when they solve their first equation and graph their first line!</h5>
+            <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Lindsey McKhann, Matic Instructor <br>  </h5>
             
           </div>
         </div>
@@ -253,9 +253,9 @@
 
   <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center">
         <div>
-            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >Try the full matic experience for free</b></h1>
+            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >Try the full Matic experience for free</b></h1>
             <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0">
-            Take a free Math class to see if matic is right for your child.
+            Take a free Math Class to see if Matic is right for your child.
             </p>
             <button
                 type=""

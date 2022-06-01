@@ -48,7 +48,7 @@
       <div class="p-5" style="border-radius: 35px">
         <h1><b>ACTIVITIES INCULDED</b></h1>
         <h5 class="mt-3">
-       We know how to keep your learning experience close and personal. Our trainer-led sessions can easily be shifted online so you'll never miss out on the physical sensations of a place or time again! Taught through our online learning platform, hardware kits and simulators – even without any space requirements for class attendance there's no such thing as too much knowledge when it comes down right here at home with us.
+       We know how to keep your learning experience close and personal. Our trainer-led sessions can easily be shifted online so you'll never miss out on the physical sensations of a place or time again! Taught through our online learning platform, hardware kits and simulators – even without any space requirements for Class attendance there's no such thing as too much knowledge when it comes down right here at home with us.
  </h5>
         <div
           class="
@@ -263,7 +263,7 @@
                 <path d="M3 3.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1.5 0a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1 .5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z"/>
                 <path d="M.5 1a.5.5 0 0 0-.5.5v13a.5.5 0 0 0 .5.5h15a.5.5 0 0 0 .5-.5v-13a.5.5 0 0 0-.5-.5H.5ZM1 5V2h14v3H1Zm0 1h14v8H1V6Z"/>
               </svg>
-              <p class=" pt-5"><b>One class every
+              <p class=" pt-5"><b>One Class every
 week for 1.5 hours </b> </p>
             </div>
           </div>
@@ -294,7 +294,7 @@ Student Ratio</b> </p>
               <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="orange" class="bi bi-pc-display-horizontal" viewBox="0 0 16 16">
                 <path d="M1.5 0A1.5 1.5 0 0 0 0 1.5v7A1.5 1.5 0 0 0 1.5 10H6v1H1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1h-5v-1h4.5A1.5 1.5 0 0 0 16 8.5v-7A1.5 1.5 0 0 0 14.5 0h-13Zm0 1h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-7a.5.5 0 0 1 .5-.5ZM12 12.5a.5.5 0 1 1 1 0 .5.5 0 0 1-1 0Zm2 0a.5.5 0 1 1 1 0 .5.5 0 0 1-1 0ZM1.5 12h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1ZM1 14.25a.25.25 0 0 1 .25-.25h5.5a.25.25 0 1 1 0 .5h-5.5a.25.25 0 0 1-.25-.25Z"/>
               </svg>
-              <p class=" pt-5"><b> Live online class with STEAM mentors </b> </p>
+              <p class=" pt-5"><b> Live online Class with STEAM mentors </b> </p>
             </div>
           </div>
             <div class="col">

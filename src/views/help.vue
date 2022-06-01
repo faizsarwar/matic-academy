@@ -22,8 +22,8 @@
                     </svg>
                     <h2><b>Getting Started</b></h2>
                   </div>
-                  <p class="mt-2 mb-0">From Enrolling your student to matic to taking your first class</p>
-                  <!-- <a href="" style="color:blue">Support@learnwithmatic.com</a> -->
+                  <p class="mt-2 mb-0">From Enrolling your student to Matic to taking your first class</p>
+                  <!-- <a href="" style="color:blue">Support@learnwithMatic.com</a> -->
                 </div>
               </div>
             </div>
@@ -43,7 +43,7 @@
                         <h5><b>Curriculum & Student Experience</b></h5>
                       </div>
                   </div>
-                  <p class=" mb-0">commonly asked questions about matic's Curriculum and membership</p>
+                  <p class=" mb-0">commonly asked questions about Matic's Curriculum and membership</p>
                   <!-- <a href="" style="color:blue">(650) 263-4306</a> -->
                 </div>
               </div>
@@ -83,7 +83,7 @@
                       </div>
                   </div>
                   <p class="mt-1 mb-0">Tips For Troubleshooting Live Class Issues</p>
-                  <!-- <a href="" style="color:blue">Support@learnwithmatic.com</a> -->
+                  <!-- <a href="" style="color:blue">Support@learnwithMatic.com</a> -->
                 </div>
               </div>
             </div>

@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-lg " style=" text-align: left; color: black;">
                 <div class=" ml-5 pt-5 pr-5 pl-5 ">
-                    <h1><b class="text-left mt-5" style="color: white !important">matic Instructors</b></h1>
+                    <h1><b class="text-left mt-5" style="color: white !important">Matic Instructors</b></h1>
                     <p style="color: white !important">We’re here to bring out the greatness in every learner, as early as they’re ready. Right here, right now. Because we see potential at every age. And we believe everybody has the power to be a superstar in something.</p>
                     <button button type="" class="btn btn-success btn-lg " style="height:65px; width : 300px; border-radius: 12px;font-size:16px">Try A Free class</button>      
                 </div>
@@ -91,7 +91,7 @@
                             </div>
                             <div class="col-8 text-left">
                                 <h3 class="mt-3 mb-3"><b>Many have gone on to work for Fortune 500 companies and start-ups that are changing the world.</b></h3>
-                                <p>Think Google, Amazon, Apple, Uber, Zoom, McKinsey, Microsoft, Spotify, Masterclass, Roblox, and more. Some have even come to work at matic!</p>
+                                <p>Think Google, Amazon, Apple, Uber, Zoom, McKinsey, Microsoft, Spotify, Masterclass, Roblox, and more. Some have even come to work at Matic!</p>
                             </div>
                         </div>
                         <!-- row with tick -->
@@ -120,7 +120,7 @@
             <div>
                 <h1><b>Our Core Belief</b></h1>
                 <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2">
-                We believe learning is human. Especially when it comes to online learning. No matter how you learn – whether it be 1:1, in a group, or self-guided, a matic instructor is there to support you along the way.
+                We believe learning is human. Especially when it comes to online learning. No matter how you learn – whether it be 1:1, in a group, or self-guided, a Matic instructor is there to support you along the way.
                 </p>
                 <button
                     type=""
@@ -145,7 +145,7 @@
                 <div class="col-lg " style=" text-align: left; color: black;">
                 <div class=" ml-5 pt-5 pr-5 pl-5 ">
                     <h1><b class=" ml-5 pl-4 text-left mt-5" >Our Hiring Process</b></h1>
-                    <p  class="ml-5 pl-4">We receive the most University student applications in the Edtech space and hire fewer than 10% as matic instructors*. This is because we have a robust process and strict standards. They are not only interviewed for subject matter expertise, but also classroom management and online energy.
+                    <p  class="ml-5 pl-4">We receive the most University student applications in the Edtech space and hire fewer than 10% as Matic instructors*. This is because we have a robust process and strict standards. They are not only interviewed for subject matter expertise, but also classroom management and online energy.
                         <br>
                         <br>
                         Our hiring process includes:
@@ -184,7 +184,7 @@
                 <div class="col-lg " style=" text-align: center; color: black;">
                   <div class=" mr-5 pt-5 pr-5 pl-5 pb-0">
                       <h1><b>Instructor Training</b></h1>
-                      <p class="pr-5 mr-2">Once hired, matic Instructors are onboarded by our dedicated Instructor Success team. Along with our Instructor Support team, our community of instructors are highly supportive of each other, strengthening the onboarding process and ensuring new instructors are ready on day one!
+                      <p class="pr-5 mr-2">Once hired, Matic Instructors are onboarded by our dedicated Instructor Success team. Along with our Instructor Support team, our community of instructors are highly supportive of each other, strengthening the onboarding process and ensuring new instructors are ready on day one!
                         <br><br>
                         Instructors attend one-on-one and community training sessions and are connected with a senior instructor before their first class. Channels of communication are open so that instructors can share teaching tips with each other, and ask for lesson ideas from other instructors.
                         <br><br>
@@ -218,20 +218,20 @@
                     <!-- image here -->
                 </div>
                 <div class="col-8 pl-4 pr-4 text-left">
-                    <h1 class="mt-2 mb-2"><b style="color:white">I was the first Computer Science instructor at matic.</b></h1>
+                    <h1 class="mt-2 mb-2"><b style="color:white">I was the first Computer Science instructor at Matic.</b></h1>
                     <p class=" mr-4 pl-3 pr-3" style="color:white">It was always fun and fulfilling to teach younger students about engineering - in whatever way they found interesting - whether that be through fashion, robotics, or film. How you can get students from not knowing much about a topic to getting that spark is magical to see.</p>
                     <br>
-                    <p class="pl-3 pb-0 mb-0" style="color:white">Vivian Shen, matic Staff</p>
-                    <p class="pl-3 pt-0 mt-0" style="color:white">matic CEO & Co-Founder</p>
+                    <p class="pl-3 pb-0 mb-0" style="color:white">Vivian Shen, Matic Staff</p>
+                    <p class="pl-3 pt-0 mt-0" style="color:white">Matic CEO & Co-Founder</p>
                 </div>
             </div>
         </section>
 
         <section class="pt-5 pb-5 pl-4 pr-4 text-center">
             <div>
-                <h1><b>Try the full matic experience for free</b></h1>
+                <h1><b>Try the full Matic experience for free</b></h1>
                 <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2">
-               Take a free class to see if matic is right for your child.
+               Take a free Class to see if Matic is right for your child.
                 </p>
                 <button
                     type=""
