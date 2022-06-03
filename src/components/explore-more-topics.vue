@@ -9,7 +9,7 @@
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card3.jpeg') + ')' }"> -->
             <div class="card-body mb-4 bg-light"> 
              <div class="row ml-3">
-                <img src="../assets/img/iconA3.png" alt="" class="mt-2" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:8%; height:8%">
+                <img src="../assets/img/code.png" alt="" class="mt-3" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:8%; height:8%">
 
                 <h2 class="card-title m-3 ml-4" ><b>Coding</b></h2>
              </div>
@@ -26,7 +26,7 @@
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card4.jpeg') + ')' }"> -->
             <div class="card-body  no-overflow1 bg-light" >
               <div class="row ml-3">
-                <img src="../assets/img/iconA4.png" alt="" class="mt-3" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:10%; height:10%">
+                <img src="../assets/img/investing.png" alt="" class="mt-3" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:10%; height:10%">
 
               <h2 class="card-title m-3" ><b>Investing</b></h2>
              </div>
@@ -48,7 +48,7 @@
             <div class="card-body mb-4 bg-light"> 
 
               <div class="row ml-3">
-                <img src="../assets/img/iconA6.png" alt="" class="mt-2" style="background-size:contain;  background-repeat: no-repeat; text-align: center; width:8%; height:8%">
+                <img src="../assets/img/communicatons.png" alt="" class="mt-2" style="background-size:contain;  background-repeat: no-repeat; text-align: center; width:8%; height:8%">
 
               <h2 class="card-title m-3" ><b>Communications</b></h2>
              </div>
@@ -67,7 +67,7 @@
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card4.jpeg') + ')' }"> -->
             <div class="card-body  no-overflow1 bg-light" >
                            <div class="row ml-3">
-                <img src="../assets/img/iconA5.png" alt="" class="mt-3" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:10% ; height:10%">
+                <img src="../assets/img/maths.png" alt="" class="mt-1" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:10% ; height:10%">
 
                 <h2 class="card-title m-3" ><b>Maths </b></h2>
              </div>
@@ -87,7 +87,7 @@
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card3.jpeg') + ')' }"> -->
             <div class="card-body mb-4 bg-light"> 
                            <div class="row ml-3">
-                <img src="../assets/img/iconA1.png" alt="" class="mt-2" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:8%; height:8%">
+                <img src="../assets/img/Science.png" alt="" class="mt-2" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:8%; height:8%">
 
               <h2 class="card-title m-3" ><b>Scientist</b></h2>
             </div>
@@ -105,7 +105,7 @@
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card4.jpeg') + ')' }"> -->
             <div class="card-body  no-overflow1 bg-light" >
                            <div class="row ml-3">
-                <img src="../assets/img/iconA2.png" alt="" class="mt-3" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:8%; height:8%">
+                <img src="../assets/img/explore_more.png" alt="" class="mt-3" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:8%; height:8%">
 
               <h2 class="card-title m-3" ><b>Explore By Class Format </b></h2>
             </div>

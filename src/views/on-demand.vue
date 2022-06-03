@@ -125,113 +125,132 @@
     <best_seller_slides/>
 
 
-      <section class="pt-5 pb-5" style="background-color:#231F20;color:white">
-          <h1 class="mt-4 mb-4"><b style="color:white">All Matic Courses Include:</b></h1>
-          <div class="row pl-4 pr-4 pt-5 pb-5" >
-            <div class="col-3">
-              <div class="row">
-                <h2 class="mt-5 mb-3 ml-3" ><b style="color:white"> 
-                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
-                  <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-                  <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
-                </svg> 
+      <section class="pt-5 pb-5" >
+          <h1 class="mt-4 mb-4"><b >All Matic Courses Include:</b></h1>
+      <div class="row pl-4 pr-4 mt-3" >
 
-                  Top Instruction </b></h2>
-              </div>
-              <div class="row ml-2">
-                <ul class="ml-3" style="  font-weight:bolder; text-align:left">
-                    <li>
-                      Instructors from Top US Universities
-                    </li>
-                    <li>
-                      Expert-Designed Curricula
-                    </li>
-                    <li>
-                      Project-Based Coursework
-                    </li>
-                  </ul>
-              </div>
-
-
+        <div class="col-3 ">
+          
+          <div class="row">
+            <div class="col-3  ">
+                <img src="../assets/img/top_instruction.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
             </div>
+            <div class="col-9 ml-0 text-left">
+              <h2 class=" mb-3 " ><b > 
 
-            <div class="col-3">
-              <div class="row">
-                <h2 class="mt-5 mb-3 ml-5" ><b style="color:white"> 
-                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
-                  <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-                  <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
-                </svg> 
-
-                  Community </b></h2>
-              </div>
-              <div class="row ml-2">
-              <ul class="ml-5" style="  font-weight:bolder; text-align:left">
-                    <li>
-                      Matic Clubs
-                    </li>
-                    <li>
-                      Matic Events
-                    </li>
-                    <li>
-                      Shared Projects
-                    </li>
-                  </ul>
-              </div>
-
-            </div>
-
-            <div class="col-3">
-              <div class="row">          
-                <h2 class="mt-5 mb-3 ml-5" ><b style="color:white"> 
-                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
-                  <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-                  <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
-                </svg> 
-
-                  Live Support</b></h2>
-              </div>
-              <div class="row ml-2">
-                  <ul class="ml-5" style="  font-weight:bolder; text-align:left">
-                    <li>
-                      Instructor Office Hours
-                    </li>
-                    <li>
-                      Study Groups
-                    </li>
-                    <li>
-                      Access to Matic Advisors
-                    </li>
-                  </ul>
-              </div>
-            </div>
-
-            <div class="col-3">
-              <div class="row">
-                <h2 class="mt-5 mb-3 ml-2" ><b style="color:white"> 
-                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
-                  <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-                  <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
-                </svg> 
-
-                  Progress Targets</b></h2>
-              </div>
-              <div class="row ml-2">
-                <ul class="ml-3" style="  font-weight:bolder; text-align:left">
-                    <li>
-                      Course Roadmaps
-                    </li>
-                    <li>
-                      Checkpoints
-                    </li>
-                    <li>
-                      Certificates of Completion
-                    </li>
-                  </ul>
-              </div>
+                Top Instruction </b></h2>
             </div>
 
           </div>
+          <div class="row ">
+            <ul class="ml-5" style="  font-weight:bolder; text-align:left">
+                <li>
+                  Instructors from Top US Universities
+                </li>
+                <li>
+                  Expert-Designed Curricula
+                </li>
+                <li>
+                  Project-Based Coursework
+                </li>
+              </ul>
+          </div>
+
+
+        </div>
+
+        <div class="col-3 ">
+          <div class="row">
+              <div class="col-3">
+              <img src="../assets/img/community.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
+            </div>
+            <div class="col-9 text-left">
+            <h2 class="mb-3 " ><b > 
+            <!-- <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+              <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+            </svg>  -->
+
+              Community </b></h2>
+              </div>
+          </div>
+          <div class="row ">
+          <ul class="ml-5" style="font-weight:bolder; text-align:left">
+                <li>
+                  Matic Clubs
+                </li>
+                <li>
+                  Matic Events
+                </li>
+                <li>
+                  Shared Projects
+                </li>
+              </ul>
+          </div>
+
+        </div>
+
+        <div class="col-3">
+          <div class="row">   
+              <div class="col-3">
+              <img src="../assets/img/live_support.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
+            </div>
+            <div class="col-9 text-left">
+            <h2 class=" mb-3 " ><b > 
+            <!-- <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+              <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+            </svg>  -->
+
+              Live Support</b></h2>
+              </div>
+          </div>
+          <div class="row ">
+              <ul class="ml-5" style=" font-weight:bolder; text-align:left">
+                <li>
+                  Instructor Office Hours
+                </li>
+                <li>
+                  Study Groups
+                </li>
+                <li>
+                  Access to Matic Advisors
+                </li>
+              </ul>
+          </div>
+        </div>
+
+        <div class="col-3">
+          <div class="row">   
+              <div class="col-3">
+              <img src="../assets/img/progress_test.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ;">
+            </div>
+            <div class="col-9 text-left">
+            <h2 class="" ><b > 
+            <!-- <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
+              <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+              <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+            </svg>  -->
+
+              Progress Test</b></h2>
+              </div>
+          </div>
+          <div class="row ">
+              <ul class="ml-5" style="  font-weight:bolder; text-align:left">
+                <li>
+                  Course Roadmaps
+                </li>
+                <li>
+                  Checkpoints
+                </li>
+                <li>
+                  Certificates of Completion
+                </li>
+              </ul>
+          </div>
+        </div>
+
+      </div>
       </section>
 
     <explore_more_topics/>
