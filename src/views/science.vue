@@ -23,7 +23,7 @@
         </div>
 
         <div class="col-lg">
-                <img src="../assets/img/science.png" alt="" class="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+                <img src="../assets/img/science1.png" alt="" class="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
 
         </div>
       </div>

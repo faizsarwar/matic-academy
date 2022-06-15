@@ -4,7 +4,7 @@
 
     <div class="row pt-5 pl-3 pr-3">
       
-      <div class="col-lg">
+      <div class="col-md-4">
         <img src="../assets/img/2.png" alt="" class="circular--square" style="width:300px;height:240px">
         <h3 class="mt-4"><b> Private 1:1 </b></h3>
         <div class="m-4 " style="text-align:left">
@@ -22,7 +22,7 @@
         </div>
       </div>
 
-      <div class="col-lg">
+      <div class="col-md-4">
          <img src="../assets/img/cfr1.png" alt="" class="circular--square" style="width:300px;height:240px">
        <h3 class="mt-4"><b>On-Demand</b></h3>
         <div class="m-4 " style="text-align:left">
@@ -43,7 +43,7 @@
         </div>
       </div>
       
-      <div class="col-lg">
+      <div class="col-md-4">
          <img src="../assets/img/placeholder3.jpeg" alt="" class="circular--square" style="width:300px;height:240px">
         <h3 class="mt-4"><b>Bootcamps</b></h3>
         <div class="m-4 " style="text-align:left">
