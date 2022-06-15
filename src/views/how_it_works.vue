@@ -1,9 +1,9 @@
 <template>
   <div>
-    <section class="pt-5 pb-5">
+    <section class="pt-2 pb-2">
       <div class="row mt-4 mb-4  text-left">
-        <div class="col-lg ml-4 mr-3">
-          <h1><b>How Matic Works</b></h1>
+        <div class="col-lg pt-5 ml-4 mr-3">
+          <h1 class="mt-5"><b>How Matic Works</b></h1>
           <p class="mt-3">
             We make learning real-world skills easy and exciting with expert
             instructors, an intuitive platform, and a strong community of
@@ -23,7 +23,7 @@
           </button>
         </div>
         <div class="col-lg">
-          <!-- img here -->
+          <img src="../assets/img/cfr4.png" alt=""  style="width:100%;">
         </div>
       </div>
     </section>
@@ -95,8 +95,8 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg">
-          <!-- img here -->
+        <div class="col-lg pt-3">
+          <img src="../assets/img/a.png" alt=""  style="width:100%;">
         </div>
       </div>
     </section>
@@ -105,7 +105,7 @@
     <div class="mt-2 mb-2">
       <div class="row">
         <div class="col-lg " style=" text-align: center; color: black;">
-            <!-- img here -->
+            <img src="../assets/img/boot.png" alt=""  style="width:100%;">
         </div>
         <div class="col-lg " style=" text-align: center; color: black;">
           <div class=" mr-5 pt-5 pr-5 pl-5 pb-0">
@@ -156,7 +156,7 @@
         <p>Your one-stop shop for everything Matic. Parents are able to manage their learner's courses and learing paths, track their progress, and also engage with the Matic community.</p>
       <div class="row">
         <div class="col-lg " style=" text-align: center; color: black;">
-            <!-- img here -->
+            <img src="../assets/img/cfr1.png" alt=""  style="width:100%;">
         </div>
         <div class="col-lg " style=" text-align: center; color: black;">
           <ul class="text-left pt-0 ml-5" style="color:#261159">

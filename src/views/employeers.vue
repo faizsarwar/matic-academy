@@ -1,14 +1,12 @@
 <template>
     <div>
 
-    <section class="pt-5 pb-5" style="background-color: #3a0078;color:white">
-      <div class="row mt-4 mb-4  text-left">
-        <div class="col-8 ml-4 mr-3">
-            <div class="pl-5 ml-5"> 
+        <section class="pt-2 pb-5" style="background-color: #3a0078;color:white">
+      <div class="row mt-4 mb-4 ml-4 mr-3 text-left">
+        <div class="col-5 pt-5">
+                <div class=" mt-5 ml-5"> 
                 <h1 class="ml-4 pr-5"><b style="color:white !important">Matic for Employers</b></h1>
-                <!-- <p class="mt-3 ml-4 pr-5" style=" ">
-                <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 8-18</span>
-                </p> -->
+
                     <h5 class="ml-4  pr-5 mt-2" style="color:white !important">Support working parents and families within your <br>
                         organization by offering Matic as a unique learning benefit
                     </h5>
@@ -18,10 +16,10 @@
                         <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Buy A Gift Card</button>
                     </div>
             </div>
-        </div>
+          </div>
 
-        <div class="col-4">
-          <!-- img here -->
+        <div class="col-7">
+              <img src="../assets/img/dk1.png" alt=""  style="width:100%;">
         </div>
       </div>
     </section>
@@ -66,7 +64,7 @@
         <div class="mt-2 mb-2">
         <div class="row">
             <div class="col-lg " style=" text-align: center; color: black;">
-                <!-- img here -->
+            <img src="../assets/img/2.png" alt=""  style="width:100%;">
             </div>
             <div class="col-lg text-left" style=" text-align: center; color: black;">
             <div class=" mr-5 pt-5 pr-5 pl-5 pb-4">
@@ -127,9 +125,9 @@
           <p class="mt-5 mb-5 ml-5">Matic's community is dedicated to supporting your child's education journey by offering out-of-Class opportunities like Matic Clubs, Instructor office hours, and project shares.</p>
         </div>
       </div>
-      <!-- <div class="col-6">
-        <img src="../assets/img/placeholder3.jpeg" alt=""  style="width:100%;">
-      </div> -->
+      <div class="col-6">
+        <img src="../assets/img/a.png" alt=""  style="width:100%;">
+      </div>
     </div>
   </section>
 

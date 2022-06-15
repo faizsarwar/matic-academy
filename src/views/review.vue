@@ -20,8 +20,8 @@
         </div>
 
         <div class="col-lg">
-          <!-- img here -->
-        </div>
+            <img src="../assets/img/boot.png" alt="" class=" mt-5 " style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
+      </div>
       </div>
     </section>
 

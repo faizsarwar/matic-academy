@@ -1,9 +1,9 @@
 <template>
   <div>
     <section class="pt-5 pb-5" style="background-color: #3a0078; color: white">
-      <div class="row mt-4 mb-4 ml-4 mr-3 pt-5 pb-5 text-left">
-        <div class="col-5">
-          <h1 class="ml-4">
+      <div class="row mt-2 mb-4 ml-4 mr-0 pb-5 text-left">
+        <div class="col-5 mt-5 pt-5 ">
+          <h1 class="ml-4 mt-5">
             <b style="color: white !important"
               >Welcome to the Student Projects</b
             >
@@ -16,7 +16,7 @@
         </div>
 
         <div class="col-7">
-          <!-- img here -->
+          <img src="../assets/img/ba.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
         </div>
       </div>
     </section>

@@ -1,18 +1,18 @@
 <template>
     <div>
 
-        <section class="pt-5 pb-5" style="background-color: #211ea6; ">
+        <section class="pt-2 pb-2" style="background-color: #211ea6; ">
             <!-- Picture on right -->
             <div class="row">
                 <div class="col-lg " style=" text-align: left; color: black;">
-                <div class=" ml-5 pt-5 pr-5 pl-5 ">
+                <div class=" ml-5 pt-5 mt-5 pr-5 pl-5 ">
                     <h1><b class="text-left mt-5" style="color: white !important">Matic Instructors</b></h1>
                     <p style="color: white !important">We’re here to bring out the greatness in every learner, as early as they’re ready. Right here, right now. Because we see potential at every age. And we believe everybody has the power to be a superstar in something.</p>
                     <button button type="" class="btn btn-success btn-lg " style="height:65px; width : 300px; border-radius: 12px;font-size:16px">Try A Free class</button>      
                 </div>
                 </div>
                 <div class="col-lg " style=" text-align: center; color: black;">
-                    <!-- img here -->
+                    <img src="../assets/img/boot.png" alt=""  style="width:100%;">
                 </div>
             </div>
         </section>
@@ -110,8 +110,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg " style=" text-align: center; color: black;">
-                    <!-- img here -->
+                <div class="col-lg pt-5" style=" text-align: center; color: black;">
+                  <img src="../assets/img/a.png" alt="" class="mt-5" style="width:100%;">
                 </div>
             </div>
         </section>
@@ -170,16 +170,16 @@
                     <!-- <button button type="" class="btn btn-success btn-lg " style="height:65px; width : 300px; border-radius: 12px;font-size:16px">Try A Free class</button>       -->
                 </div>
                 </div>
-                <div class="col-lg " style=" text-align: center; color: black;">
-                    <!-- img here -->
-                </div>
+                <div class="col-lg pt-5" style=" text-align: center; color: black;">
+                     <img src="../assets/img/abc.png" class="mt-5" alt=""  style="width:100%;">
+                 </div>
             </div>
 
             <!-- Picture on left -->
             <div class="mt-2 mb-2">
               <div class="row">
-                <div class="col-lg " style=" text-align: center; color: black;">
-                    <!-- img here -->
+                <div class="col-lg pt-5" style=" text-align: center; color: black;">
+                       <img src="../assets/img/b.png" alt=""  style="width:100%;">
                 </div>
                 <div class="col-lg " style=" text-align: center; color: black;">
                   <div class=" mr-5 pt-5 pr-5 pl-5 pb-0">
@@ -198,8 +198,8 @@
                         <!-- Picture on right -->
             <div class="row">
             <div class="col-lg ml-4 mr-4" style=" text-align: left; color: black;">
-                <div class=" ml-5 pt-5 pr-5 pl-5 ">
-                    <h1><b class=" ml-5 pl-4 text-left mt-5" >A Near-Peer Mentor</b></h1>
+                <div class=" ml-5 mt-5 pt-5 pr-5 pl-5 ">
+                    <h1><b class=" ml-5 pl-4 pt-5 text-left mt-5" >A Near-Peer Mentor</b></h1>
                     <p  class="ml-5 pl-4 pr-4 mr-4 mt-4">
                         We’ve found students connect and respond best with instructors they feel socially connected to and can see themselves in. As near-peer mentors, our instructors have a better sense of students' mindset, struggles, concerns, and interests, and are able to leverage this connection to our students' advantage. One of the great advantages is the added benefit of offering our students a glimpse into a college career and academic path they can aspire to and learn more about.
                     </p>
@@ -207,8 +207,8 @@
                 </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">
-                    <!-- img here -->
-                </div>
+               <img src="../assets/img/teacher.jpg" alt=""  style="width:100%;">
+            </div>
             </div>
         </section>
 
