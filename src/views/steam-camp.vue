@@ -12,8 +12,9 @@
           <div class="mt-5">
             <button
               type=""
-              class="btn btn-success btn-lg ml-4 mt-2"
+              class="btn btn btn-lg ml-4 mt-2"
               style="
+              color: white;  background-color:#4CBD94;
                 height: 65px;
                 width: 190px;
                 border-radius: 12px;

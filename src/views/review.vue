@@ -14,7 +14,7 @@
 
             <!--button  -->
             <div class="mt-5">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Explore Courses</button>
+            <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px;color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Explore Courses</button>
             </div>
         
         </div>
@@ -259,9 +259,10 @@
             </p>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-0 mb-4"
+                class="btn btn btn-lg pb-3 mt-0 mb-4"
                 style="
                 height: 65px;
+                color: white;  background-color:#4CBD94;
                 width: 270px;
                 border-radius: 12px;
                 font-size: 16px;

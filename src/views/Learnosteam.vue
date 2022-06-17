@@ -15,7 +15,7 @@ What if there was a way to up your game in the classroom without hiring an expen
 
             <!--button  -->
             <div class="mt-5">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+            <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px; color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
             </div>
             
 
@@ -47,7 +47,7 @@ What if there was a way to up your game in the classroom without hiring an expen
 
                     <!--button  -->
                     <div class="mt-3 pb-3">
-                    <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px; color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
 
@@ -79,7 +79,7 @@ Schools can now introduce new courses without spending thousands on robotics equ
 
                     <!--button  -->
                     <div class="m-3 pb-4">
-                    <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px;color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
 
@@ -109,7 +109,7 @@ We offer a curriculum that is robust and trainer-independent, making it the perf
 
                     <!--button  -->
                     <div class="mt-5 pb-3">
-                    <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px; color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
 
@@ -136,7 +136,7 @@ We offer a curriculum that is robust and trainer-independent, making it the perf
 
                     <!--button  -->
                     <div class="mt-5">
-                    <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px; color: white;  background-color:#4CBD94;width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
 
@@ -165,7 +165,7 @@ We offer a curriculum that is robust and trainer-independent, making it the perf
 
                     <!--button  -->
                     <div class="mt-5 pb-5">
-                    <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px;color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
 
@@ -219,7 +219,7 @@ We offer a curriculum that is robust and trainer-independent, making it the perf
         </div>
             <!--button  -->
         <div class="mt-5">
-        <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+        <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px;color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
         </div>
                     
       </section>

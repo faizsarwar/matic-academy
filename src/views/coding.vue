@@ -13,7 +13,7 @@
 
             <!--button  -->
             <div class="mt-5">
-            <button type="" class="btn btn-success btn-lg ml-4 mb-3 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try A Free Coding Class</button>
+            <button type="" class="btn btn btn-lg ml-4 mb-3 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94;  border-radius: 12px;font-size:16px">Try A Free Coding Class</button>
             </div>
 
         </div>
@@ -43,10 +43,11 @@
           </div>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-4"
+                class="btn btn btn-lg pb-3 mt-4"
                 style="
                 height: 65px;
                 width: 200px;
+                color: white;  background-color:#4CBD94; 
                 border-radius: 12px;
                 font-size: 16px;
                 "
@@ -62,9 +63,10 @@
         <best_seller_slides/>
             <button
                 type=""
-                class="btn btn-success btn-lg"
+                class="btn btn btn-lg"
                 style="
                 height: 65px;
+                color: white;  background-color:#4CBD94; 
                 width: 200px;
                 border-radius: 12px;
                 font-size: 16px;
@@ -236,8 +238,9 @@
             </p>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-0"
+                class="btn btn btn-lg pb-3 mt-0"
                 style="
+                color: white;  background-color:#4CBD94; 
                 height: 65px;
                 width: 200px;
                 border-radius: 12px;
@@ -370,8 +373,9 @@
             </p>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-0"
+                class="btn btn btn-lg pb-3 mt-0"
                 style="
+                color: white;  background-color:#4CBD94; 
                 height: 65px;
                 width: 200px;
                 border-radius: 12px;

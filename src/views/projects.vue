@@ -330,8 +330,9 @@
             </p>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-0 mb-4"
+                class="btn btn btn-lg pb-3 mt-0 mb-4"
                 style="
+                color: white;  background-color:#4CBD94;
                 height: 65px;
                 width: 270px;
                 border-radius: 12px;

@@ -9,7 +9,7 @@
         <div class="row"> 
             <div class="col-1 mt-5 ">      
                 <div class="mt-3">
-                    <a class="btn btn btn-success mt-5 mb-3 mr-1" href="#carouselExampleIndicators3" role="button" data-slide="prev">
+                    <a class="btn btn btn mt-5 mb-3 mr-1" href="#carouselExampleIndicators3" style="color: white;  background-color:#4CBD94;" role="button" data-slide="prev">
                     <!-- <span class="oi" data-glyph="chevron-right"></span> color:#466D1D;-->
                     <i class="material-icons ">arrow_back</i>
                 </a>
@@ -84,7 +84,7 @@
             </div>
             <div class="col-1 mt-5">
               <div class="mt-3">
-                  <a class="btn btn btn-success mb-3 mt-5"   href="#carouselExampleIndicators3" role="button" data-slide="next">
+                  <a class="btn btn btn mb-3 mt-5" style="color: white;  background-color:#4CBD94;"   href="#carouselExampleIndicators3" role="button" data-slide="next">
                       <!-- <span class="oi oi-icon-name" title="icon name" aria-hidden="true"></span> -->
                       <i class="material-icons" >arrow_forward</i>
                   </a>

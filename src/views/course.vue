@@ -20,8 +20,9 @@
             <div class="">
               <button
                 type=""
-                class="btn btn-success btn-lg ml-4"
+                class="btn btn btn-lg ml-4"
                 style="
+                color: white;  background-color:#4CBD94; 
                   height: 65px;
                   width: 220px;
                   border-radius: 12px;
@@ -35,7 +36,7 @@
             <div class="ml-3">
               <button
                 type="button"
-                class="btn btn-outline-primary p-3"
+                class="btn btn-outline-primary p-3; color: white;  background-color:#4CBD94; " 
                 style="border-radius: 12px; width: 70px"
               >
                 <svg
@@ -479,9 +480,10 @@
           </p>
           <button
                 type=""
-                class="btn btn-success btn-lg "
+                class="btn btn btn-lg "
                 style="
                   height: 65px;
+                  color: white;  background-color:#4CBD94; 
                   width: 220px;
                   border-radius: 12px;
                   font-size: 16px;
@@ -530,8 +532,9 @@
         </p>
         <button
           type=""
-          class="btn btn-success btn-lg mr-3"
+          class="btn btn btn-lg mr-3"
           style="
+          color: white;  background-color:#4CBD94; 
             height: 65px;
             width: 200px;
             border-radius: 12px;

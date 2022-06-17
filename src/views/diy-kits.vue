@@ -14,7 +14,7 @@ HARDWARE KITS
 
             <!--button  -->
             <div class="mt-3">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+            <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94;  border-radius: 12px;font-size:16px">Learn More</button>
             </div>
             
 
@@ -47,7 +47,7 @@ HARDWARE KITS
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94;  border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -64,7 +64,7 @@ HARDWARE KITS
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94;  border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -81,7 +81,7 @@ HARDWARE KITS
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -107,7 +107,7 @@ HARDWARE KITS
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -124,7 +124,7 @@ HARDWARE KITS
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px; color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -141,7 +141,7 @@ The instructions will show newcomers just what's needed in order to make circuit
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -167,7 +167,7 @@ The instructions will show newcomers just what's needed in order to make circuit
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -184,7 +184,7 @@ The instructions will show newcomers just what's needed in order to make circuit
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -201,7 +201,7 @@ The instructions will show newcomers just what's needed in order to make circuit
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px; color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -227,7 +227,7 @@ The instructions will show newcomers just what's needed in order to make circuit
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px; color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -243,7 +243,7 @@ The instructions will show newcomers just what's needed in order to make circuit
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -259,7 +259,7 @@ The instructions will show newcomers just what's needed in order to make circuit
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px; color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -289,7 +289,7 @@ The instructions will show newcomers just what's needed in order to make circuit
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -308,7 +308,7 @@ The input only contained information about what was being marketed but did not p
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px; color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>
@@ -324,7 +324,7 @@ The input only contained information about what was being marketed but did not p
 
                         <!--button  -->
                         <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-2 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+                        <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
                     </div>

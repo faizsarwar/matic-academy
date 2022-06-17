@@ -8,11 +8,11 @@
           <h3 class="mb-3 ml-0"><p> Popular Courses </p></h3>
         </div>
         <div class="col-6 text-right">
-                <a class="btn btn btn-success mb-3 mr-1" style="border-radius:10px" href="#carouselExampleIndicators3" role="button" data-slide="prev">
+                <a class="btn btn btn mb-3 mr-1" style="border-radius:10px; color: white;  background-color:#4CBD94;" href="#carouselExampleIndicators3" role="button" data-slide="prev">
                     <!-- <span class="oi" data-glyph="chevron-right"></span> color:#466D1D;-->
                     <i class="material-icons ">arrow_back</i>
                 </a>
-                <a class="btn btn btn-success mb-3 mr-1" style="border-radius:10px"  href="#carouselExampleIndicators3" role="button" data-slide="next">
+                <a class="btn btn btn mb-3 mr-1" style="border-radius:10px; color: white;  background-color:#4CBD94;"  href="#carouselExampleIndicators3" role="button" data-slide="next">
                     <!-- <span class="oi oi-icon-name" title="icon name" aria-hidden="true"></span> -->
                     <i class="material-icons" >arrow_forward</i>
                 </a>
@@ -59,7 +59,7 @@
                       </p>
                       </div>
                       </div>
-                      <a :href="'/course/' + blog.id " class="btn btn btn-success"  >Read More</a>
+                      <a :href="'/course/' + blog.id " class="btn btn btn" style="color: white;  background-color:#4CBD94;" >Read More</a>
                       <hr>
                       <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3" ><b style="color:black"> Age 11-18 | Meets Weekly | Private 1:1 </b></p>
                     </div>
@@ -105,7 +105,7 @@
                       </p>
                       </div>
                       </div>
-                      <a :href="'/course/' + blog.id " class="btn btn btn-success"  >Read More</a>
+                      <a :href="'/course/' + blog.id " class="btn btn btn" style="color: white;  background-color:#4CBD94;" >Read More</a>
                       <hr>
                       <p class="card-text ml-3 mr-3 mb-4 pl-3 pr-3" ><b style="color:black"> Age 11-18 | Meets Weekly | Private 1:1 </b></p>
                     </div>

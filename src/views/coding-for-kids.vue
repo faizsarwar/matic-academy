@@ -12,7 +12,9 @@ Keep things flexible by exploring & mastering real world skills at home or work 
 
             <!--button  -->
             <div class="mt-5">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Learn More</button>
+            <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px; width : 190px; color: white;  background-color:#4CBD94;     border-radius: 12px;font-size:16px"
+           
+            >Learn More</button>
             </div>
             
 
@@ -47,7 +49,7 @@ Keep things flexible by exploring & mastering real world skills at home or work 
 
                     <!--button  -->
                     <div class="mt-5">
-                    <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94;  border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
 
@@ -74,7 +76,7 @@ Keep things flexible by exploring & mastering real world skills at home or work 
 
                     <!--button  -->
                     <div class="mt-5">
-                    <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px;color: white;  background-color:#4CBD94;  width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
 
@@ -98,7 +100,7 @@ Keep things flexible by exploring & mastering real world skills at home or work 
 
                     <!--button  -->
                     <div class="mt-5">
-                    <button type="" class="btn btn-success btn-lg ml-5 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px; width : 190px; color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
 
@@ -116,16 +118,19 @@ Keep things flexible by exploring & mastering real world skills at home or work 
         <div class="pt-5 pb-5 pl-4 pr-4 text-center">
             <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2"><b >Why attend a coding class?</b></h1>
             <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2">Smartphone apps, robots, video games, small business—the world runs on code. Software jobs are predicted to grow by 34% in the next few years, making coding and app development the world’s most in-demand skills. Learn how to code and prepare kids for the future of work.</p>
-            <button
-                type=""
-                class="btn btn-success btn-lg"
-                style="
-                height: 65px;
-                width: 200px;
-                border-radius: 12px;
-                font-size: 16px;
-                "
-            >
+                   <button
+            type=""
+            class="btn  btn-lg"
+            style="
+              height: 65px;
+              width: 200px;
+              border-radius: 12px;
+              font-size: 16px;
+              color: white;
+              background-color:#4CBD94;              
+            "
+          >
+            
                 Get A Quote
             </button>
         </div>

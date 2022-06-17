@@ -10,7 +10,7 @@
             <div class="pr-5 pt-3">      
               <h1 class="mr-5  "><b> Education for the Real World </b></h1>
               <p class="mr-5  mt-4 text">We provide a wide range of courses for all interests. Our site offers the possibility to try out free classes in any subject and we have instructors who are available 24/7 via chat, email or phone calls if you ever need help with your learning objectives. You can try out our free classes in all subjects by saving them to your wish list. We offer real-world topics like coding, investing & entrepreneurship or math; science for those who enjoy learning about the natural world around them through data analysis.</p>
-              <button button type="" class="btn btn-success btn-lg " style="height:65px; width : 300px; border-radius: 12px;font-size:16px">Try A Free class</button>      
+              <button button type="" class="btn btn btn-lg " style="height:65px; color: white;  background-color:#4CBD94;width : 300px; border-radius: 12px;font-size:16px">Try A Free class</button>      
             </div>
             <div class="row mt-1">
                 <div class="col-4 mt-5">

@@ -157,16 +157,18 @@
             <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0">
             Take a free Math Class to see if Matic is right for your child.
             </p>
-            <button
-                type=""
-                class="btn btn-success btn-lg pb-3 mt-0 mb-4"
-                style="
-                height: 65px;
-                width: 270px;
-                border-radius: 12px;
-                font-size: 16px;
-                "
-            >
+          <button
+            type=""
+            class="btn  btn-lg"
+            style="
+              height: 65px;
+              width: 180px;
+              border-radius: 12px;
+              font-size: 16px;
+              color: white;
+              background-color:#4CBD94;              
+            "
+          >
                 Try A Free Math Class
             </button>
         </div>

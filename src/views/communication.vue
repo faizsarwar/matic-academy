@@ -15,7 +15,7 @@ The most popular classes for kids looking to learn more about communication, cre
 
             <!--button  -->
             <div class="mt-3">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 290px; border-radius: 12px;font-size:16px">Try A Free Communication Class</button>
+            <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px;color: white;  background-color:#4CBD94;  width : 290px; border-radius: 12px;font-size:16px">Try A Free Communication Class</button>
             </div>
         
         </div>
@@ -35,9 +35,10 @@ The most popular classes for kids looking to learn more about communication, cre
             </p>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-0 mb-4"
+                class="btn btn btn-lg pb-3 mt-0 mb-4"
                 style="
                 height: 65px;
+                color: white;  background-color:#4CBD94; 
                 width: 270px;
                 border-radius: 12px;
                 font-size: 16px;
@@ -54,8 +55,9 @@ The most popular classes for kids looking to learn more about communication, cre
         <best_seller_slides/>
         <button
             type=""
-            class="btn btn-success btn-lg"
+            class="btn btn btn-lg"
             style="
+            color: white;  background-color:#4CBD94; 
             height: 65px;
             width: 290px;
             border-radius: 12px;
@@ -284,8 +286,10 @@ The most popular classes for kids looking to learn more about communication, cre
             </h4>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-0 mb-4"
+                class="btn btn btn-lg pb-3 mt-0 mb-4"
                 style="
+                
+                color: white;  background-color:#4CBD94; 
                 height: 65px;
                 width: 270px;
                 border-radius: 12px;

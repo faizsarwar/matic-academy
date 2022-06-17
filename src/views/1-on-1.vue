@@ -16,7 +16,18 @@
 
             <!--button  -->
             <div class="mt-3">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try A Free class</button>
+              <button
+            type=""
+            class="btn  btn-lg"
+            style="
+              height: 65px;
+              width: 180px;
+              border-radius: 12px;
+              font-size: 16px;
+              color: white;
+              background-color:#4CBD94;              
+            "
+          >Try A Free class</button>
             </div>
 
         </div>

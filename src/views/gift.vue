@@ -15,7 +15,7 @@
 
             <!--button  -->
             <div class="mt-5">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 120px; border-radius: 12px;font-size:16px">Buy A Gift Card</button>
+            <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px; width : 120px; color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Buy A Gift Card</button>
             </div>
 
         </div>
@@ -76,7 +76,7 @@
 
                     <!--button  -->
                     <div class="mt-5">
-                    <button type="" class="btn btn-success btn-lg mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try A Free class</button>
+                    <button type="" class="btn btn btn-lg mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Try A Free class</button>
                     </div>
                 
             </div>

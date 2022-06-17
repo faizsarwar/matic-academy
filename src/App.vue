@@ -104,7 +104,7 @@
   <!--button  -->
     <div class="ml-auto mr-0">
       <a href="#" style="color:#0b0970"> Login</a>
-      <button type="" class="btn btn-success btn-lg ml-4" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try A Free class</button>
+      <button type="" class="btn btn btn-lg ml-4" style="height:65px; color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Try A Free class</button>
     </div>
 
   </div>

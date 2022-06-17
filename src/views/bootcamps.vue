@@ -15,7 +15,18 @@ our top instructors.
 
             <!--button  -->
             <div class="mt-3">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Get A 50% off Today</button>
+                  <button
+            type=""
+            class="btn  btn-lg"
+            style="
+              height: 65px;
+              width: 180px;
+              border-radius: 12px;
+              font-size: 16px;
+              color: white;
+              background-color:#4CBD94;              
+            "
+          >Get A 50% off Today</button>
             </div>
 
         </div>
@@ -89,16 +100,18 @@ our top instructors.
                             </div>
                         </div>
 
-                          <button
-                            type=""
-                            class="btn btn-success btn-lg"
-                            style="
-                            height: 65px;
-                            width: 170px;
-                            border-radius: 12px;
-                            font-size: 16px;
-                            "
-                        >
+          <button
+            type=""
+            class="btn  btn-lg"
+            style="
+              height: 65px;
+              width: 180px;
+              border-radius: 12px;
+              font-size: 16px;
+              color: white;
+              background-color:#4CBD94;              
+            "
+          >
                             Get 50% Off Today
                         </button>
                     </div>
@@ -120,16 +133,18 @@ our top instructors.
             
             Sign up for any bootcamp and enjoy 50% off (normally $40/class).
             </p>
-            <button
-                type=""
-                class="btn btn-success btn-lg"
-                style="
-                height: 65px;
-                width: 200px;
-                border-radius: 12px;
-                font-size: 16px;
-                "
-            >
+          <button
+            type=""
+            class="btn  btn-lg"
+            style="
+              height: 65px;
+              width: 180px;
+              border-radius: 12px;
+              font-size: 16px;
+              color: white;
+              background-color:#4CBD94;              
+            "
+          >
                 Get 50% Off Today
             </button>
         </div>
@@ -180,7 +195,14 @@ our top instructors.
                 Text me for Matic news and offers
               </label>
             </div>
-              <button type="submit" class="btn btn-success">Submit</button>
+                       <button
+            type=""
+            class="btn  btn-lg"
+            style="
+              color: white;
+              background-color:#4CBD94;              
+            "
+          >Submit</button>
           </div>
 
         </form>
@@ -193,16 +215,19 @@ our top instructors.
         <div class="pt-5 pb-5 pl-4 pr-4 text-center">
             <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2"><b >Bootcamp Not Right For You?</b></h1>
             <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2"> Explore our 1:1 learning with private instructors across 40+ courses.</p>
-            <button
-                type=""
-                class="btn btn-success btn-lg"
-                style="
+            
+                      <button
+            type=""
+            class="btn  btn-lg"
+            style="
                 height: 65px;
                 width: 200px;
-                border-radius: 12px;
-                font-size: 16px;
-                "
-            >
+              border-radius: 12px;
+              font-size: 16px;
+              color: white;
+              background-color:#4CBD94;              
+            "
+          >
                 Explore All Courses
             </button>
         </div>

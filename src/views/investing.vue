@@ -16,7 +16,7 @@
 
             <!--button  -->
             <div class="mt-2">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:55px; width : 190px; border-radius: 12px;font-size:16px">Try A Business Class</button>
+            <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:55px; color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Try A Business Class</button>
             </div>
             
 
@@ -37,9 +37,10 @@
             </p>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-0 mb-4"
+                class="btn btn btn-lg pb-3 mt-0 mb-4"
                 style="
                 height: 65px;
+                color: white;  background-color:#4CBD94;
                 width: 270px;
                 border-radius: 12px;
                 font-size: 16px;
@@ -57,8 +58,9 @@
         <best_seller_slides/>
         <button
             type=""
-            class="btn btn-success btn-lg"
+            class="btn btn btn-lg"
             style="
+            color: white;  background-color:#4CBD94;
             height: 65px;
             width: 260px;
             border-radius: 12px;
@@ -311,9 +313,10 @@
             </p>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-0 mb-4"
+                class="btn btn btn-lg pb-3 mt-0 mb-4"
                 style="
                 height: 65px;
+                color: white;  background-color:#4CBD94;
                 width: 270px;
                 border-radius: 12px;
                 font-size: 16px;

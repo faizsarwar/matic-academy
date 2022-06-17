@@ -44,8 +44,8 @@
                         >Quick view</a
                       > -->
 
-                        <button type="button" class="btn btn-outline-success p-2">Trems Of Use</button>
-                        <button type="button" class="btn btn-outline-success p-2 ml-2">Privacy Policy</button>
+                        <button type="button" class="btn btn-outline p-2" style="color: white;  background-color:#4CBD94;">Trems Of Use</button>
+                        <button type="button" class="btn btn-outline p-2 ml-2" style="color: white;  background-color:#4CBD94;">Privacy Policy</button>
                     </div>
                   </div>
             </div>

@@ -8,7 +8,7 @@
                 <div class=" ml-5 pt-5 mt-5 pr-5 pl-5 ">
                     <h1><b class="text-left mt-5" style="color: white !important">Matic Instructors</b></h1>
                     <p style="color: white !important">We’re here to bring out the greatness in every learner, as early as they’re ready. Right here, right now. Because we see potential at every age. And we believe everybody has the power to be a superstar in something.</p>
-                    <button button type="" class="btn btn-success btn-lg " style="height:65px; width : 300px; border-radius: 12px;font-size:16px">Try A Free class</button>      
+                    <button button type="" class="btn btn btn-lg " style="height:65px; width : 300px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Try A Free class</button>      
                 </div>
                 </div>
                 <div class="col-lg " style=" text-align: center; color: black;">
@@ -124,10 +124,11 @@
                 </p>
                 <button
                     type=""
-                    class="btn btn-success btn-lg"
+                    class="btn btn btn-lg"
                     style="
                     height: 65px;
                     width: 200px;
+                    color: white;  background-color:#4CBD94;
                     border-radius: 12px;
                     font-size: 16px;
                     "
@@ -235,9 +236,10 @@
                 </p>
                 <button
                     type=""
-                    class="btn btn-success btn-lg"
+                    class="btn btn btn-lg"
                     style="
                     height: 65px;
+                    color: white;  background-color:#4CBD94;
                     width: 200px;
                     border-radius: 12px;
                     font-size: 16px;

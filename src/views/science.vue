@@ -9,14 +9,14 @@
             </b>
           </h1>
           <p class="mt-3 ml-4 pr-5 mt-5 mb-3" style=" color:white">
-           <span class="px-4 py-2 bg-success" style="border-radius: 9px;">  Age 8-18</span>
+           <span class="px-4 py-2 " style="border-radius: 9px; color: white;  background-color:#4CBD94;">  Age 8-18</span>
           </p>
             <p class="ml-4 pr-5 mt-5" style="color:white !important">Online Science Classes for Kids (Age 8-18) Bring out your child's inner scientist with fun, project-driven classes in physics, chemistry, biology, and more.
             </p>
 
             <!--button  -->
             <div class="mt-3">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try A Free Class</button>
+            <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px; width : 190px; color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Try A Free Class</button>
             </div>
             
 
@@ -38,8 +38,9 @@
             </p>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-5 mb-5"
+                class="btn btn btn-lg pb-3 mt-5 mb-5"
                 style="
+                color: white;  background-color:#4CBD94;
                 height: 65px;
                 width: 270px;
                 border-radius: 12px;
@@ -58,8 +59,9 @@
         <best_seller_slides/>
         <button
             type=""
-            class="btn btn-success btn-lg"
+            class="btn btn btn-lg"
             style="
+            color: white;  background-color:#4CBD94;
             height: 65px;
             width: 260px;
             border-radius: 12px;
@@ -232,8 +234,9 @@
             </p>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-0 mb-4"
+                class="btn btn btn-lg pb-3 mt-0 mb-4"
                 style="
+                color: white;  background-color:#4CBD94;
                 height: 65px;
                 width: 270px;
                 border-radius: 12px;

@@ -9,7 +9,7 @@
             </b>
           </h1>
           <p class="mt-3 ml-4 pr-5 mt-5" style=" color:white">
-           <span class="px-4 py-2 bg-success" style="border-radius: 9px;">  Age 7-18</span>
+           <span class="px-4 py-2 " style="border-radius: 9px; color: white;  background-color:#4CBD94;">  Age 7-18</span>
           </p>
             <p class="ml-4 pr-5 mt-3 mb-3" style="color:white !important">
 Junior offers math courses for kids aged 7-18. These online lessons are designed by experts and go beyond memorization and keep students excited to learn, with a hands-on approach that will make them successful in the subject they love most - matheMatics!
@@ -17,7 +17,7 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
 
             <!--button  -->
             <div class="mt-2">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 230px; border-radius: 12px;font-size:16px">Try A Free Maths Class</button>
+            <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px;color: white;  background-color:#4CBD94; width : 230px; border-radius: 12px;font-size:16px">Try A Free Maths Class</button>
             </div>
         
         </div>
@@ -37,8 +37,9 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
             </p>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-0 mb-4"
+                class="btn btn btn-lg pb-3 mt-0 mb-4"
                 style="
+                color: white;  background-color:#4CBD94;
                 height: 65px;
                 width: 270px;
                 border-radius: 12px;
@@ -56,8 +57,9 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
         <best_seller_slides/>
         <button
             type=""
-            class="btn btn-success btn-lg"
+            class="btn btn btn-lg"
             style="
+            color: white;  background-color:#4CBD94;
             height: 65px;
             width: 260px;
             border-radius: 12px;
@@ -314,8 +316,9 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
             </p>
             <button
                 type=""
-                class="btn btn-success btn-lg pb-3 mt-0 mb-4"
+                class="btn btn btn-lg pb-3 mt-0 mb-4"
                 style="
+                color: white;  background-color:#4CBD94;
                 height: 65px;
                 width: 270px;
                 border-radius: 12px;

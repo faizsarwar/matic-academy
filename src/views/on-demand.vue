@@ -7,7 +7,7 @@
           <h1 class="ml-4 pt-5 mb-3"><b style="color:white !important">Matic On Demand:
             Self-Guided Courses for Kids</b></h1>
           <p class="mt-5 ml-4 pr-5" style=" color:white">
-           <span class="px-4 py-2 bg-success mb-2" style="border-radius: 9px;">  Age 8-18</span>
+           <span class="px-4 py-2  mb-2" style="border-radius: 9px; color: white;  background-color:#4CBD94;">  Age 8-18</span>
           </p>
             <p class="ml-4 pr-5 mt-3" style="color:white !important">Unlimited access to Matic's 400+ hours
                 of self-study courses for just $29/month,
@@ -16,7 +16,7 @@
 
             <!--button  -->
             <div class="mt-3">
-            <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try 1 Week Free</button>
+            <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px;color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Try 1 Week Free</button>
             </div>
 
         </div>
@@ -264,8 +264,9 @@
             </p>
             <button
                 type=""
-                class="btn btn-success btn-lg"
+                class="btn btn btn-lg"
                 style="
+                color: white;  background-color:#4CBD94;
                 height: 65px;
                 width: 200px;
                 border-radius: 12px;
@@ -337,8 +338,9 @@
             <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2">Explore our 1:1 learning with private instructors across 40+ courses in Coding, Math, Storytelling, Finance, and more!</p>
             <button
                 type=""
-                class="btn btn-success btn-lg"
+                class="btn btn btn-lg"
                 style="
+                color: white;  background-color:#4CBD94;
                 height: 65px;
                 width: 200px;
                 border-radius: 12px;

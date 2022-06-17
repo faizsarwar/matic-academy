@@ -18,7 +18,7 @@
           <div class="row m-4">
             <h5 style="text-align:left"><b> New learners get their first class free. </b></h5>   
           </div>
-          <button button type="" class="btn btn-success btn-lg m-4" style="height:65px; width : 270px; border-radius: 12px;font-size:16px">Explore Private 1:1</button>      
+          <button button type="" class="btn btn btn-lg m-4" style="height:65px; color: white;  background-color:#4CBD94; width : 270px; border-radius: 12px;font-size:16px">Explore Private 1:1</button>      
         </div>
       </div>
 
@@ -37,7 +37,7 @@
             <h5 style="text-align:left"><b> New learners get their first class free. </b></h5>   
           </div>
           <div class="m-5">
-              <button button type="" class="btn btn-success btn-lg mt-4" style="height:65px; width : 270px; border-radius: 12px;font-size:16px">Explore On-Demand</button>      
+              <button button type="" class="btn btn btn-lg mt-4" style="height:65px; color: white;  background-color:#4CBD94;width : 270px; border-radius: 12px;font-size:16px">Explore On-Demand</button>      
           </div>
 
         </div>
@@ -59,7 +59,7 @@
           </div>
 
           <div class="mt-5">
-            <button button type="" class="btn btn-success btn-lg m-5" style="height:65px; width : 270px; border-radius: 12px;font-size:16px">Explore Bootcamps</button>      
+            <button button type="" class="btn btn btn-lg m-5" style="height:65px;color: white;  background-color:#4CBD94; width : 270px; border-radius: 12px;font-size:16px">Explore Bootcamps</button>      
           </div>
    
   

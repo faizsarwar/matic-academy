@@ -11,12 +11,14 @@
           </p>
           <button
             type=""
-            class="btn btn-success btn-lg"
+            class="btn  btn-lg"
             style="
               height: 65px;
               width: 180px;
               border-radius: 12px;
               font-size: 16px;
+              color: white;
+              background-color:#4CBD94;              
             "
           >
             Try A Free class
@@ -45,9 +47,10 @@
         </p>
         <button
             type=""
-            class="btn btn-success btn-lg"
+            class="btn btn btn-lg"
             style="
               height: 65px;
+              color: white;  background-color:#4CBD94;
               width: 200px;
               border-radius: 12px;
               font-size: 16px;
@@ -237,7 +240,7 @@
         <div class="pt-4 pb-4">
             <h1 class="mt-5"><b>Try the full Matic experience for free</b></h1>
             <p class="mb-4">Take a free Class to see if Matic is right for your child.</p>
-            <button button type="" class="btn btn-success btn-lg " style="height:65px; width : 300px; border-radius: 12px;font-size:16px">Try A Free class</button>      
+            <button button type="" class="btn btn btn-lg " style="height:65px; color: white;  background-color:#4CBD94; width : 300px; border-radius: 12px;font-size:16px">Try A Free class</button>      
         </div>
     
 

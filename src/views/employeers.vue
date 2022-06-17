@@ -13,7 +13,7 @@
 
                     <!--button  -->
                     <div class="mt-5">
-                        <button type="" class="btn btn-success btn-lg ml-4 mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Buy A Gift Card</button>
+                        <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px;color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Buy A Gift Card</button>
                     </div>
             </div>
           </div>
@@ -74,7 +74,19 @@
 
                     <!--button  -->
                     <div class="mt-5">
-                    <button type="" class="btn btn-success btn-lg mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try A Free class</button>
+                              <button
+            type=""
+            class="btn  btn-lg"
+            style="
+              height: 65px;
+              width: 180px;
+              
+              border-radius: 12px;
+              font-size: 16px;
+              color: white;
+              background-color:#4CBD94;              
+            "
+          >on type="" class="btn btn-success btn-lg mt-2" style="height:65px; width : 190px; border-radius: 12px;font-size:16px">Try A Free class</button>
                     </div>
                 
             </div>
