@@ -76,7 +76,7 @@
           Classes
         </div>
         <div class="col pl-3 pr-3">
-          <h5>50 minutes</h5>
+          <h5>{{blog.total_duration_in_minutes}} minutes</h5>
           Per class
         </div>
       </div>
@@ -182,7 +182,7 @@
                         </div>
                         <div class="col"></div>
                         <div class="col2">
-                          {{this.blog.classes_per_month}} / month × ${{this.blog.price_per_month/this.blog.classes_per_month}} / class
+                          {{this.blog.classes_per_month}}  classes per month × ${{this.blog.price_per_month/this.blog.classes_per_month}} / class
                         </div>
                       </div>
 
