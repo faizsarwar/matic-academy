@@ -158,6 +158,7 @@
                             style="
                               border-radius: 9px;
                               background-color: #e6f7f6;
+                              overflow:hidden;
                             "
                             ><b> FIRST CLASS FREE! </b></span
                           >
