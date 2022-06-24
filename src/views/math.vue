@@ -1,7 +1,7 @@
 <template>
     <div>
 
-    <section class="" style="background-color: #3a0078;color:white">
+    <section class="" style="background-color: #A2469A;color:white">
       <div class="row   text-left">
         <div class="col-lg ml-4 mr-3">
           <h1 class="ml-4 pr-5 pt-5 mt-5 mb-3"><b style="color:white !important">Online Math Courses
@@ -198,7 +198,7 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
       </div>
       </section>
 
-  <section class="pt-5 pb-5" style="background-color:#5a3cf0">
+  <section class="pt-5 pb-5" style="background-color:#A2469A">
     <div class="row">
       <div class="col-4 pt-5">
              <img src="../assets/img/professional.png" alt="" class="ml-5 mr-3 mt-5  " style="background-size:contain; width:100%; background-repeat: no-repeat; text-align: center;border-radius:50%">
@@ -378,7 +378,7 @@ export default {
 
 p a b,
 label {
-  color: #211ea6;
+  color: #A2469A;
 }
 
 .circular--square {

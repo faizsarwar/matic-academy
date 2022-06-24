@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="pt-5 pb-5" style="background-color: #3a0078; color: white">
+    <section class="pt-5 pb-5" style="background-color: #A2469A; color: white">
       <div class="row mt-2 mb-4 ml-4 mr-0 pb-5 text-left">
         <div class="col-5 mt-5 pt-5 ">
           <h1 class="ml-4 mt-5">
@@ -39,7 +39,7 @@
                         <circle cx="8" cy="8" r="8"/>
                         </svg>
                     </div>
-                    <div class="col-6 text-left ml-0 pl-0">
+                    <div class="col-lg text-left ml-0 pl-0">
                       <p
                           class="card-title  ml-4"
                         >
@@ -87,7 +87,7 @@
                         <circle cx="8" cy="8" r="8"/>
                         </svg>
                     </div>
-                    <div class="col-6 text-left ml-0 pl-0">
+                    <div class="col-lg text-left ml-0 pl-0">
                       <p
                           class="card-title  ml-4"
                         >
@@ -135,7 +135,7 @@
                         <circle cx="8" cy="8" r="8"/>
                         </svg>
                     </div>
-                    <div class="col-6 text-left ml-0 pl-0">
+                    <div class="col-lg text-left ml-0 pl-0">
                       <p
                           class="card-title  ml-4"
                         >
@@ -185,7 +185,7 @@
                         <circle cx="8" cy="8" r="8"/>
                         </svg>
                     </div>
-                    <div class="col-6 text-left ml-0 pl-0">
+                    <div class="col-lg text-left ml-0 pl-0">
                       <p
                           class="card-title  ml-4"
                         >
@@ -233,7 +233,7 @@
                         <circle cx="8" cy="8" r="8"/>
                         </svg>
                     </div>
-                    <div class="col-6 text-left ml-0 pl-0">
+                    <div class="col-lg text-left ml-0 pl-0">
                       <p
                           class="card-title  ml-4"
                         >
@@ -281,7 +281,7 @@
                         <circle cx="8" cy="8" r="8"/>
                         </svg>
                     </div>
-                    <div class="col-6 text-left ml-0 pl-0">
+                    <div class="col-lg text-left ml-0 pl-0">
                       <p
                           class="card-title  ml-4"
                         >
@@ -395,7 +395,7 @@ export default {
 
 p a b,
 label {
-  color: #211ea6;
+  color: #A2469A;
 }
 
 .circular--square {

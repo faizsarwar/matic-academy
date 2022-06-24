@@ -1,14 +1,14 @@
 <template>
     <div>
 
-    <section class="p-4" style="background-color: #3a0078;color:white">
+    <section class="p-4" style="background-color: #A2469A;color:white">
       <div class="row   text-left">
         <div class="col-lg ml-4 mr-3">
           <h2 class="ml-4 pr-5  mt-3"><b style="color:white !important">Communications & Language Arts Courses for Kids
             </b>
           </h2>
           <p class="mt-4 ml-4 pr-5" style="color:white ">
-           <span class="px-4 py-2 bg-success" style="border-radius: 9px;">  Age 7-18</span>
+           <span class="px-4 py-2 " style="border-radius: 9px;  background-color:#4CBD94;">  Age 7-18</span>
           </p>
             <p class="ml-4 pr-5 mt-4 mb-3" style="color:white !important">
 The most popular classes for kids looking to learn more about communication, creativity and self-expression are now available at your local Language Arts & Communications School. Whether you're just beginning or want a fresh outlook on life from the perspective of an experienced learner these courses will expand upon what's been learned in previous years while adding new skills that have never before been covered! Get started today by checking out our online catalog which features many hands-on learning opportunities like journalism papers/projects; videos created using editing software such as Avid Media Composer , animation tutorials etc.            </p>
@@ -72,7 +72,7 @@ The most popular classes for kids looking to learn more about communication, cre
           <h1 class="mt-4 mb-4"><b >All Matic Courses Include:</b></h1>
       <div class="row pl-4 pr-4 mt-3" >
 
-        <div class="col-3 ">
+        <div class="col-sm ">
           
           <div class="row">
             <div class="col-3  ">
@@ -102,7 +102,7 @@ The most popular classes for kids looking to learn more about communication, cre
 
         </div>
 
-        <div class="col-3 ">
+        <div class="col-sm ">
           <div class="row">
               <div class="col-3">
               <img src="../assets/img/community.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
@@ -133,7 +133,7 @@ The most popular classes for kids looking to learn more about communication, cre
 
         </div>
 
-        <div class="col-3">
+        <div class="col-sm">
           <div class="row">   
               <div class="col-3">
               <img src="../assets/img/live_support.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
@@ -195,6 +195,7 @@ The most popular classes for kids looking to learn more about communication, cre
 
       </div>
       </section>
+
 
       <section class="pt-5 pb-5">
         <h1 class="p-4 pb-5"><b>Start Learning In 3 Simple Steps</b></h1>
@@ -349,7 +350,7 @@ export default {
 
 p a b,
 label {
-  color: #211ea6;
+  color: #A2469A;
 }
 
 .circular--square {

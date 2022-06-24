@@ -1,7 +1,7 @@
 <template>
     <div>
 
-    <section class="pt-5 pb-5" style="background-color: #3a0078;color:white">
+    <section class="pt-5 pb-5" style="background-color: #A2469A;color:white">
       <div class="row mt-4 mb-4 ml-4 mr-3 text-left p-5">
         <div class="col-lg">
           <h1 class="ml-4 pr-5"><b style="color:white !important">From students to founders</b></h1>
@@ -34,12 +34,12 @@
             <h5><b>MEET OUR CO-FOUNDERS</b></h5>
             <!-- co-founder one -->
             <div class="row p-5 text-left">
-                <div class="col-6">
+                <div class="col-lg">
                     <div class="row pt-4 pb-4 ">
-                        <div class="col-6">
+                        <div class="col-lg">
 
                         </div>
-                        <div class="col-6 ">
+                        <div class="col-lg ">
                             <h1><b> Vivian Shen </b></h1> 
                             <b> Matic CEO & Co-Founder </b>
                             <p>Stanford B.S. in Computer Science, <br> Creative Writing Minor </p>
@@ -48,19 +48,19 @@
                     <h5 class="p-5 p3"><b> Vivian’s experience ranges from Fortune 500 companies to startup teams. She was Director of Product at Operator for US and China, a software engineer at Google, and a consultant for high-growth tech companies at McKinsey & Company’s Silicon Valley office. She’s also been featured in Forbes’ 30 Under 30, Fast Company, TechCrunch, and Fortune.</b></h5>
 
                 </div>
-                <div class="col-6">
+                <div class="col-lg">
 
                 </div>
             </div>
 
             <!-- co-founder one -->
             <div class="row p-5 text-left">
-                <div class="col-6">
+                <div class="col-lg">
                     <div class="row pt-4 pb-4 ">
-                        <div class="col-6">
+                        <div class="col-lg">
 
                         </div>
-                        <div class="col-6 ">
+                        <div class="col-lg ">
                             <h1><b> Ruby Lee </b></h1> 
                             <b> Matic CTO & Co-Founder </b>
                             <p>Stanford M.S. in Computer Science, B.S. in <br> Bioengineering </p>
@@ -69,7 +69,7 @@
                     <h5 class="p-5 p3"><b> Ruby has always held a lifelong passion for technology and education. Before co-founding Matic, she was an investor and Product Partner at Kleiner Perkins, and an Associate Product Manager at Google, where she worked on the Chrome browser and later helped launch Project Fi, Google's wireless carrier service.</b></h5>
 
                 </div>
-                <div class="col-6">
+                <div class="col-lg">
 
                 </div>
             </div>
@@ -127,7 +127,7 @@
 
     
 
-<section class="pt-5 pb-5" style="background-color:#5a3cf0">
+<section class="pt-5 pb-5" style="background-color:#A2469A">
     <div class="row">
       <div class="col-4">
            <img src="../assets/img/professional.png" alt="" class="ml-5 mr-3 mt-5  " style="background-size:contain; width:390px;height:370px; background-repeat: no-repeat; text-align: center;border-radius:50%">
@@ -225,7 +225,7 @@ export default {
 
 p a b,
 label {
-  color: #211ea6;
+  color: #A2469A;
 }
 
 .p3 {

@@ -1,7 +1,7 @@
 <template>
     <div>
 
-    <section class="pt-5 pb-5" style="background-color: #3a0078;color:white">
+    <section class="pt-5 pb-5" style="background-color: #A2469A;color:white">
         <div class="p-5">
           <h1 class="ml-4 pr-5"><b style="color:white !important">The Matic Blog</b></h1>
           <!-- <p class="mt-3 ml-4 pr-5" style=" ">
@@ -130,7 +130,7 @@ export default {
 
 p a b,
 label {
-  color: #211ea6;
+  color: #A2469A;
 }
 
 .circular--square {

@@ -1,7 +1,7 @@
 <template>
     <div>
 
-    <section class="p-5" style="background-color: #3a0078;color:white">
+    <section class="p-5" style="background-color: #A2469A;color:white">
       <div class="m-5 p-5">
         <h1><b style="color:white" class="pt-5"> Contact Us</b></h1>
         <p style="color:white" class="pb-5">Reach out to us by email or text, and a member of the team will be happy to help.</p>
@@ -39,7 +39,7 @@
                     <h2><b>Text</b></h2>
                   </div>
                   <p class="mt-5 mb-0">Feel free to text us at</p>
-                  <a href="" style="color:blue">(650) 263-4306</a>
+                  <a href="" style="color:blue">+1 (609) 375-0046</a>
                 </div>
               </div>
             </div>
@@ -113,7 +113,7 @@ export default {
 
 p a b,
 label {
-  color: #211ea6;
+  color: #A2469A;
 }
 
 .circular--square {

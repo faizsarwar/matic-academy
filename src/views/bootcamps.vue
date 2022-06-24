@@ -1,12 +1,12 @@
 <template>
     <div>
 
-    <section class="" style="background-color: #3a0078;color:white">
+    <section class="mb-4" style="background-color: #A2469A;color:white">
       <div class="row mt-4 ml-4 text-left">
         <div class="col-lg pt-5">
           <h1 class="ml-4 pr-5 mb-3"><b style="color:white !important">Introducing Matic Group Bootcamps</b></h1>
           <p class="mt-3 ml-4 pr-5 mt-5" style=" color:white">
-           <span class="px-4 py-2 bg-success" style="border-radius: 9px;">  Age 8-18</span>
+           <span class="px-4 py-2" style="border-radius: 9px; background-color:#4CBD94;">  Age 8-18</span>
           </p>
             <p class="ml-4 pr-5 mt-2" style="color:white !important">For a limited time, get half off group bootcamps
 (starting at $40 a course) created and taught by
@@ -50,7 +50,7 @@ our top instructors.
                         <div class="row mt-4 mb-4">
                             <div class="col-1 ">
                                 <!-- svg -->
-                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#261159" class="bi bi-check-circle " viewBox="0 0 16 16">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#A2469A " class="bi bi-check-circle " viewBox="0 0 16 16">
                                 <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
                                 <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
                                 </svg> 
@@ -63,7 +63,7 @@ our top instructors.
                         <div class="row mt-4 mb-4">
                             <div class="col-1">
                                 <!-- svg -->
-                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#261159" class="bi bi-check-circle" viewBox="0 0 16 16">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#A2469A " class="bi bi-check-circle" viewBox="0 0 16 16">
                                 <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
                                 <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
                                 </svg> 
@@ -77,7 +77,7 @@ our top instructors.
                         <div class="row mt-4 mb-4">
                             <div class="col-1">
                                 <!-- svg -->
-                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#261159" class="bi bi-check-circle" viewBox="0 0 16 16">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#A2469A " class="bi bi-check-circle" viewBox="0 0 16 16">
                                 <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
                                 <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
                                 </svg> 
@@ -90,7 +90,7 @@ our top instructors.
                         <div class="row mt-4 mb-4">
                             <div class="col-1 ">
                                 <!-- svg -->
-                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#261159" class="bi bi-check-circle" viewBox="0 0 16 16">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#A2469A " class="bi bi-check-circle" viewBox="0 0 16 16">
                                 <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
                                 <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
                                 </svg> 
@@ -155,11 +155,11 @@ our top instructors.
     <h1 class="mt-4"><b>New to Matic?</b></h1>
     <h1 class="mb-4"><b>Speak with a Matic Advisor today</b> </h1>
     <div class="row text-left">
-      <div class="col-6 " >
+      <div class="col-lg " >
         <h3 class="ml-5 mt-5"><b>Call Us</b></h3>
         <h3 class="ml-5 mt-2"><b>650-263-4306</b> </h3>
       </div>
-      <div class="col-6" style="font-size:18px">
+      <div class="col-lg" style="font-size:18px">
         <p class="ml-5 mt-5 mb-0"><b>Or, send us a message.</b></p>
         <p class="ml-5 mt-0"><b>We normally respond within the hour:</b></p>
         <form class=" mr-4">

@@ -1,7 +1,7 @@
 <template>
     <div>
 
-    <section class="" style="background-color: #3a0078;color:white">
+    <section class="" style="background-color: #A2469A;color:white">
       <div class="row mt-4 mb-4   text-left">
         <div class="col-lg ml-4">
           <h1 class="ml-4 pr-5 pt-5 pb-5"><b style="color:white !important">Coding for Kids</b></h1>
@@ -20,7 +20,7 @@
 
         <div class="col-lg">
         <div class="">
-                  <img src="../assets/img/ab.png" alt="" class="" style="width:100%;">
+          <img src="../assets/img/ab.png" alt="" class="" style="width:100%;">
         </div>
         </div>
       </div>
@@ -80,7 +80,7 @@
       <h1 class="mt-4 mb-4"><b style="">All Matic Courses Include:</b></h1>
       <div class="row pl-4 pr-4 mt-3" >
 
-        <div class="col-3 ">
+        <div class="col-sm ">
           
           <div class="row">
             <div class="col-3  ">
@@ -93,7 +93,7 @@
             </div>
 
           </div>
-          <div class="row ">
+          <div class="row ml-4">
             <ul class="ml-5" style="  font-weight:bolder; text-align:left">
                 <li>
                   Instructors from Top US Universities
@@ -110,12 +110,12 @@
 
         </div>
 
-        <div class="col-3 ">
+        <div class="col-sm ">
           <div class="row">
               <div class="col-3">
               <img src="../assets/img/community.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
             </div>
-            <div class="col-9 text-left">
+            <div class="col-9 ml-0 text-left">
             <h2 class="mb-3 " ><b > 
             <!-- <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
               <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
@@ -125,7 +125,7 @@
               Community </b></h2>
               </div>
           </div>
-          <div class="row ">
+          <div class="row ml-4">
           <ul class="ml-5" style="font-weight:bolder; text-align:left">
                 <li>
                   Matic Clubs
@@ -141,12 +141,12 @@
 
         </div>
 
-        <div class="col-3">
+        <div class="col-sm">
           <div class="row">   
               <div class="col-3">
               <img src="../assets/img/live_support.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
             </div>
-            <div class="col-9 text-left">
+            <div class="col-9 ml-0 text-left">
             <h2 class=" mb-3 " ><b > 
             <!-- <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
               <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
@@ -156,7 +156,7 @@
               Live Support</b></h2>
               </div>
           </div>
-          <div class="row ">
+          <div class="row ml-3">
               <ul class="ml-5" style=" font-weight:bolder; text-align:left">
                 <li>
                   Instructor Office Hours
@@ -171,12 +171,12 @@
           </div>
         </div>
 
-        <div class="col-3">
+        <div class="col-sm">
           <div class="row">   
               <div class="col-3">
               <img src="../assets/img/progress_test.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ;">
             </div>
-            <div class="col-9 text-left">
+            <div class="col-9 ml-0 text-left">
             <h2 class="" ><b > 
             <!-- <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="white" class="bi bi-check-circle" viewBox="0 0 16 16">
               <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
@@ -186,7 +186,7 @@
               Progress Test</b></h2>
               </div>
           </div>
-          <div class="row ">
+          <div class="row ml-3">
               <ul class="ml-5" style="  font-weight:bolder; text-align:left">
                 <li>
                   Course Roadmaps
@@ -204,7 +204,7 @@
       </div>
   </section>
 
-  <section class="pt-5 pb-5" style="background-color:#5a3cf0">
+  <section class="pt-5 pb-5" style="background-color:#A2469A">
     <div class="row">
       <div class="col-4 pt-5">
            <img src="../assets/img/teacher.jpg" alt="" class="ml-5 mr-3 mt-5  " style="background-size:contain; width:100%; background-repeat: no-repeat; text-align: center;border-radius:50%">
@@ -314,7 +314,7 @@
 
   <!-- 2 -->
   <section class="p-3">
-    <div class="p-4" style="border-radius:20px; background-color:#5a3cf0">
+    <div class="p-4" style="border-radius:20px; background-color:#A2469A">
       <div class="row">
         <div class="col-7 text-left">
           <div class="pl-5 pt-3 pb-3 pr-5">
@@ -325,10 +325,10 @@
             <h1 style="color:white" class="mb-5">I'm a coder now.</h1>
             <h5 style="color:white" >When I started it was hard to code. The instructors are really nice and helped me when I had trouble. They also saw what I liked and helped me learn those things even more. Now, I've learned how to make things on my own and even share my projects on Matic and with my friends. It makes me feel really smart!</h5>
             <div class="row pl-4 pr-4 pt-4">
-              <div class="col-6 card-dissapear">
+              <div class="col-lg card-dissapear">
                 <img src="../assets/img/placeholder.jpg" alt="" class=" mr-3   " style="background-size:contain; width:150px;height:150px; background-repeat: no-repeat; text-align: center;border-radius:50%">
               </div>
-              <div class="col-6 pt-3">
+              <div class="col-lg pt-3">
                 <div class="pt-3 ml-4">
                   <b class="mt-5" style="color:white">
                     Theo N.
@@ -439,7 +439,7 @@ export default {
 
 p a b,
 label {
-  color: #211ea6;
+  color: #A2469A;
 }
 
 .circular--square {

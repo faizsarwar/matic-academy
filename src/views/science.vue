@@ -1,7 +1,7 @@
 <template>
     <div>
 
-    <section class="" style="background-color: #3a0078;color:white">
+    <section class="" style="background-color: #A2469A;color:white">
       <div class="row mt-2 mb-4  text-left">
         <div class="col-lg ml-4 mr-3 pt-5">
           <h1 class="ml-4 pr-5 pt-5 mb-3"><b style="color:white !important">Online Science
@@ -76,7 +76,7 @@
           <h1 class="mt-4 mb-4"><b >All Matic Courses Include:</b></h1>
       <div class="row pl-4 pr-4 mt-3" >
 
-        <div class="col-3 ">
+        <div class="col-sm ">
           
           <div class="row">
             <div class="col-3  ">
@@ -106,7 +106,7 @@
 
         </div>
 
-        <div class="col-3 ">
+        <div class="col-sm ">
           <div class="row">
               <div class="col-3">
               <img src="../assets/img/community.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
@@ -137,7 +137,7 @@
 
         </div>
 
-        <div class="col-3">
+        <div class="col-sm">
           <div class="row">   
               <div class="col-3">
               <img src="../assets/img/live_support.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
@@ -296,7 +296,7 @@ export default {
 
 p a b,
 label {
-  color: #211ea6;
+  color: #A2469A;
 }
 
 .circular--square {

@@ -255,9 +255,9 @@
               </div>
             </form>
 
-            <p class="mt-5 mb-4 ml-4 pr-4" style="color:white"> 2261 Market St #4242, San Francisco, CA 94114
-                hello@learnwithmatic.com
-                (650) 263-4306</p>
+            <p class="mt-4 mb-4 ml-4 pr-4" style="color:white"> 2261 Market St #4242, San Francisco, CA 94114 <br>
+                hello@learnwithmatic.com <br>
+                 +1 (609) 375-0046</p>
 
           </div>
 
@@ -272,7 +272,7 @@
         class="ml-5"
       /> -->
       <!-- Copyright -->
-      <div class="footer-copyright pl-5 pt-3" style="color: white; background-color: #A2469A">
+      <div class="footer-copyright pl-5 pt-3" style="color: white; background-color: black">
         Copyright © 2022 matic Learning. All rights reserved.
       </div>
       <!-- Copyright -->
@@ -468,7 +468,7 @@ li a{
 }
 
 .navbar p {
-  color:#211ea6
+  color:#A2469A
 }
 
 
@@ -486,12 +486,21 @@ li a{
     }
   } 
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Minion;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
 }
+
+h2,h3,h4,h5,h6{
+    font-family: Bellomatch;
+}
+
+h1{
+  font-family: Minion;
+}
+
 a {
   text-decoration: none !important;
 }

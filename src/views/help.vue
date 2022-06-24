@@ -1,7 +1,7 @@
 <template>
     <div>
 
-    <section class="p-5" style="background-color: #3a0078;color:white">
+    <section class="p-5" style="background-color: #A2469A;color:white">
       <div class="m-5 p-5">
         <p style="color:white" class="pb-2">Help center & FAQ</p>
         <h1><b style="color:white" class="pt-5">Hi, How can we help you?</b></h1>
@@ -178,7 +178,7 @@ export default {
 
 p a b,
 label {
-  color: #211ea6;
+  color: #A2469A;
 }
 
 .circular--square {

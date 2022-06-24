@@ -62,7 +62,7 @@
             mt-5
           "
         >
-          <div class="col-6 wpb_column vc_column_container">
+          <div class="col-lg wpb_column vc_column_container">
               <img src="../assets/img/sc1.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
 
             <!-- <div class="vc_column-inner us_custom_70bd8ebe">
@@ -209,7 +209,7 @@
       </div>
     </section>
 
-  <section class="pt-5 pb-5" style="background-color:#5a3cf0">
+  <section class="pt-5 pb-5" style="background-color:#A2469A">
                 <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">STUDENT OF THE MONTH</b> </h1>
     <div class="row">
       <div class="col-4">
@@ -344,13 +344,13 @@ to STEAM platform </b> </p>
             mt-5
           "
         >
-        <div class="col-6">
+        <div class="col-lg">
             <h1><b style="color:white !important">WHY STEAM?</b></h1>
         </div>
-        <div class="col-6">
+        <div class="col-lg">
             <h1><b style="color:white !important">CAREER PATHS</b></h1>
         </div>
-          <div class="col-6 wpb_column vc_column_container pt-5">
+          <div class="col-lg wpb_column vc_column_container pt-5">
 
             <div class="pt-5">
               <img src="../assets/img/sc2.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
@@ -533,7 +533,7 @@ export default {
 
 p a b,
 label {
-  color: #211ea6;
+  color: #A2469A;
 }
 
 .g-cols.type_default {

@@ -1,7 +1,7 @@
 <template>
     <div>
 
-    <section class="pt-2 pb-5" style="background-color: #3a0078;color:white">
+    <section class="pt-2 pb-5" style="background-color: #A2469A;color:white">
       <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
         <div class="col-lg">
           <h1 class="ml-4 pr-5 pt-5 mt-5 mb-3"><b style="color:white !important">“As a teacher myself, I know first-hand how hard it is to keep young adults engaged, and Matic does it better than any other company I tried.”
@@ -79,7 +79,7 @@
             </div>
         </div>
     </section>
-  <section class="pt-5 pb-5" style="background-color:#5a3cf0">
+  <section class="pt-5 pb-5" style="background-color:#A2469A">
     <div class="row">
       <div class="col-4 pt-5">
            <img src="../assets/img/professional.png" alt="" class="ml-5 mr-3 mt-5  " style="background-size:contain; width:100%; background-repeat: no-repeat; text-align: center;border-radius:50%">
@@ -156,7 +156,7 @@
         </div>
     </section>
 
-    <section class="pt-5 pb-5" style="background-color:#5a3cf0">
+    <section class="pt-5 pb-5" style="background-color:#A2469A">
       <div class="row">
         <div class="col-12" style="text-align: center;" >
           <div class="row">
@@ -229,7 +229,7 @@
         </div>
     </section>
 
-    <section class="pt-5 pb-5" style="background-color:#5a3cf0">
+    <section class="pt-5 pb-5" style="background-color:#A2469A">
       <div class="row">
         <div class="col-12" style="text-align: center;" >
           <div class="row">
@@ -321,7 +321,7 @@ export default {
 
 p a b,
 label {
-  color: #211ea6;
+  color: #A2469A;
 }
 
 .circular--square {

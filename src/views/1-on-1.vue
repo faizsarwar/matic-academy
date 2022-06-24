@@ -1,13 +1,13 @@
 <template>
     <div>
 
-    <section class="" style="background-color: #3a0078;color:white">
+    <section class="" style="background-color: #A2469A;color:white">
       <div class="row mt-4  ml-4  text-left">
         <div class="col-lg pt-5">
           <h1 class="ml-4 mt-5 pr-5 mb-3"><b style="color:white !important">Matic One-on-One
                 Subscription</b></h1>
           <p class="mt-3 ml-4 pr-5 mt-5" style=" color:white">
-           <span class="px-4 py-2 bg-success" style="border-radius: 9px;">  Age 8-18</span>
+           <span class="px-4 py-2 " style="border-radius: 9px; background-color:#4CBD94;   ">  Age 8-18</span>
           </p>
             <p class="ml-4 pr-5 mt-2" style="color:white !important">Learn in a setting tailored just for you! With private one on one classes and on-demand access to all our most popular courses, get matched with an instructor that fits your learning style. 
               Keep things flexible by exploring & mastering real world skills at home or work through self-guided lessons available 24/7 without any prerequisites needed - it’s the perfect way of brushing up before taking those next steps towards becoming certified.
@@ -67,7 +67,7 @@
           <h1 class="mt-4 mb-4"><b >The 1:1 Matic Experience Includes:</b></h1>
       <div class="row pl-4 pr-4 mt-3" >
 
-        <div class="col-3 ">
+        <div class="col-sm ">
           
           <div class="row">
             <div class="col-3  ">
@@ -97,7 +97,7 @@
 
         </div>
 
-        <div class="col-3 ">
+        <div class="col-sm ">
           <div class="row">
               <div class="col-3">
               <img src="../assets/img/community.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
@@ -128,7 +128,7 @@
 
         </div>
 
-        <div class="col-3">
+        <div class="col-sm">
           <div class="row">   
               <div class="col-3">
               <img src="../assets/img/live_support.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
@@ -158,7 +158,7 @@
           </div>
         </div>
 
-        <div class="col-3">
+        <div class="col-sm">
           <div class="row">   
               <div class="col-3">
               <img src="../assets/img/progress_test.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ;">
@@ -222,11 +222,11 @@ Have your child matched with a vetted instructor and try your first Class free.
     <h1 class="mt-4"><b>New to Matic?</b></h1>
     <h1 class="mb-4"><b>Speak with a Matic Advisor today</b> </h1>
     <div class="row text-left">
-      <div class="col-6 " >
+      <div class="col-lg " >
         <h3 class="ml-5 mt-5"><b>Call Us</b></h3>
         <h3 class="ml-5 mt-2"><b>650-263-4306</b> </h3>
       </div>
-      <div class="col-6" >
+      <div class="col-lg" >
         <p class="ml-5 mt-5 mb-0"><b>Or, send us a message.</b></p>
         <p class="ml-5 mt-0"><b>We normally respond within the hour:</b></p>
         <form class=" mr-4">
@@ -346,7 +346,7 @@ export default {
 
 p a b,
 label {
-  color: #211ea6;
+  color: #A2469A;
 }
 
 .circular--square {
