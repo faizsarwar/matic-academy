@@ -39,15 +39,19 @@
     <section class="pt-5 pb-5 pl-4 pr-4 text-center">
       <div>
         <h1><b>Not sure where to start?</b></h1>
-        <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2">
+        <div class="pl-5 pr-5 ml-5 mr-5">
+                <div class="pl-5 pr-5 ml-5 mr-5">
+                  <div class="pl-5 pr-5 ml-5 mr-5">
           When you sign up, our Matic Advisors can help you choose the right
           course for your learner. We can also assess their skill level and
           interests during our first free 1:1 Class to help determine the best
           course for them.
-        </p>
+                  </div>
+                </div>
+              </div>
         <button
             type=""
-            class="btn btn btn-lg"
+            class="btn btn btn-lg mt-3"
             style="
               height: 65px;
               color: white;  background-color:#4CBD94;
@@ -139,10 +143,18 @@
 
 
     <section class="pt-5 pb-5 pl-4 pr-4 text-center">
-      <div>
+      <div class="mt-4 mb-4">
               <h1><b class="text-center">What Is Project-Based Learning?</b></h1>
-        <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2">Our courses are expertly-designed to immerse students in each lesson. Student's are guided to problem-solve and discover insights themselves before applying that new knowledge to hands-on applications and projects, so they truly internalize the material and not just memorize it.
-        </p>
+
+                <div class="pl-5 pr-5 ml-5 mr-5">
+                <div class="pl-5 pr-5 ml-5 mr-5">
+                  <div class="pl-5 pr-5 ml-5 mr-5">
+Our courses are expertly-designed to immerse students in each lesson. Student's are guided to problem-solve and discover insights themselves before applying that new knowledge to hands-on applications and projects, so they truly internalize the material and not just memorize it.
+                  </div>
+                </div>
+              </div>
+      
+            
       </div>
     </section>
 
@@ -150,7 +162,7 @@
     <div class="mt-2 mb-2">
         <h1><b>What's Included In The Matic Portal?</b></h1>
         <p>Your one-stop shop for everything Matic. Parents are able to manage their learner's courses and learing paths, track their progress, and also engage with the Matic community.</p>
-      <div class="row">
+      <div class="row mt-5">
         <div class="col-lg " style=" text-align: center; color: black;">
             <img src="../assets/img/cfr1.png" alt=""  style="width:100%;">
         </div>
@@ -187,9 +199,9 @@
   </section>
 
     <section class="pt-5 pb-5">
-        <h1 class="mt-4 mb-4"><b>Get to know the Matic community</b></h1>
+        <h1 class="mt-4 mb-5"><b>Get to know the Matic community</b></h1>
         <!-- Picture on right -->
-        <div class="row">
+        <div class="row mt-3">
             <div class="col-lg mt-5 pt-5" style=" text-align: left; color: black;">
               <div class=" ml-5 mt-5 pr-5 pl-5 ">
                   <h1><b class="text-left mt-5">Matic Events</b></h1>

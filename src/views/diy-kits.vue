@@ -34,11 +34,11 @@ HARDWARE KITS
 
     <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
         <div class="p-5 bf" >
-            <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
+            <div class="row mt-2 mb-4  ml-4 mr-3 text-left" >
 
-                <div class="col-lg">
+                <div class="col-lg mt-3" >
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Arduino Starter Kit
                             </b>
                         </h1>
@@ -53,13 +53,13 @@ HARDWARE KITS
                     </div>
 
                 </div>
-                <div class="col-lg mt-3">
+                <div class="col-lg mt-3" style="height:1200px !important">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Buddy Bot
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Buddy Bot is a new and innovative way for children to have fun! It features many hands-on activities that are not only educational, but also interactive. The bot can recognize facial expressions as well as voice commands which makes it easier than ever before; perfect if you want your child's attention on something other than themselves all day long (or at least until dinner). With this device in their life they will be able explore technology while learning how much more there really could always be inside each one of us - even without computers or smartphones needed.
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Buddy Bot is a new and innovative way for children to have fun! It features many hands-on activities that are not only educational, but also interactive. The bot can recognize facial expressions as well as voice commands which makes it easier than ever before; perfect if you want your child's attention on something other than themselves all day long (or at least until dinner). 
          </p>
 
                         <!--button  -->
@@ -72,7 +72,7 @@ HARDWARE KITS
                 </div>
                 <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> IOT Starter Kit
                             </b>
                         </h1>
@@ -96,9 +96,9 @@ HARDWARE KITS
         <div class="p-5 bf" >
             <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
 
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Codi Bot Kit
                             </b>
                         </h1>
@@ -106,7 +106,7 @@ HARDWARE KITS
                   </p>
 
                         <!--button  -->
-                        <div class="mt-5">
+                        <div class="mt-3">
                         <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
@@ -115,7 +115,7 @@ HARDWARE KITS
                 </div>
                 <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Brush Bot
                             </b>
                         </h1>
@@ -123,7 +123,7 @@ HARDWARE KITS
          </p>
 
                         <!--button  -->
-                        <div class="mt-5">
+                        <div class="mt-3">
                         <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px; color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
@@ -132,15 +132,15 @@ HARDWARE KITS
                 </div>
                 <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Solar House
                             </b>
                         </h1>
                         <p class="ml-4 pr-5 mt-5" style="color:white !important">Solar energy is a renewable and eco-friendly form of power that you can harness to light up your home. The SOLAR HOUSE kit was designed by DIYers, for those who want an easy way to learn how they work!
-The instructions will show newcomers just what's needed in order to make circuits with lights flashing tunes playing sound effects moving images on screen - all powered solely from sunlight shining through transparent walls coating everything inside its wifi hotspot ready access points . This smart device requires no wiring whatsoever so anyone interested has nothing but themselves left holding onto misconceptions about owning their own clean perpetual source ́round here.          </p>
+The instructions will show newcomers just what's needed in order to make circuits with lights flashing tunes playing sound effects moving images on screen - all powered solely from sunlight shining through transparent walls coating everything inside its wifi hotspot ready access points .          </p>
 
                         <!--button  -->
-                        <div class="mt-5">
+                        <div class="mt-1">
                         <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
@@ -156,17 +156,17 @@ The instructions will show newcomers just what's needed in order to make circuit
         <div class="p-5 bf" >
             <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
 
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">Me Arm
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Me Arm Kit is a great way to get creative and have some fun with technology! It's never been easier than now, so grab your computer or smartphone because this project will take you on an adventure like no other. With the help of four servo motors that are included in each kit purchase - all controlled from our very own computers through easy-to use software programs--we can make anything happen: move forward/backward walk right turn left raise arm up down lower arms lift off ground...the possibilities really aren't limited at all when using these innovative kits designed by STEM company named "MeArm."
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Me Arm Kit is a great way to get creative and have some fun with technology! It's never been easier than now, so grab your computer or smartphone because this project will take you on an adventure like no other. With the help of four servo motors that are included in each kit purchase - all controlled from our very own computers through easy-to use software programs--we can make anything happen: move forward/backward walk right turn left raise arm up down lower arms lift off ground...the possibilities really aren't limited use STEM company named "MeArm."
                       </p>
 
                         <!--button  -->
-                        <div class="mt-5">
+                        <div class="mt-1">
                         <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
@@ -175,7 +175,7 @@ The instructions will show newcomers just what's needed in order to make circuit
                 </div>
                 <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Melody Matic
                             </b>
                         </h1>
@@ -183,7 +183,7 @@ The instructions will show newcomers just what's needed in order to make circuit
   </p>
 
                         <!--button  -->
-                        <div class="mt-5">
+                        <div class="mt-2">
                         <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
@@ -192,7 +192,7 @@ The instructions will show newcomers just what's needed in order to make circuit
                 </div>
                 <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Smart Watch
                             </b>
                         </h1>
@@ -216,17 +216,17 @@ The instructions will show newcomers just what's needed in order to make circuit
         <div class="p-5 bf" >
             <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
 
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">Security Kit
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Security Kit is your ultimate home security system. It has everything you need to protect the safety and well-being of yourself, family members or guests by ringing an alarm in case there's any fires at night; intruders trying their luck breaking into homes through windows etcetera! Learn how circuits work with this easy step tutorial on creating a simple circuit that will keep those pesky burglars out while also learning some programming techniques for use when designing customised solutions which are perfectly tailored just right according to what requirements YOU have - so get going now before someone else does.
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">The Security Kit is your ultimate home security system. It has everything you need to protect the safety and well-being of yourself, family members or guests by ringing an alarm in case there's any fires at night; intruders trying their luck breaking into homes through windows etcetera! Learn how circuits work with this easy step tutorial on creating a simple circuit that will keep those pesky burglars out while also learning some programming techniques for use when designing customised solutions which are perfectly tailored.
                                         </p>
 
                         <!--button  -->
-                        <div class="mt-5">
+                        <div class="mt-2">
                         <button type="" class="btn btn btn-lg ml-2 mt-2" style="height:65px; width : 190px; color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Learn More</button>
                         </div>
 
@@ -235,7 +235,7 @@ The instructions will show newcomers just what's needed in order to make circuit
                 </div>
                 <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Wearable Kit
                             </b>
                         </h1>
@@ -251,7 +251,7 @@ The instructions will show newcomers just what's needed in order to make circuit
                 </div>
                 <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Health Kit
                             </b>
                         </h1>
@@ -274,9 +274,9 @@ The instructions will show newcomers just what's needed in order to make circuit
         <div class="p-5 bf" >
             <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
 
-                <div class="col-lg">
+                <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">Plant Health Kit
 
 
@@ -297,13 +297,11 @@ The instructions will show newcomers just what's needed in order to make circuit
                 </div>
                 <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> IOT & Home Automation Kit
                             </b>
                         </h1>
-                        <p class="ml-4 pr-5 mt-5" style="color:white !important">Control any appliance of your liking with just a few clicks! The IoT & Home Automation Kit lets you dive into the amazing world data by creating an Wi-Fi enabled model house, which can be controlled from anywhere. With this kit's included relay module, you'll have all that is needed for monitoring temperature levels in one place while also being able to turn on or off lights remotely without ever having been there yourself - it makes sense why so many people are choosing these types of tech solutions nowadays.
-The input only contained information about what was being marketed but did not provide much context around how they could benefit someone’s life; therefore we added introductory phrases such as "This will help" throughout our output.
-
+                        <p class="ml-4 pr-5 mt-5" style="color:white !important">Control any appliance of your liking with just a few clicks! The IoT & Home Automation Kit lets you dive into the amazing world data by creating an Wi-Fi enabled model house, which can be controlled from anywhere.
 </p>
 
                         <!--button  -->
@@ -316,7 +314,7 @@ The input only contained information about what was being marketed but did not p
                 </div>
                 <div class="col-lg mt-3">
                     <img src="" class="card-img-top" alt="">
-                    <div style="background-color:#A2469A" class="pb-5  pl-5 pr-5 pt-0 disc">
+                    <div style="background-color:#A2469A; height:700px !important" class="pb-5  pl-5 pr-5 pt-0 disc">
                         <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important"> Soldering Kit
                             </b>
                         </h1>

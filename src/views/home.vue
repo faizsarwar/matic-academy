@@ -121,8 +121,8 @@
     </div>
   </section>
 
-  <section style="background-color: #e6f7f6" class="pt-5 pb-5">
-    <h1 class="mt-4 mb-4"><b>Preview a Matic Class</b></h1>
+  <section style="background-color: #231F20; color:white" class="pt-5 pb-5">
+    <h1 class="mt-4 mb-4"><b style="color:white">Preview a Matic Class</b></h1>
 
     <iframe width="560" height="315" class="mt-5 mb-5" src="https://www.youtube.com/embed/K4TOrB7at0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
@@ -130,7 +130,7 @@
     <div class="row pt-5 pl-5 pr-5">
       <div class="col-lg">
         <img src="../assets/img/f.png" alt="" class="circular--square" style="width:300px;height:240px">
-        <h3 class="mt-4"><b> Quality Instruction </b></h3>
+        <h3 class="mt-4"><b style="color:white"> Quality Instruction </b></h3>
         <div class="m-4 " style="text-align:left">
           <ul>
             <li>
@@ -148,7 +148,7 @@
 
       <div class="col-lg">
         <img src="../assets/img/4.png" alt="" class="circular--square" style="width:300px;height:240px">
-        <h3 class="mt-4"><b> Real-World Subjects </b></h3>
+        <h3 class="mt-4"><b style="color:white"> Real-World Subjects </b></h3>
         <div class="m-4 " style="text-align:left">
           <ul>
             <li>
@@ -166,7 +166,7 @@
       
       <div class="col-lg">
         <img src="../assets/img/sc2.png" alt="" class="circular--square" style="width:300px;height:240px">
-        <h3 class="mt-4"><b> Community of Learners </b></h3>
+        <h3 class="mt-4"><b style="color:white"> Community of Learners </b></h3>
         <div class="m-4 " style="text-align:left">
           <ul>
             <li>
