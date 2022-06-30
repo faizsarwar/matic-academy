@@ -3,7 +3,7 @@
 
     <section class="" style="background-color: #A2469A;color:white">
       <div class="row   text-left">
-        <div class="col-lg ml-4 mr-3">
+        <div class="col-lg ml-4 mr-3 mb-3">
           <h1 class="ml-4 pr-5 pt-5 mt-5 mb-3"><b style="color:white !important">Online Math Courses
             for Kids
             </b>
@@ -22,7 +22,7 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
         
         </div>
 
-        <div class="col-lg">
+        <div class="col-lg mb-3">
                 <img src="../assets/img/1.png" alt="" class="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
         </div>
       </div>
@@ -32,9 +32,16 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
     <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center">
         <div class="pl-5 pr-5 pt-5 pb-5">
             <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >We help kids discover real-world math skills, for success in school and beyond.</b></h1>
-            <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0">
+            <!-- <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0"> -->
+                          <div class="p-5 ml-5 mr-5">
+              <div class="pl-5 pr-5 ml-5 mr-5">
+                <div class="pl-5 pr-5 ml-5 mr-5">
+                  <div class="pl-5 pr-5 ml-5 mr-5">
                 The Harvard Business Review recently reported 93% of Americans experience math anxiety, while the US Bureau of Labor Statistics projects math-heavy occupations will increase by 28% between 2020 and 2030. That's why we offer fun, discovery-based math lessons for kids with real-world applications.
-            </p>
+                  </div>
+                </div>
+              </div>
+          </div>
             <button
                 type=""
                 class="btn btn btn-lg pb-3 mt-0 mb-4"
@@ -83,17 +90,17 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
             <div class="col-9 ml-0 text-left">
               <h2 class=" mb-3 " ><b > 
 
-                Top Instruction </b></h2>
+                Top Instructors </b></h2>
             </div>
 
           </div>
-          <div class="row ">
-            <ul class="ml-5" style="  font-weight:bolder; text-align:left">
+          <div class="row pl-4">
+            <ul class="ml-5 " style="  font-weight:bolder; text-align:left">
                 <li>
                   Instructors from Top US Universities
                 </li>
                 <li>
-                  Expert-Designed Curricula
+                  Expert-Designed Curriculum
                 </li>
                 <li>
                   Project-Based Coursework
@@ -119,8 +126,8 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
               Community </b></h2>
               </div>
           </div>
-          <div class="row ">
-          <ul class="ml-5" style="font-weight:bolder; text-align:left">
+          <div class="row pl-5">
+          <ul class="ml-5 " style="font-weight:bolder; text-align:left">
                 <li>
                   Matic Clubs
                 </li>
@@ -150,7 +157,7 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
               Live Support</b></h2>
               </div>
           </div>
-          <div class="row ">
+          <div class="row pl-5">
               <ul class="ml-5" style=" font-weight:bolder; text-align:left">
                 <li>
                   Instructor Office Hours
@@ -180,7 +187,7 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
               Progress Test</b></h2>
               </div>
           </div>
-          <div class="row ">
+          <div class="row pl-5">
               <ul class="ml-5" style="  font-weight:bolder; text-align:left">
                 <li>
                   Course Roadmaps
@@ -258,7 +265,7 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
                     <div class="col-lg">
                       <div class="card" style="border-radius:15px">
                     <img
-                      src="../assets/img/placeholder.jpg"
+                      src="../assets/img/NewImage(1).jpg"
                       class="card-img-top"
                       alt="..."
 

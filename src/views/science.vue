@@ -85,7 +85,7 @@
             <div class="col-9 ml-0 text-left">
               <h2 class=" mb-3 " ><b > 
 
-                Top Instruction </b></h2>
+                Top Instructors </b></h2>
             </div>
 
           </div>
@@ -95,7 +95,7 @@
                   Instructors from Top US Universities
                 </li>
                 <li>
-                  Expert-Designed Curricula
+                  Expert-Designed Curriculum
                 </li>
                 <li>
                   Project-Based Coursework

@@ -3,7 +3,7 @@
 
     <section class="p-4" style="background-color: #A2469A;color:white">
       <div class="row   text-left">
-        <div class="col-lg ml-4 mr-3">
+        <div class="col-lg ml-4 mr-3 mb-3">
           <h2 class="ml-4 pr-5  mt-3"><b style="color:white !important">Communications & Language Arts Courses for Kids
             </b>
           </h2>
@@ -20,7 +20,7 @@ The most popular classes for kids looking to learn more about communication, cre
         
         </div>
 
-        <div class="col-lg">
+        <div class="col-lg mb-3">
                 <img src="../assets/img/cfr4.png" alt="" class="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%; ">
         </div>
       </div>
@@ -30,9 +30,15 @@ The most popular classes for kids looking to learn more about communication, cre
     <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center">
         <div class="pl-5 pr-5 pt-5 pb-5">
             <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >Empower Your Learner To Become A Stronger Communicator And Advocate.</b></h1>
-            <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0">
+                                      <div class="p-5 ml-5 mr-5">
+              <div class="pl-5 pr-5 ml-5 mr-5">
+                <div class="pl-5 pr-5 ml-5 mr-5">
+                  <div class="pl-5 pr-5 ml-5 mr-5">
       Give your student the tools to develop their creative thinking skills. At Matic, we offer an in-depth and imaginative communications curriculum for ages 7–18, from elementary level English to ambitious electives like Novel Writing and Video Editing, all taught online and developed by experts in their field.
-            </p>
+                  </div>
+                </div>
+              </div>
+          </div>
             <button
                 type=""
                 class="btn btn btn-lg pb-3 mt-0 mb-4"
@@ -81,17 +87,17 @@ The most popular classes for kids looking to learn more about communication, cre
             <div class="col-9 ml-0 text-left">
               <h2 class=" mb-3 " ><b > 
 
-                Top Instruction </b></h2>
+                Top Instructors </b></h2>
             </div>
 
           </div>
-          <div class="row ">
+          <div class="row pl-5">
             <ul class="ml-5" style="  font-weight:bolder; text-align:left">
                 <li>
                   Instructors from Top US Universities
                 </li>
                 <li>
-                  Expert-Designed Curricula
+                  Expert-Designed Curriculum
                 </li>
                 <li>
                   Project-Based Coursework
@@ -117,7 +123,7 @@ The most popular classes for kids looking to learn more about communication, cre
               Community </b></h2>
               </div>
           </div>
-          <div class="row ">
+          <div class="row pl-5">
           <ul class="ml-5" style="font-weight:bolder; text-align:left">
                 <li>
                   Matic Clubs
@@ -148,7 +154,7 @@ The most popular classes for kids looking to learn more about communication, cre
               Live Support</b></h2>
               </div>
           </div>
-          <div class="row ">
+          <div class="row pl-5">
               <ul class="ml-5" style=" font-weight:bolder; text-align:left">
                 <li>
                   Instructor Office Hours
@@ -178,7 +184,7 @@ The most popular classes for kids looking to learn more about communication, cre
               Progress Test</b></h2>
               </div>
           </div>
-          <div class="row ">
+          <div class="row pl-5">
               <ul class="ml-5" style="  font-weight:bolder; text-align:left">
                 <li>
                   Course Roadmaps
@@ -229,7 +235,7 @@ The most popular classes for kids looking to learn more about communication, cre
                     <div class="col-lg">
                       <div class="card" style="border-radius:15px">
                     <img
-                      src="../assets/img/placeholder.jpg"
+                      src="../assets/img/MaticKids1.jpg"
                       class="card-img-top"
                       alt="..."
 
@@ -254,7 +260,7 @@ The most popular classes for kids looking to learn more about communication, cre
                     <div class="col-lg">
      <div class="card" style="border-radius:15px">
                     <img
-                      src="../assets/img/placeholder.jpg"
+                      src="../assets/img/PopularCoursesSection(1).jpg"
                       class="card-img-top"
                       alt="..."
 

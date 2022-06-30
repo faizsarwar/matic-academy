@@ -84,7 +84,7 @@
             <div class="col-9 ml-0 text-left">
               <h2 class=" mb-3 " ><b > 
 
-                Top Instruction </b></h2>
+                Top Instructors </b></h2>
             </div>
 
           </div>
@@ -94,7 +94,7 @@
                   Instructors from Top US Universities
                 </li>
                 <li>
-                  Expert-Designed Curricula
+                  Expert-Designed Curriculum
                 </li>
                 <li>
                   Project-Based Coursework
@@ -204,7 +204,7 @@
         <div class="row pt-5 pb-5 pl-4 pr-4" >
           <div class="col">
             <div class="pt-2 pb-4">
-               <img src="../assets/img/first.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:26% ">
+               <img src="../assets/img/first.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:22%; ">
               <p class="pl-5 pt-5 ml-5 mr-5"><b> Choose a subject or course and sign up for your free class. </b> </p>
             </div>
           </div>
@@ -216,7 +216,7 @@
           </div>
           <div class="col">
             <div class="pt-2 pb-4">
-                          <img src="../assets/img/third.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:26% ">
+                          <img src="../assets/img/third.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:30% ">
               <p class="pl-5 pt-5 ml-5 mr-5"><b> Join your 1st Class to begin learning with Matic! </b> </p>
             </div>
           </div>
@@ -307,7 +307,7 @@
 
   <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center">
         <div>
-            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >Try the full Matic experience for free</b></h1>
+            <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-4 mt-4"><b >Unlock your Free Trial for the Complete Matic Experience</b></h1>
             <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-0">
            Take a free Class to see if Matic is right for your child.
             </p>

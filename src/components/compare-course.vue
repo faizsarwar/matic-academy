@@ -1,5 +1,5 @@
 <template>
-  <section style="background-color: #e6f7f6" class="pt-5 pb-5">
+  <section style="background-color: #231F20; color:white !important" class="pt-5 pb-5">
     <h1 class="mt-4 mb-4"><b>  Compare course formats for your learner </b></h1>
 
     <div class="row pt-5 pl-3 pr-3">
@@ -87,3 +87,9 @@ export default {
 }
 
 </script>
+
+<style scoped>
+*{
+  color:white
+}
+</style>

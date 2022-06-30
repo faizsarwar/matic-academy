@@ -1,9 +1,9 @@
 <template>
     <div>
 
-    <section class="pt-2 " >
+    <section class="pt-2 pb-2 mb-2" >
       <div class="row mt-2  ml-4 text-left">
-        <div class="col-lg">
+        <div class="col-lg mb-3">
           <h1 class="ml-4 pr-5 pt-5 "><b style="">CODING FOR KIDS
             </b>
           </h1>
@@ -20,15 +20,15 @@ Keep things flexible by exploring & mastering real world skills at home or work 
 
         </div>
 
-        <div class="col-lg ">
+        <div class="col-lg mb-3">
            <img src="../assets/img/cfr1.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
 
         </div>
       </div>
     </section>
 
-    <section class="p-5" style="background-color:#231F20">
-        <h2 class="p-3"><b style="color:white !important"> Designed in-house by STEAM experts, our educational kits spark creativity and can be integrated with our STEAM learning platform.</b></h2>
+    <section class="p-5" style="background-color:#4CBD94">
+        <h2 class="p-3 tetx-left"><b style="color:white !important"> Designed in-house by STEAM experts, our educational kits spark creativity and can be integrated with our STEAM learning platform.</b></h2>
     </section>
 
 
@@ -61,7 +61,7 @@ Keep things flexible by exploring & mastering real world skills at home or work 
 
 
     <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
-        <div class="pr-5 " style="border-radius:35px;background-color:#FED01F">
+        <div class="pr-5 " style="border-radius:35px;background-color:#4cbd94">
             <div class="row mt-2 mb-4  mr-3 text-left">
 
                 <div class="col-lg">
@@ -76,7 +76,7 @@ Keep things flexible by exploring & mastering real world skills at home or work 
 
                     <!--button  -->
                     <div class="mt-5">
-                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px;color: white;  background-color:#4CBD94;  width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px;color: white;  background-color:#A2469A;  width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
 
@@ -88,7 +88,7 @@ Keep things flexible by exploring & mastering real world skills at home or work 
 
 
     <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
-        <div class="pl-5 " style="border-radius:35px;background-color:#231F20">
+        <div class="pl-5 " style="border-radius:35px;background-color:#A2469A">
             <div class="row mt-2 mb-4 ml-4  text-left">
 
 
@@ -117,10 +117,19 @@ Keep things flexible by exploring & mastering real world skills at home or work 
     <section class="pt-5 pb-5 pl-4 pr-4 text-center">
         <div class="pt-5 pb-5 pl-4 pr-4 text-center">
             <h1 class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2"><b >Why attend a coding class?</b></h1>
-            <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2">Smartphone apps, robots, video games, small business—the world runs on code. Software jobs are predicted to grow by 34% in the next few years, making coding and app development the world’s most in-demand skills. Learn how to code and prepare kids for the future of work.</p>
+            <!-- <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2"></p> -->
+                  
+                                <div class="pl-5 pr-5 ml-5 mr-5">
+                <div class="pl-5 pr-5 ml-5 mr-5">
+                  <div class="pl-5 pr-5 ml-5 mr-5">
+             Smartphone apps, robots, video games, small business—the world runs on code. Software jobs are predicted to grow by 34% in the next few years, making coding and app development the world’s most in-demand skills. Learn how to code and prepare kids for the future of work.
+                  </div>
+                </div>
+              </div>
+                  
                    <button
             type=""
-            class="btn  btn-lg"
+            class="btn  btn-lg mt-4"
             style="
               height: 65px;
               width: 200px;

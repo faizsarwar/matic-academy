@@ -44,7 +44,7 @@
                       <div class="row" style="color:#466D1D;">
                       <div class="row">
                       <p
-                        class="card-title ml-5 mt-4"
+                        class="card-title pl-4 pr-3 mt-4"
                         style="text-align: center; color:black"
                       >
                         <strong> {{blog.tittle}}</strong>
@@ -90,7 +90,7 @@
                       <div class="row" style="color:#466D1D;">
                       <div class="row">
                       <p
-                        class="card-title ml-5 mt-4"
+                        class="card-title pl-4 pr-3  mt-4"
                         style="text-align: center; color:black"
                       >
                         <strong> {{blog.tittle}}</strong>

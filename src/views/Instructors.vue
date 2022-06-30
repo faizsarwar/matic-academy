@@ -112,6 +112,7 @@
                 </div>
                 <div class="col-lg pt-5" style=" text-align: center; color: black;">
                   <img src="../assets/img/img.png" alt="" class="mt-5" style="width:100%;">
+                  <img src="../assets/img/1MaticVerse_StudentProjects.jpg" alt="" class="mt-5" style="width:100%;">
                 </div>
             </div>
         </section>

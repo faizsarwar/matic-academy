@@ -12,7 +12,7 @@
           <div class="mt-5">
             <button
               type=""
-              class="btn btn btn-lg ml-4 mt-2"
+              class="btn btn btn-lg ml-4 mt-3 mb-4"
               style="
               color: white;  background-color:#4CBD94;
                 height: 65px;
@@ -231,7 +231,7 @@
           </div>
           <div class="col-8">
             <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important"><b style="color:white !important"> Teacher Feedback: </b></h5>
-            <p class="mt-4 mb-4 pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">LearnOBots Student of the month goes to Maheen Farhan this month.</p>
+            <p class="mt-4 mb-4 pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Matic Student of the month goes to Maheen Farhan this month.</p>
             <p class="mt-4 mb-4 pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Her achievement was a project consisting of making a pink robot which was created in Tinker CAD, a 3D modeling website. She used many different shapes to make this robot and Made it unique by adding details. She used spheres for making the eyes and used cuboids to make the head, arms, and legs. She then used the group option to make s slant shape to fit in the arm of the robot.</p>
             <p class="mt-4 mb-4 pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">Many congratulations Maheen.</p>
         
@@ -260,9 +260,8 @@
           <div class="col">
             <!-- <h2 class="p-4 pb-5"><b>1. Get in touch</b></h2> -->
             <div class="pt-5 pb-4">
-              <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="orange" class="bi bi-window-fullscreen" viewBox="0 0 16 16">
-                <path d="M3 3.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1.5 0a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1 .5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z"/>
-                <path d="M.5 1a.5.5 0 0 0-.5.5v13a.5.5 0 0 0 .5.5h15a.5.5 0 0 0 .5-.5v-13a.5.5 0 0 0-.5-.5H.5ZM1 5V2h14v3H1Zm0 1h14v8H1V6Z"/>
+              <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
+                <circle cx="8" cy="8" r="8"/>
               </svg>
               <p class=" pt-5"><b>One Class every
 week for 1.5 hours </b> </p>
@@ -271,9 +270,8 @@ week for 1.5 hours </b> </p>
           <div class="col">
             <!-- <h2 class="p-4 pb-5"><b>2. Assessment</b></h2> -->
             <div class="pt-5 pb-4">
-              <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="orange" class="bi bi-calendar4-week" viewBox="0 0 16 16">
-                <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v1h14V3a1 1 0 0 0-1-1H2zm13 3H1v9a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V5z"/>
-                <path d="M11 7.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm-3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm-2 3a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm-3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1z"/>
+              <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#4CBD94" class="bi bi-circle-fill" viewBox="0 0 16 16">
+                <circle cx="8" cy="8" r="8"/>
               </svg>
               <p class=" pt-5 "><b> For Ages
 8 to 14 years </b> </p>
@@ -282,8 +280,8 @@ week for 1.5 hours </b> </p>
           <div class="col">
             <!-- <h2 class="p-4 pb-5"><b>3. Match</b></h2> -->
             <div class="pt-5 pb-4">
-              <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="orange" class="bi bi-pc-display-horizontal" viewBox="0 0 16 16">
-                <path d="M1.5 0A1.5 1.5 0 0 0 0 1.5v7A1.5 1.5 0 0 0 1.5 10H6v1H1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1h-5v-1h4.5A1.5 1.5 0 0 0 16 8.5v-7A1.5 1.5 0 0 0 14.5 0h-13Zm0 1h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-7a.5.5 0 0 1 .5-.5ZM12 12.5a.5.5 0 1 1 1 0 .5.5 0 0 1-1 0Zm2 0a.5.5 0 1 1 1 0 .5.5 0 0 1-1 0ZM1.5 12h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1ZM1 14.25a.25.25 0 0 1 .25-.25h5.5a.25.25 0 1 1 0 .5h-5.5a.25.25 0 0 1-.25-.25Z"/>
+              <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
+                <circle cx="8" cy="8" r="8"/>
               </svg>
               <p class=" pt-5"><b>7:1 Teacher to
 Student Ratio</b> </p>
@@ -292,8 +290,8 @@ Student Ratio</b> </p>
           <div class="col">
             <!-- <h2 class="p-4 pb-5"><b>4. Partnership</b></h2> -->
             <div class="pt-5 pb-4">
-              <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="orange" class="bi bi-pc-display-horizontal" viewBox="0 0 16 16">
-                <path d="M1.5 0A1.5 1.5 0 0 0 0 1.5v7A1.5 1.5 0 0 0 1.5 10H6v1H1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1h-5v-1h4.5A1.5 1.5 0 0 0 16 8.5v-7A1.5 1.5 0 0 0 14.5 0h-13Zm0 1h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-7a.5.5 0 0 1 .5-.5ZM12 12.5a.5.5 0 1 1 1 0 .5.5 0 0 1-1 0Zm2 0a.5.5 0 1 1 1 0 .5.5 0 0 1-1 0ZM1.5 12h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1ZM1 14.25a.25.25 0 0 1 .25-.25h5.5a.25.25 0 1 1 0 .5h-5.5a.25.25 0 0 1-.25-.25Z"/>
+              <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#4CBD94" class="bi bi-circle-fill" viewBox="0 0 16 16">
+                <circle cx="8" cy="8" r="8"/>
               </svg>
               <p class=" pt-5"><b> Live online Class with STEAM mentors </b> </p>
             </div>
@@ -301,9 +299,8 @@ Student Ratio</b> </p>
             <div class="col">
             <!-- <h2 class="p-4 pb-5"><b>1. Get in touch</b></h2> -->
             <div class="pt-5 pb-4">
-              <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="orange" class="bi bi-window-fullscreen" viewBox="0 0 16 16">
-                <path d="M3 3.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1.5 0a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1 .5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z"/>
-                <path d="M.5 1a.5.5 0 0 0-.5.5v13a.5.5 0 0 0 .5.5h15a.5.5 0 0 0 .5-.5v-13a.5.5 0 0 0-.5-.5H.5ZM1 5V2h14v3H1Zm0 1h14v8H1V6Z"/>
+              <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
+                <circle cx="8" cy="8" r="8"/>
               </svg>
               <p class=" pt-5"><b>Conducted on
 Google Meet </b> </p>
@@ -312,9 +309,8 @@ Google Meet </b> </p>
           <div class="col">
             <!-- <h2 class="p-4 pb-5"><b>2. Assessment</b></h2> -->
             <div class="pt-5 pb-4">
-              <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="orange" class="bi bi-calendar4-week" viewBox="0 0 16 16">
-                <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v1h14V3a1 1 0 0 0-1-1H2zm13 3H1v9a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V5z"/>
-                <path d="M11 7.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm-3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm-2 3a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm-3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1z"/>
+              <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#4CBD94" class="bi bi-circle-fill" viewBox="0 0 16 16">
+                <circle cx="8" cy="8" r="8"/>
               </svg>
               <p class=" pt-5"><b> Free 24/7 access
 to STEAM platform </b> </p>
@@ -327,12 +323,16 @@ to STEAM platform </b> </p>
 
           <section class="pt-5 pb-5 pl-4 pr-4 mb-3 text-center" style="background-color:#231f20">
       <div class="p-5" style="border-radius: 35px">
+      
+      
         <h1><b style="color:white !important">ACTIVITIES INCULDED</b></h1>
         <h5 class="mt-3" style="color:white !important">
           Students have access to 15+ course domains. Our curriculum is designed
           by industry experts and experienced inhouse team of STEAM curriculum
           designers.
         </h5>
+
+
         <div
           class="
             g-cols
@@ -344,15 +344,19 @@ to STEAM platform </b> </p>
             mt-5
           "
         >
-        <div class="col-lg">
-            <h1><b style="color:white !important">WHY STEAM?</b></h1>
-        </div>
-        <div class="col-lg">
-            <h1><b style="color:white !important">CAREER PATHS</b></h1>
-        </div>
-          <div class="col-lg wpb_column vc_column_container pt-5">
+        <!-- <div class="mb-4"> -->
+          <div class="col-6 mb-4">
+              <h1><b style="color:white !important">WHY STEAM?</b></h1>
+          </div>
+          <div class="col-6 mb-4">
+              <h1><b style="color:white !important">CAREER PATHS</b></h1>
+          </div>
+        <!-- </div> -->
 
-            <div class="pt-5">
+        <div class="row">
+                    <div class="col-lg-6 wpb_column vc_column_container pt-5">
+
+            <div class="pt-5 mb-3">
               <img src="../assets/img/sc2.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
 
             </div>
@@ -443,7 +447,7 @@ to STEAM platform </b> </p>
               </div>
             </div> -->
           </div>
-          <div class="col-3 wpb_column vc_column_container">
+          <div class="col-md-3 mb-2 wpb_column vc_column_container">
             <div class="vc_column-inner us_custom_055b8ed2">
               <div class="wpb_wrapper p-4" style="background-color:#4cbd94;border-radius:15px">
                 <ul style="color:white !important">
@@ -463,7 +467,7 @@ to STEAM platform </b> </p>
              </div>
             </div>
           </div>
-          <div class="col-3 wpb_column vc_column_container">
+          <div class="col-md-3 mb-2 wpb_column vc_column_container">
             <div class="vc_column-inner us_custom_749267f4">
               <div class="wpb_wrapper p-4" style="background-color:#4cbd94;border-radius:15px">
                     <ul style="color:white !important">
@@ -483,6 +487,9 @@ to STEAM platform </b> </p>
          </div>
             </div>
           </div>
+        </div>
+
+
         </div>
       </div>
     </section>

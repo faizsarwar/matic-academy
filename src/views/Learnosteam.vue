@@ -9,7 +9,7 @@
             </b>
           </h1>
             <p class="ml-4 pr-5 mt-5" style="">
-The magic of STEM is now at your fingertips. With the rise in popularity and accessibility, more children than ever before have been acquiring an understanding about science, technology engineering or matheMatics (STEM) early on through simple games that are easily understandable by young minds.   <br>
+The magic of STEM is now at your fingertips. With the rise in popularity and accessibility, more children than ever before have been acquiring an understanding about science, technology engineering or Mathematics (STEM) early on through simple games that are easily understandable by young minds.   <br>
 What if there was a way to up your game in the classroom without hiring an expensive tutor or superstar teacher? Well now, with our affordable and scalable education platform for progressive educators you can!
             </p>
 
@@ -79,7 +79,7 @@ Schools can now introduce new courses without spending thousands on robotics equ
 
                     <!--button  -->
                     <div class="m-3 pb-4">
-                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px;color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px;color: white;  background-color:#a3468a; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
 
@@ -90,7 +90,7 @@ Schools can now introduce new courses without spending thousands on robotics equ
     </section>
 
     <section class="pt-3 pb-3 pl-4 pr-4 mb-5 text-center" >
-        <div class=" " style="border-radius:35px;background-color:#FED01F">
+        <div class=" " style="border-radius:35px;background-color:#A2469A">
             <div class="row mt-2 mb-4   text-left">
 
                 <div class="col-lg">
@@ -121,7 +121,7 @@ We offer a curriculum that is robust and trainer-independent, making it the perf
 
 
     <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
-        <div class="p-5 " style="border-radius:35px;background-color:#231F20">
+        <div class="p-5 " style="border-radius:35px;background-color:#4cbd94">
             <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
 
                 <div class="col-lg pt-5">
@@ -136,7 +136,7 @@ We offer a curriculum that is robust and trainer-independent, making it the perf
 
                     <!--button  -->
                     <div class="mt-5">
-                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px; color: white;  background-color:#4CBD94;width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px; color: white;  background-color:#a3468a;width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
 
@@ -185,7 +185,7 @@ We offer a curriculum that is robust and trainer-independent, making it the perf
                 <path d="M3 3.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1.5 0a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1 .5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z"/>
                 <path d="M.5 1a.5.5 0 0 0-.5.5v13a.5.5 0 0 0 .5.5h15a.5.5 0 0 0 .5-.5v-13a.5.5 0 0 0-.5-.5H.5ZM1 5V2h14v3H1Zm0 1h14v8H1V6Z"/>
               </svg>
-              <p class="pl-5 pt-5 ml-5 mr-5"><b>Get in touch with LearnOBots team via Contact us. </b> </p>
+              <p class="pl-5 pt-5 ml-5 mr-5 text-left"><b>Get in touch with Matic team via Contact us. </b> </p>
             </div>
           </div>
           <div class="col">
@@ -195,7 +195,7 @@ We offer a curriculum that is robust and trainer-independent, making it the perf
                 <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v1h14V3a1 1 0 0 0-1-1H2zm13 3H1v9a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V5z"/>
                 <path d="M11 7.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm-3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm-2 3a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm-3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1z"/>
               </svg>
-              <p class="pl-5 pt-5 ml-5 mr-5"><b> LearnOBots will review and assess your product needs. </b> </p>
+              <p class="pl-5 pt-5 ml-5 mr-5 text-left"><b> Matic will review and assess your product needs. </b> </p>
             </div>
           </div>
           <div class="col">
@@ -204,7 +204,7 @@ We offer a curriculum that is robust and trainer-independent, making it the perf
               <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="orange" class="bi bi-pc-display-horizontal" viewBox="0 0 16 16">
                 <path d="M1.5 0A1.5 1.5 0 0 0 0 1.5v7A1.5 1.5 0 0 0 1.5 10H6v1H1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1h-5v-1h4.5A1.5 1.5 0 0 0 16 8.5v-7A1.5 1.5 0 0 0 14.5 0h-13Zm0 1h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-7a.5.5 0 0 1 .5-.5ZM12 12.5a.5.5 0 1 1 1 0 .5.5 0 0 1-1 0Zm2 0a.5.5 0 1 1 1 0 .5.5 0 0 1-1 0ZM1.5 12h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1ZM1 14.25a.25.25 0 0 1 .25-.25h5.5a.25.25 0 1 1 0 .5h-5.5a.25.25 0 0 1-.25-.25Z"/>
               </svg>
-              <p class="pl-5 pt-5 ml-5 mr-5"><b> LearnOBots will recommend products as per your needs & requirements.</b> </p>
+              <p class="pl-5 pt-5 ml-5 mr-5 text-left"><b> Matic will recommend products as per your needs & requirements.</b> </p>
             </div>
           </div>
           <div class="col">
@@ -213,7 +213,7 @@ We offer a curriculum that is robust and trainer-independent, making it the perf
               <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="orange" class="bi bi-pc-display-horizontal" viewBox="0 0 16 16">
                 <path d="M1.5 0A1.5 1.5 0 0 0 0 1.5v7A1.5 1.5 0 0 0 1.5 10H6v1H1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1h-5v-1h4.5A1.5 1.5 0 0 0 16 8.5v-7A1.5 1.5 0 0 0 14.5 0h-13Zm0 1h13a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-7a.5.5 0 0 1 .5-.5ZM12 12.5a.5.5 0 1 1 1 0 .5.5 0 0 1-1 0Zm2 0a.5.5 0 1 1 1 0 .5.5 0 0 1-1 0ZM1.5 12h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1ZM1 14.25a.25.25 0 0 1 .25-.25h5.5a.25.25 0 1 1 0 .5h-5.5a.25.25 0 0 1-.25-.25Z"/>
               </svg>
-              <p class="pl-5 pt-5 ml-5 mr-5"><b> LearnOBots offers its product as a partner. </b> </p>
+              <p class="pl-5 pt-5 ml-5 mr-5 text-left"><b> Matic offers its product as a partner. </b> </p>
             </div>
           </div>
         </div>

@@ -34,11 +34,15 @@
                 Job demand for coding skills is projected to grow over 2x faster than other occupations. Prepare your kids for the modern world with Matic, no matter their experience level. We offer a full computer science curriculum for kids age 8-18.
             </p> -->
             <div class="card ">
-            <div class="p-5">
-     Job demand for coding skills is projected to grow over 2x faster than other occupations. Prepare your kids for the modern world with Matic, no matter their experience level. We offer a full computer science curriculum for kids age 8-18.
-           
+            <div class="p-5 ml-5 mr-5">
+              <div class="pl-5 pr-5 ml-5 mr-5">
+                <div class="pl-5 pr-5 ml-5 mr-5">
+                  <div class="pl-5 pr-5 ml-5 mr-5">
+              Job demand for coding skills is projected to grow over 2x faster than other occupations. Prepare your kids for the modern world with Matic, no matter their experience level. We offer a full computer science curriculum for kids age 8-18.
+                  </div>
+                </div>
+              </div>
             </div>
-
             
           </div>
             <button
@@ -89,7 +93,7 @@
             <div class="col-9 ml-0 text-left">
               <h2 class=" mb-3 " ><b > 
 
-                Top Instruction </b></h2>
+                Top Instructors </b></h2>
             </div>
 
           </div>
@@ -99,7 +103,7 @@
                   Instructors from Top US Universities
                 </li>
                 <li>
-                  Expert-Designed Curricula
+                  Expert-Designed Curriculum
                 </li>
                 <li>
                   Project-Based Coursework
@@ -218,7 +222,7 @@
           </div>
         </div>
         <div class="col-lg text-left">
-          <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">As a trained engineer myself, I was keen for my children to learn how to code. Matic has created a great learning environment to do just that.</b> </h1>
+          <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important"> " As a trained engineer myself, I was keen for my children to learn how to code. Matic has created a great learning environment to do just that."</b> </h1>
           <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important">My hope with Matic was to advance my kids’ interest and exposure to coding. I’ve found that my kids quickly identify with their Matic Instructors, and they tend to ask a lot of questions and remain excited about coding.</h5>
           <h5 class="pl-5  pr-5 mb-3 ml-2 mr-5 mt-0" style="color:white !important"> <b style="color:white !important"> Tim B.</b> , Matic Parent Former Chief Product Officer At Yahoo And CEO At QuestBridge</h5>
       
@@ -256,10 +260,13 @@
   <!-- 1 -->
   <section class="pt-5 pb-5" style="background-color:#f2f8fa;">
     <h1><b>Join Our Community Of Young Coders</b></h1>
-    <p class="pt-2 m-5">Kids at Matic join a tight knit network of learners like them. Through projects and clubs, our computer science students are able to connect, share ideas, learn from others, and have more fun as they level up their coding skills.</p>
-    <div class="row">
-
+    <div class="pl-5 pt-5 ml-5 mt-5">
+      <div class="pl-5 pt-5 mt-3">
+      <p class="pt-2 m-5">Kids at Matic join a tight knit network of learners like them. Through projects and clubs, our computer science students are able to connect, share ideas, learn from others, and have more fun as they level up their coding skills.</p>
+      </div>
     </div>
+
+    
     <div class="row m-5">
       <div class="col">
         <div class="card" >

@@ -255,7 +255,7 @@
               </div>
             </form>
 
-            <p class="mt-4 mb-4 ml-4 pr-4" style="color:white"> 2261 Market St #4242, San Francisco, CA 94114 <br>
+            <p class="mt-4 mb-4 ml-4 pr-4" style="color:white"> 116 Bullevard, Prenceton <br>
                 hello@learnwithmatic.com <br>
                  +1 (609) 375-0046</p>
 

@@ -66,7 +66,7 @@
 
                     <!--button  -->
                     <div class="mt-2">
-                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px; color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px; color: white;  background-color:#A2469A; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
 

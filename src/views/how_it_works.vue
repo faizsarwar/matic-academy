@@ -2,13 +2,13 @@
   <div>
     <section class="pt-2 pb-2">
       <div class="row mt-4 mb-4  text-left">
-        <div class="col-lg pt-5 ml-4 mr-3">
+        <div class="col-lg pt-5 ml-4 mr-3 pl-5">
           <h1 class="mt-5"><b>How Matic Works</b></h1>
-          <p class="mt-3">
-            We make learning real-world skills easy and exciting with expert
-            instructors, an intuitive platform, and a strong community of
-            learners.
-          </p>
+                   <div class="pt-5 pb-5 mr-5">
+                    We make learning real-world skills easy and exciting through expert Instructors, an intuitive platform, and a strong community of
+                    learners.
+                    </div>
+               
           <button
             type=""
             class="btn  btn-lg"
@@ -137,21 +137,14 @@
     </div>
   </section>
 
-  <section style="background-color:white;" class="pt-4 pb-4">
-    <div class="mt-2 mb-3">
-      <div class="row">
-        <div class="col-lg " style=" text-align: left; color: black;">
-          <div class=" ml-5 pt-5 pr-5 pl-5 ">
-              <h1><b class="text-left">What Is Project-Based Learning?</b></h1>
-              <p class="pl-5 ml-2">Our courses are expertly-designed to immerse students in each lesson. Student's are guided to problem-solve and discover insights themselves before applying that new knowledge to hands-on applications and projects, so they truly internalize the material and not just memorize it.</p>
-          </div>
-        </div>
-        <div class="col-lg " style=" text-align: center; color: black;">
-            <!-- img here -->
-        </div>
+
+    <section class="pt-5 pb-5 pl-4 pr-4 text-center">
+      <div>
+              <h1><b class="text-center">What Is Project-Based Learning?</b></h1>
+        <p class="pl-5 pr-5 ml-5 mr-5 pb-5 mb-2">Our courses are expertly-designed to immerse students in each lesson. Student's are guided to problem-solve and discover insights themselves before applying that new knowledge to hands-on applications and projects, so they truly internalize the material and not just memorize it.
+        </p>
       </div>
-    </div>
-  </section>
+    </section>
 
   <section style="background-color: #e6f7f6" class="p-4">
     <div class="mt-2 mb-2">
@@ -194,17 +187,17 @@
   </section>
 
     <section class="pt-5 pb-5">
-        <h1><b>Get to know the Matic community</b></h1>
+        <h1 class="mt-4 mb-4"><b>Get to know the Matic community</b></h1>
         <!-- Picture on right -->
         <div class="row">
-            <div class="col-lg " style=" text-align: left; color: black;">
-              <div class=" ml-5 pt-5 pr-5 pl-5 ">
+            <div class="col-lg mt-5 pt-5" style=" text-align: left; color: black;">
+              <div class=" ml-5 mt-5 pr-5 pl-5 ">
                   <h1><b class="text-left mt-5">Matic Events</b></h1>
                   <p class="pl-5 ml-2">Our courses are expertly-designed to immerse students in each lesson. Student's are guided to problem-solve and discover insights themselves before applying that new knowledge to hands-on applications and projects, so they truly internalize the material and not just memorize it.</p>
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">
-                <!-- img here -->
+                <img src="../assets/img/maticSMMJune-02.jpg" alt=""  style="width:100%;">
             </div>
         </div>
 
@@ -212,9 +205,9 @@
         <div class="mt-2 mb-2">
           <div class="row">
             <div class="col-lg " style=" text-align: center; color: black;">
-                <!-- img here -->
+                <img src="../assets/img/maticSMMJune-07.jpg" alt=""  style="width:100%;">
             </div>
-            <div class="col-lg " style=" text-align: center; color: black;">
+            <div class="col-lg pt-5 mt-5" style=" text-align: center; color: black;">
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-0">
                   <h1><b>Maticverse: Student Projects</b></h1>
                   <p class="pr-5 mr-2">The Maticverse is where learner's can explore others students' projects as well as publish and share their own</p>
@@ -226,14 +219,14 @@
 
         <!-- Picture on right -->
         <div class="row mb-3">
-            <div class="col-lg " style=" text-align: left; color: black;">
-              <div class=" ml-5 pt-5 pr-5 pl-5 ">
+            <div class="col-lg mt-5 pt-5" style=" text-align: left; color: black;">
+              <div class=" ml-5 mt-5 pt-5 pr-5 pl-5 ">
                   <h1><b class="text-left mt-5">Matic Clubs</b></h1>
                   <p class="pl-5 ml-2">Clubs are instructor mediated spaces for kids to get together based on different hobbies, sports, study groups and more.</p>
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">
-                <!-- img here -->
+                                <img src="../assets/img/maticSMMJune-13.jpg" alt=""  style="width:100%;">
             </div>
         </div>
 

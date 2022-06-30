@@ -1,9 +1,9 @@
 <template>
     <div>
 
-    <section class="pt-2 " >
+    <section class="pt-2 mb-4">
       <div class="row mt-2  ml-4  text-left">
-        <div class="col-lg">
+        <div class="col-lg mb-3">
           <h2 class="ml-4 pr-5 pt-3 "><b style=""> DIY KITS: HANDS-ON LEARNING THROUGH FUN AND ENGAGING
 HARDWARE KITS
             </b>
@@ -13,14 +13,14 @@ HARDWARE KITS
             </p>
 
             <!--button  -->
-            <div class="mt-3">
+            <div class="mt-3 mb-4">
             <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px; width : 190px;color: white;  background-color:#4CBD94;  border-radius: 12px;font-size:16px">Learn More</button>
             </div>
             
 
         </div>
 
-        <div class="col-lg">
+        <div class="col-lg mb-3">
            <img src="../assets/img/dk1.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
 
         </div>
