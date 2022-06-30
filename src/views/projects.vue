@@ -45,7 +45,7 @@
                         >
                           <strong>Hexa Run</strong>
                           <br>
-                          @faizsarwar
+                          
                       </p>
                     </div>
                     <div class="col-4">
@@ -54,7 +54,7 @@
                         </div>
                     </div>
                   <img
-                    src="../assets/img/placeholder.jpg"
+                    src="../assets/img/PopularCoursesSection(1).jpg"
                     class="card-img-top p-3"
                     alt="..."
                   />
@@ -93,7 +93,7 @@
                         >
                           <strong>Hexa Run</strong>
                           <br>
-                          @faizsarwar
+                          
                       </p>
                     </div>
                     <div class="col-4">
@@ -102,7 +102,7 @@
                         </div>
                     </div>
                   <img
-                    src="../assets/img/placeholder.jpg"
+                    src="../assets/img/science1.png"
                     class="card-img-top p-3"
                     alt="..."
                   />
@@ -141,7 +141,7 @@
                         >
                           <strong>Hexa Run</strong>
                           <br>
-                          @faizsarwar
+                          
                       </p>
                     </div>
                     <div class="col-4">
@@ -150,7 +150,7 @@
                         </div>
                     </div>
                   <img
-                    src="../assets/img/placeholder.jpg"
+                    src="../assets/img/ms1.png"
                     class="card-img-top p-3"
                     alt="..."
                   />
@@ -191,7 +191,7 @@
                         >
                           <strong>Hexa Run</strong>
                           <br>
-                          @faizsarwar
+                          
                       </p>
                     </div>
                     <div class="col-4">
@@ -200,7 +200,7 @@
                         </div>
                     </div>
                   <img
-                    src="../assets/img/placeholder.jpg"
+                    src="../assets/img/ms3.png"
                     class="card-img-top p-3"
                     alt="..."
                   />
@@ -239,7 +239,7 @@
                         >
                           <strong>Hexa Run</strong>
                           <br>
-                          @faizsarwar
+                          
                       </p>
                     </div>
                     <div class="col-4">
@@ -248,7 +248,7 @@
                         </div>
                     </div>
                   <img
-                    src="../assets/img/placeholder.jpg"
+                    src="../assets/img/dk2.png"
                     class="card-img-top p-3"
                     alt="..."
                   />
@@ -287,7 +287,7 @@
                         >
                           <strong>Hexa Run</strong>
                           <br>
-                          @faizsarwar
+                          
                       </p>
                     </div>
                     <div class="col-4">

@@ -87,7 +87,7 @@
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/projects"><strong>Student Projects</strong> </a>
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/gift"><strong>Gift Cards</strong> </a>
           <!-- <a class="dropdown-item mb-4 ml-2 mr-2" href="#"><strong> Homeschool</strong></a> -->
-          <a class="dropdown-item mb-4 ml-2 mr-2" href="/employeers"><strong>matic for Employeers</strong> </a>
+          <a class="dropdown-item mb-4 ml-2 mr-2" href="/employeers"><strong>Careers at Matic</strong> </a>
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/blogs"><strong>Blogs</strong> </a>          
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/help"><strong> Help Center & FAQ</strong></a>          
           <a class="dropdown-item mb-4 ml-2 mr-2" href="/contact"><strong> Contact Us</strong></a>          
