@@ -88,7 +88,7 @@
             </div>
 
           </div>
-          <div class="row ">
+          <div class="row pl-5">
             <ul class="ml-5" style="  font-weight:bolder; text-align:left">
                 <li>
                   Instructors from Top US Universities
@@ -120,7 +120,7 @@
               Community </b></h2>
               </div>
           </div>
-          <div class="row ">
+          <div class="row pl-5">
           <ul class="ml-5" style="font-weight:bolder; text-align:left">
                 <li>
                   Matic Clubs
@@ -151,7 +151,7 @@
               Live Support</b></h2>
               </div>
           </div>
-          <div class="row ">
+          <div class="row pl-4">
               <ul class="ml-5" style=" font-weight:bolder; text-align:left">
                 <li>
                   Instructor Office Hours
@@ -181,7 +181,7 @@
               Progress Test</b></h2>
               </div>
           </div>
-          <div class="row ">
+          <div class="row pl-4">
               <ul class="ml-5" style="  font-weight:bolder; text-align:left">
                 <li>
                   Course Roadmaps

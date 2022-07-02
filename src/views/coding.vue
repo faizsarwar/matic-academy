@@ -6,7 +6,7 @@
         <div class="col-lg ml-4">
           <h1 class="ml-4 pr-5 pt-5 pb-5"><b style="color:white !important">Coding for Kids</b></h1>
           <p class="mt-3 ml-4 pr-5" style=" ">
-           <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Age 8-18</span>
+           <span class="px-4 py-2 " style="border-radius: 9px;color: white;  background-color:#4CBD94;">  Age 8-18</span>
           </p>
             <p class="ml-4 pr-5 mt-2" style="color:white !important">Learn how to code and prepare your child for the future with these innovative classes. With each level, students will master new programming concepts while building on what they've learned previously by designing their own projects in different languages like Python or Java!
             </p>

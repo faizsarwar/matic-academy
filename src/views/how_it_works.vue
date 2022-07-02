@@ -209,7 +209,7 @@ Our courses are expertly-designed to immerse students in each lesson. Student's 
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">
-                <img src="../assets/img/maticSMMJune-02.jpg" alt=""  style="width:100%;">
+                <img src="../assets/img/ms2.png" alt=""  style="width:100%;">
             </div>
         </div>
 
@@ -217,7 +217,7 @@ Our courses are expertly-designed to immerse students in each lesson. Student's 
         <div class="mt-2 mb-2">
           <div class="row">
             <div class="col-lg " style=" text-align: center; color: black;">
-                <img src="../assets/img/maticSMMJune-07.jpg" alt=""  style="width:100%;">
+                <img src="../assets/img/b.png" alt=""  style="width:100%;">
             </div>
             <div class="col-lg pt-5 mt-5" style=" text-align: center; color: black;">
               <div class=" mr-5 pt-5 pr-5 pl-5 pb-0">
@@ -238,7 +238,7 @@ Our courses are expertly-designed to immerse students in each lesson. Student's 
               </div>
             </div>
             <div class="col-lg " style=" text-align: center; color: black;">
-                                <img src="../assets/img/maticSMMJune-13.jpg" alt=""  style="width:100%;">
+                                <img src="../assets/img/sc1.png" alt=""  style="width:100%;">
             </div>
         </div>
 
