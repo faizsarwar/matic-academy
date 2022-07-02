@@ -4,9 +4,14 @@
     <section class="p-4" style="background-color: #A2469A;color:white">
       <div class="row   text-left">
         <div class="col-lg ml-4 mr-3 mb-3">
-          <h2 class="ml-4 pr-5  mt-3"><b style="color:white !important">Communications & Language Arts Courses for Kids
+
+          <div class="d-flex">
+          <h2 class="ml-4 pr-5 mr-auto mt-3"><b style="color:white !important">Communications & Language Arts Courses for Kids
             </b>
           </h2>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3" style="width:10%; height:10%; opacity:40%;">
+          </div>
+
           <p class="mt-4 ml-4 pr-5" style="color:white ">
            <span class="px-4 py-2 " style="border-radius: 9px;  background-color:#4CBD94;">  Age 7-18</span>
           </p>

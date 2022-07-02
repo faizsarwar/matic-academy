@@ -3,6 +3,11 @@
 
     <section class="p-5" style="background-color: #A2469A;color:white">
       <div class="m-5 p-5">
+                                                                        <div class="">
+                    <!-- <h1 class=" mr-auto"><b class="text-left mt-5" style="color: white !important">Matic Instructors</b></h1> -->
+            <img src="../assets/img/monogram.png" alt="" class="mt-2 mb-5 " style="width:10%; height:10%; opacity:40%;">
+          </div>
+
         <h1><b style="color:white" class="pt-5"> Contact Us</b></h1>
         <p style="color:white" class="pb-5">Reach out to us by email or text, and a member of the team will be happy to help.</p>
       </div>

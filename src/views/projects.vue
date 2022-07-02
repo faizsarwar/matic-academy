@@ -13,6 +13,7 @@
             Explore featured projects created by Juni students and instructors
             around the world
           </p>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3 mr-4 ml-4 mb-3 " style="width:13%; height:15%; opacity:40%;">
         </div>
 
         <div class="col-7">

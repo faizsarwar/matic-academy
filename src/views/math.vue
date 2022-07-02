@@ -4,10 +4,14 @@
     <section class="" style="background-color: #A2469A;color:white">
       <div class="row   text-left">
         <div class="col-lg ml-4 mr-3 mb-3">
-          <h1 class="ml-4 pr-5 pt-5 mt-5 mb-3"><b style="color:white !important">Online Math Courses
+                                  <div class="d-flex">
+          <h1 class="ml-4 pr-5 pt-5 mt-5 mb-3 mr-auto"><b style="color:white !important">Online Math Courses
             for Kids
             </b>
           </h1>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3" style="width:10%; height:10%; opacity:40%;">
+          </div>
+
           <p class="mt-3 ml-4 pr-5 mt-5" style=" color:white">
            <span class="px-4 py-2 " style="border-radius: 9px; color: white;  background-color:#4CBD94;">  Age 7-18</span>
           </p>
@@ -212,11 +216,16 @@ Junior offers math courses for kids aged 7-18. These online lessons are designed
     </div>
       <div class="col-8" style="text-align: center;" >
         <div class="col-lg">
-          <div class="ml-5 mr-4 mb-0">
+
+          <div class="d-flex">
+          <div class="ml-5 mr-4 mb-0 mr-auto">
             <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#a195de" class="bi bi-quote" viewBox="0 0 16 16">
               <path d="M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 9 7.558V11a1 1 0 0 0 1 1h2Zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 3 7.558V11a1 1 0 0 0 1 1h2Z"/>
             </svg>
           </div>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3" style="width:10%; height:10%; opacity:40%;">
+          </div>
+
         </div>
         <div class="col-lg text-left">
           <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">The math curriculum and software are amazing.</b> </h1>

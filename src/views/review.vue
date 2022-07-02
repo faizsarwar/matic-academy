@@ -7,16 +7,23 @@
           <h1 class="ml-4 pr-5 pt-5 mt-5 mb-3"><b style="color:white !important">“As a teacher myself, I know first-hand how hard it is to keep young adults engaged, and Matic does it better than any other company I tried.”
             </b>
           </h1>
+
           <h5><b class="ml-4 mt-5 pt-4 mb-5" style=" color:white">Serguei N., Matic Parent</b></h5>
             <p class="ml-4 pr-5 mt-3 mb-3" style="color:white !important">
                 Vice-Dean for Global Initiatives, Professor of Innovation and Entrepreneurship Wharton School of Business, University of Pennsylvania
             </p>
 
+
+            <div class="d-flex">
             <!--button  -->
-            <div class="mt-5">
+            <div class="mt-5 mr-auto">
             <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px;color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Explore Courses</button>
             </div>
-        
+            <img src="../assets/img/monogram.png" alt="" class="mt-3 mb-3 " style="width:10%; height:10%; opacity:40%;">
+          </div>
+
+            
+
         </div>
 
         <div class="col-lg">
@@ -86,10 +93,15 @@
       </div>
       <div class="col-8" style="text-align: center;" >
         <div class="col-lg">
-          <div class="ml-5 mr-4 mb-0">
+
+
+                      <div class="d-flex">
+                 <div class="ml-5 mr-4 mb-0 mr-auto">
             <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#a195de" class="bi bi-quote" viewBox="0 0 16 16">
               <path d="M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 9 7.558V11a1 1 0 0 0 1 1h2Zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 3 7.558V11a1 1 0 0 0 1 1h2Z"/>
             </svg>
+          </div>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3 mb-3 " style="width:10%; height:10%; opacity:40%;">
           </div>
         </div>
         <div class="col-lg text-left">
@@ -159,12 +171,17 @@
     <section class="pt-5 pb-5" style="background-color:#A2469A">
       <div class="row">
         <div class="col-12" style="text-align: center;" >
-          <div class="row">
-            <div class="ml-5 mr-4 mb-0">
+          <div class="">
+
+                        <div class="d-flex">
+            <div class="ml-5 mr-4 mr-auto mb-0">
               <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#a195de" class="bi bi-quote" viewBox="0 0 16 16">
                 <path d="M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 9 7.558V11a1 1 0 0 0 1 1h2Zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 3 7.558V11a1 1 0 0 0 1 1h2Z"/>
               </svg>
             </div>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3 mr-4 mb-3 " style="width:10%; height:10%; opacity:40%;">
+          </div>
+
           </div>
           <div class="row text-left">
             <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">
@@ -232,12 +249,16 @@
     <section class="pt-5 pb-5" style="background-color:#A2469A">
       <div class="row">
         <div class="col-12" style="text-align: center;" >
-          <div class="row">
-            <div class="ml-5 mr-4 mb-0">
+          <div class="">
+
+                                    <div class="d-flex">
+            <div class="ml-5 mr-4 mr-auto mb-0">
               <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#a195de" class="bi bi-quote" viewBox="0 0 16 16">
                 <path d="M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 9 7.558V11a1 1 0 0 0 1 1h2Zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 3 7.558V11a1 1 0 0 0 1 1h2Z"/>
               </svg>
             </div>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3 mr-4 mb-3 " style="width:10%; height:10%; opacity:40%;">
+          </div>
           </div>
           <div class="row text-left">
             <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">

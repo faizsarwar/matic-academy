@@ -6,18 +6,19 @@
         <div class="col-5 pt-5">
           <h1 class="ml-4 mt-5 pr-5"><b style="color:white !important">Gift a Future that’s
             Merry and Bright</b></h1>
-          <!-- <p class="mt-3 ml-4 pr-5" style=" ">
-           <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 8-18</span>
-          </p> -->
             <h5 class="ml-4 pr-5 mt-2" style="color:white !important">Send a Matic gift card redeemable for
                 any of Matic’s award-winning courses.
             </h5>
 
-            <!--button  -->
-            <div class="mt-5">
-            <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px; width : 120px; color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Buy A Gift Card</button>
-            </div>
 
+            
+          <div class="d-flex">
+            <!--button  -->
+            <div class="mt-5 mr-auto">
+              <button type="" class="btn btn btn-lg ml-4  mt-2" style="height:65px; width : 180px; color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Buy A Gift Card</button>
+            </div>
+            <img src="../assets/img/monogram.png" alt="" class="mt-5 ml-5 mb-3 " style="width:10%; height:10%; opacity:40%;">
+          </div>
         </div>
 
         <div class="col-7">

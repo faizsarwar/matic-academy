@@ -68,7 +68,11 @@
     <section class="pt-5 pb-5" style="background-color: #A2469A;color:white">
       <div class="row mt-4 mb-4 ml-4 mr-3 text-left">
         <div class="col-lg">
-          <h1 class="ml-4" ><b style="color:white !important">Why Choose Matic?</b></h1>
+
+                                          <div class="d-flex">
+          <h1 class="ml-4 mr-auto" ><b style="color:white !important">Why Choose Matic?</b></h1>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3 mr-4" style="width:10%; height:10%; opacity:40%;">
+          </div>
           <p class="mt-3 ml-4" style="color:white !important">
             We've built a community of passionate learners and instructors. It's our mission to make real-world, future-forward skills available to the next generation so that they can make their mark on the world with:
           </p>

@@ -4,8 +4,15 @@
     <section class="mb-4" style="background-color: #A2469A;color:white">
       <div class="row mt-4 ml-4 text-left">
         <div class="col-lg pt-5">
-          <h1 class="ml-4 pr-5 mb-3"><b style="color:white !important">Introducing Matic Group Bootcamps</b></h1>
-          <p class="mt-3 ml-4 pr-5 mt-5" style=" color:white">
+
+                                <div class="d-flex">
+          <h1 class="ml-4 mr-auto pr-5 mb-3"><b style="color:white !important">Introducing Matic Group Bootcamps</b></h1>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3" style="width:10%; height:10%; opacity:40%;">
+          </div>
+
+          <h1 class="ml-4 pt-2 mb-3"><b style="color:white !important">Matic On Demand:
+            Self-Guided Courses for Kids</b></h1>
+          <p class="mt-3 ml-4 pr-5 " style=" color:white">
            <span class="px-4 py-2" style="border-radius: 9px; background-color:#4CBD94;">  Age 8-18</span>
           </p>
             <p class="ml-4 pr-5 mt-2" style="color:white !important">For a limited time, get half off group bootcamps
@@ -17,9 +24,9 @@ our top instructors.
             <div class="mt-3 ml-4">
                   <button
             type=""
-            class="btn  btn-lg"
+            class="btn  "
             style="
-              height: 65px;
+              height: 45px;
               width: 180px;
               border-radius: 12px;
               font-size: 16px;
@@ -37,7 +44,7 @@ our top instructors.
       </div>
     </section>
 
-        <section class=" pb-5" >
+        <section class="pt-5 pb-5" >
             <!-- Picture on right -->
             <div class="row">
                 <div class="col-5  " style=" text-align: center; color: black;">

@@ -14,7 +14,9 @@
                     <!--button  -->
                     <div class="mt-5">
                         <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px;color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Buy A Gift Card</button>
+                                <img src="../assets/img/monogram.png" alt="" class="mt-3 ml-5 mb-3 " style="width:10%; height:10%; opacity:40%;">
                     </div>
+
             </div>
           </div>
 

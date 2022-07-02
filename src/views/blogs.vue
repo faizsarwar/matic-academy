@@ -3,7 +3,14 @@
 
     <section class="pt-5 pb-5" style="background-color: #A2469A;color:white">
         <div class="p-5">
+                                                                        <div class="">
+                    <!-- <h1 class=" mr-auto"><b class="text-left mt-5" style="color: white !important">Matic Instructors</b></h1> -->
+            <img src="../assets/img/monogram.png" alt="" class="mt-2 mb-5 " style="width:10%; height:10%; opacity:40%;">
+          </div>
+
           <h1 class="ml-4 pr-5"><b style="color:white !important">The Matic Blog</b></h1>
+
+
           <!-- <p class="mt-3 ml-4 pr-5" style=" ">
            <span class="px-4 py-2 bg-danger" style="border-radius: 9px;background-color:white !important">  Ages 8-18</span>
           </p> -->

@@ -6,7 +6,11 @@
             <div class="row">
                 <div class="col-lg " style=" text-align: left; color: black;">
                 <div class=" ml-5 pt-5 mt-5 pr-5 pl-5 ">
-                    <h1><b class="text-left mt-5" style="color: white !important">Matic Instructors</b></h1>
+
+                                                              <div class="d-flex">
+                    <h1 class=" mr-auto"><b class="text-left mt-5" style="color: white !important">Matic Instructors</b></h1>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3 mb-3 " style="width:10%; height:10%; opacity:40%;">
+          </div>
                     <p style="color: white !important">We’re here to bring out the greatness in every learner, as early as they’re ready. Right here, right now. Because we see potential at every age. And we believe everybody has the power to be a superstar in something.</p>
                     <button button type="" class="btn btn btn-lg " style="height:65px; width : 300px;color: white;  background-color:#4CBD94; border-radius: 12px;font-size:16px">Try A Free class</button>      
                 </div>
@@ -250,7 +254,11 @@
                     <img src="../assets/img/Instructorss(1).jpg" alt=""  style="width:100%;">
                 </div>
                 <div class="col-8 pl-4 pr-4 text-left">
-                    <h2 class="mt-5 mb-2 ml-3"><b style="color:white">I was the first Computer Science instructor at Matic.</b></h2>
+
+                                                                                  <div class="d-flex">
+                    <h2 class="mt-5 mr-auto mb-2 ml-3"><b style="color:white">I was the first Computer Science instructor at Matic.</b></h2>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3 " style="width:7%; height:7%; opacity:40%;">
+          </div>
                     <p class=" mr-4 pl-3 pr-3" style="color:white">"It was always fun and fulfilling to teach younger students about engineering - in whatever way they found interesting - whether that be through fashion, robotics, or film. How you can get students from not knowing much about a topic to getting that spark is magical to see."</p>
                     <br>
                     <p class="pl-3 pb-0 mb-0" style="color:white">Vivian Shen, Matic Staff</p>

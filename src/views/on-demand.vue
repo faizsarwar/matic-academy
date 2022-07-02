@@ -4,8 +4,12 @@
     <section class="" style="background-color: #A2469A;color:white">
       <div class="row mt-4 mb-4 ml-4  text-left">
         <div class="col-lg">
-          <h1 class="ml-4 pt-5 mb-3"><b style="color:white !important">Matic On Demand:
+
+                                <div class="d-flex">
+          <h1 class="ml-4 pt-5 mr-auto mb-3"><b style="color:white !important">Matic On Demand:
             Self-Guided Courses for Kids</b></h1>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3" style="width:10%; height:10%; opacity:40%;">
+          </div>
           <p class="mt-5 ml-4 pr-5" style=" color:white">
            <span class="px-4 py-2  mb-2" style="border-radius: 9px; color: white;  background-color:#4CBD94;">  Age 8-18</span>
           </p>

@@ -1,13 +1,18 @@
 <template>
     <div>
 
-    <section class="" style="background-color: #A2469A;color:white">
+    <section class="pb-1" style="background-color: #A2469A;color:white">
       <div class="row mt-2 mb-4  text-left">
         <div class="col-lg ml-4 mr-3 pt-5">
-          <h1 class="ml-4 pr-5 pt-5 mb-3"><b style="color:white !important">Online Science
+
+          <div class="d-flex">
+          <h1 class="ml-4 pr-5 mr-auto pt-5 mb-3"><b style="color:white !important">Online Science
             Classes For Kids
             </b>
           </h1>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3" style="width:10%; height:10%; opacity:40%;">
+          </div>
+
           <p class="mt-3 ml-4 pr-5 mt-5 mb-3" style=" color:white">
            <span class="px-4 py-2 " style="border-radius: 9px; color: white;  background-color:#4CBD94;">  Age 8-18</span>
           </p>

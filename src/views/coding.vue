@@ -4,7 +4,11 @@
     <section class="" style="background-color: #A2469A;color:white">
       <div class="row mt-4 mb-4   text-left">
         <div class="col-lg ml-4">
-          <h1 class="ml-4 pr-5 pt-5 pb-5"><b style="color:white !important">Coding for Kids</b></h1>
+          <div class="d-flex">
+            <h1 class="mr-auto ml-4 pr-5 pt-5 pb-5"><b style="color:white !important">Coding for Kids</b></h1>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3" style="width:10%; height:10%; opacity:40%;">
+          </div>
+
           <p class="mt-3 ml-4 pr-5" style=" ">
            <span class="px-4 py-2 " style="border-radius: 9px;color: white;  background-color:#4CBD94;">  Age 8-18</span>
           </p>
@@ -215,11 +219,16 @@
       </div>
       <div class="col-8" style="text-align: center;" >
         <div class="col-lg">
-          <div class="ml-5 mr-4 mb-0">
-            <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#a195de" class="bi bi-quote" viewBox="0 0 16 16">
-              <path d="M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 9 7.558V11a1 1 0 0 0 1 1h2Zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 3 7.558V11a1 1 0 0 0 1 1h2Z"/>
-            </svg>
+            <div class="d-flex">
+              <div class="mr-auto ml-5 mr-5 mb-0">
+                <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" fill="#a195de" class="bi bi-quote" viewBox="0 0 16 16">
+                  <path d="M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 9 7.558V11a1 1 0 0 0 1 1h2Zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 3 7.558V11a1 1 0 0 0 1 1h2Z"/>
+                </svg>
+              </div>
+            <img src="../assets/img/monogram.png" alt="" class="mt-3" style="width:10%; height:10%; opacity:40%;">
           </div>
+
+
         </div>
         <div class="col-lg text-left">
           <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important"> " As a trained engineer myself, I was keen for my children to learn how to code. Matic has created a great learning environment to do just that."</b> </h1>
@@ -325,9 +334,15 @@
       <div class="row">
         <div class="col-7 text-left">
           <div class="pl-5 pt-3 pb-3 pr-5">
-            <svg xmlns="http://www.w3.org/2000/svg" width="86" height="86" fill="#a195de" class="bi bi-chat-quote-fill ml-2 mb-3" viewBox="0 0 16 16">
+
+              <div class="d-flex">
+            <svg xmlns="http://www.w3.org/2000/svg" width="86" height="86" fill="#a195de" class="bi bi-chat-quote-fill ml-2 mb-3 mr-auto" viewBox="0 0 16 16">
               <path d="M16 8c0 3.866-3.582 7-8 7a9.06 9.06 0 0 1-2.347-.306c-.584.296-1.925.864-4.181 1.234-.2.032-.352-.176-.273-.362.354-.836.674-1.95.77-2.966C.744 11.37 0 9.76 0 8c0-3.866 3.582-7 8-7s8 3.134 8 7zM7.194 6.766a1.688 1.688 0 0 0-.227-.272 1.467 1.467 0 0 0-.469-.324l-.008-.004A1.785 1.785 0 0 0 5.734 6C4.776 6 4 6.746 4 7.667c0 .92.776 1.666 1.734 1.666.343 0 .662-.095.931-.26-.137.389-.39.804-.81 1.22a.405.405 0 0 0 .011.59c.173.16.447.155.614-.01 1.334-1.329 1.37-2.758.941-3.706a2.461 2.461 0 0 0-.227-.4zM11 9.073c-.136.389-.39.804-.81 1.22a.405.405 0 0 0 .012.59c.172.16.446.155.613-.01 1.334-1.329 1.37-2.758.942-3.706a2.466 2.466 0 0 0-.228-.4 1.686 1.686 0 0 0-.227-.273 1.466 1.466 0 0 0-.469-.324l-.008-.004A1.785 1.785 0 0 0 10.07 6c-.957 0-1.734.746-1.734 1.667 0 .92.777 1.666 1.734 1.666.343 0 .662-.095.931-.26z"/>
             </svg>
+
+            <img src="../assets/img/monogram.png" alt="" class="mt-3" style="width:10%; height:10%; opacity:40%;">
+          </div>
+
   
             <h1 style="color:white" class="mb-5">I'm a coder now.</h1>
             <h5 style="color:white" >When I started it was hard to code. The instructors are really nice and helped me when I had trouble. They also saw what I liked and helped me learn those things even more. Now, I've learned how to make things on my own and even share my projects on Matic and with my friends. It makes me feel really smart!</h5>

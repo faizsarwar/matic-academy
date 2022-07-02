@@ -2,27 +2,6 @@
   <div style="min-height:100vh; display:flex; flex-direction:column; 
             justify-content:space-between;" class="p-0 m-0">
 
-      <!-- <div style="background-color: #0b0970" class="">
-        
-        <div class="col-12 mt-3 mb-2 ">
-          <div class="row ml-1">
-
-            <div class="col-1 mr-2">
-              <img class="ml-5 mt-2 mr-0" src="./assets/img/icon1.jpg" alt="" style="width:55px;border-radius:10px">
-            </div>
-            <div class="col-10 ml-4" >
-              <div class="row mt-2 mb-2 ml-2">
-                <strong style="color:white !important"> Happy Financial Litracy Month! </strong>
-              </div>
-              <div class="row mt-2 mb-2 ml-2">
-                <p style="color:white !important"> Sign up for our free investing course today and kikstart your financial future.PLUS get $5 in a starter investing account </p>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div> -->
-
 
 <nav class="navbar navbar-expand-lg navbar-light mt-0 mb-0" id="navbar_top" style="background-color:white; color:#0b0970">
             <a href="/">

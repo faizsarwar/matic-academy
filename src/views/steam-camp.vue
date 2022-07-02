@@ -210,6 +210,11 @@
     </section>
 
   <section class="pt-5 pb-5" style="background-color:#A2469A">
+                                                                    <div class="">
+                    <!-- <h1 class=" mr-auto"><b class="text-left mt-5" style="color: white !important">Matic Instructors</b></h1> -->
+            <img src="../assets/img/monogram.png" alt="" class="mt-2 mb-5 " style="width:10%; height:10%; opacity:40%;">
+          </div>
+
                 <h1 class="p-5 mb-3 ml-2 mr-5 mt-0"><b style="color:white !important">STUDENT OF THE MONTH</b> </h1>
     <div class="row">
       <div class="col-4">
