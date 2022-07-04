@@ -113,8 +113,8 @@ const routes = [
       component: () => import(/* webpackChunkName: "about" */ '../views/course.vue')
     },
     {
-      path: '/Learnosteam',
-      name: 'Learnosteam',
+      path: '/Matic',
+      name: 'Matic',
       component: () => import(/* webpackChunkName: "about" */ '../views/Learnosteam.vue')
     },
     {

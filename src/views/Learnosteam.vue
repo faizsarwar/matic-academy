@@ -4,7 +4,7 @@
     <section class="pt-2 pb-3" >
       <div class="row mt-2 mb-2  text-left">
         <div class="col-lg pb-3">
-          <h1 class="ml-4 p-2 "><b style=""> LearnOSTEAM: COMPREHENSIVE ONLINE STEAM EDUCATION
+          <h1 class="ml-4 p-2 "><b style=""> Matic: COMPREHENSIVE ONLINE STEAM EDUCATION
             PLATFORM FOR SCHOOLS
             </b>
           </h1>
