@@ -87,7 +87,7 @@
         <div class=" m-5">
           <h1 ><b>Our Approach to Learning</b> </h1>
           <h2 class="mt-5 mb-5 ml-5"><b> 
-                        <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#A2469A" class="bi bi-circle-fill mr-3" viewBox="0 0 16 16">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="#A2469A" class="bi bi-circle-fill mr-3 mb-2" viewBox="0 0 16 16">
                             <circle cx="8" cy="8" r="8"/>
                         </svg>
               Real-World Skills that Matter </b></h2>
@@ -96,7 +96,7 @@
         <!-- First Tick -->
         <div class=" m-5">
           <h2 class="mt-5 mb-5 ml-5"><b> 
-                        <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#A2469A" class="bi bi-circle-fill mr-3" viewBox="0 0 16 16">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="#A2469A" class="bi bi-circle-fill mr-3 mb-2" viewBox="0 0 16 16">
                             <circle cx="8" cy="8" r="8"/>
                         </svg>
               Learn-by-Doing Approach </b></h2>
@@ -105,7 +105,7 @@
         <!-- First Tick -->
         <div class=" m-5">
           <h2 class="mt-5 mb-5 ml-5"><b> 
-                        <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#A2469A" class="bi bi-circle-fill mr-3" viewBox="0 0 16 16">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="#A2469A" class="bi bi-circle-fill mr-3 mb-2" viewBox="0 0 16 16">
                             <circle cx="8" cy="8" r="8"/>
                         </svg>
 
@@ -130,7 +130,7 @@
     <div class="row pt-5 pl-5 pr-5">
       <div class="col-lg">
         <img src="../assets/img/f.png" alt="" class="circular--square" style="width:300px;height:240px">
-        <h3 class="mt-4"><b style="color:white"> Quality Instruction </b></h3>
+        <h3 class="mt-4"><b style="color:white"> Quality Instructors </b></h3>
         <div class="m-4 " style="text-align:left">
           <ul>
             <li>

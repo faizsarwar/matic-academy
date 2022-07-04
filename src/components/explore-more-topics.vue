@@ -110,9 +110,9 @@
               <h2 class="card-title m-3" ><b>Explore By Class Format </b></h2>
             </div>
 
-              <p class="card-text m-4" >View courses by format or filter for yourself in our course explorer.</p>
+              <p class="card-text m-4" >View courses by format or filter for yourself in our course explorer and find best one for you. </p>
               <!-- <a href="/categories/human_consumable" class="btn btn btn-success">View Products</a> -->
-              <p class="card-text m-5"> <a href=""><b>Private 1:1</b></a> | <a href=""><b>On Demand</b></a>  
+              <p class="card-text m-4"> <a href=""><b>Private 1:1</b></a> | <a href=""><b>On Demand</b></a>  
               | <a href=""><b>Bootcamps</b></a> <a href=""><b>View All</b></a>
               </p>
             </div>

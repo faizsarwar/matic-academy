@@ -15,7 +15,7 @@
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse ml-5 " id="navbarNavDropdown" style="color:#0b0970">
+  <div class="collapse navbar-collapse ml-2 " id="navbarNavDropdown" style="color:#0b0970">
     <ul class="navbar-nav">
       <li class="nav-item ml-2 mr-3 dropdown" >
         <a class="" style="color:#0b0970;" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -51,10 +51,10 @@
           <a class="dropdown-item  mb-4 ml-2 mr-2" href="/coding-for-kids"><strong>CODING FOR KIDS</strong> </a>
         </div>
       </li>
-      <li class="nav-item mr-3 ml-3 mr-2 ">
+      <li class="nav-item mr-3 ml-3  ">
         <a class="" style="color:#0b0970" href="/how-it-works">How It Works</a>
       </li>
-      <li class="nav-item mr-3 ml-3 mr-2 ">
+      <li class="nav-item mr-3 ml-3  ">
         <a class="" style="color:#0b0970" href="/instructors">Instructors</a>
       </li>
       <li class="nav-item ml-3 mr-3 dropdown">

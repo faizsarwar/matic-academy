@@ -42,7 +42,7 @@
                         <div class="row">
                             <div class="col-1 ">
                                 <!-- svg -->
-                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
                                   <circle cx="8" cy="8" r="8"/>
                                 </svg>
                             </div>
@@ -54,7 +54,7 @@
                         <div class="row">
                             <div class="col-1">
                                 <!-- svg -->
-                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
                                   <circle cx="8" cy="8" r="8"/>
                                 </svg>
                             </div>
@@ -67,7 +67,7 @@
                         <div class="row">
                             <div class="col-1">
                                 <!-- svg -->
-                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
                                   <circle cx="8" cy="8" r="8"/>
                                 </svg>
                             </div>
@@ -79,7 +79,7 @@
                         <div class="row">
                             <div class="col-1 ">
                                 <!-- svg -->
-                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
                                   <circle cx="8" cy="8" r="8"/>
                                 </svg>
                             </div>
@@ -91,7 +91,7 @@
                         <div class="row">
                             <div class="col-1 ">
                                 <!-- svg -->
-                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
                                   <circle cx="8" cy="8" r="8"/>
                                 </svg>
                             </div>
@@ -103,7 +103,7 @@
                         <div class="row mt-2">
                             <div class="col-1">
                                 <!-- svg -->
-                                <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="#A2469A" class="bi bi-circle-fill" viewBox="0 0 16 16">
                                   <circle cx="8" cy="8" r="8"/>
                                 </svg>
                             </div>
