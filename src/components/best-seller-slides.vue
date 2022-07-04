@@ -1,7 +1,7 @@
 <template>
   <!-- Best seller slides -->
   <section class="pt-5 pb-5" style="background-color: white">
-    <div class="container">
+    <div class="container pt-5 pb-5">
       <div class="row">
         <div class="col-6">
           <!-- <p>CUSTOMER FAVORITES</p> -->
@@ -74,7 +74,7 @@
               <div class="carousel-item" v-for="products in this.AllProducts.slice(1,)" v-bind:key="products.id">
                 <div class="row seller-Card">
 
-                  <div class="col-md-4 mb-3 seller-Card" v-for="blog in products" v-bind:key="blog.id">
+                  <div class="col-md-4 mb-3 " v-for="blog in products" v-bind:key="blog.id">
                     <div class="card ">
                     <img
                       :src= blog.image
@@ -178,5 +178,6 @@ div{
 }
 .card{
     border-radius: 12px;
+    height: 450px;
 }
 </style>
