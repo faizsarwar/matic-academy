@@ -58,17 +58,17 @@ What if there was a way to up your game in the classroom without hiring an expen
     </section>
 
 
-    <section class="pt-3 pb-3 pl-4 pr-4 mb-5 text-center" >
+    <section class="pt-3  pl-4 pr-4 mb-5 text-center" >
         <div class="" style="border-radius:35px;background-color:#4cbd94">
             <div class="row mt-2 mb-4   text-left">
 
                 <div class="col-lg">
-                  <img src="../assets/img/3.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
+                  <img src="../assets/img/data.jpg" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
        
                 </div>
-                <div class="col-lg pb-3">
-                  <div class="ml-4 pr-5 pt-5 mt-2">
-                    <h1 class="ml-4 pr-5 pt-5 mt-5"><b style="color:white !important"> Train through immersive simulators
+                <div class="col-lg ">
+                  <div class="ml-4 pr-5 pt-3 mt-2">
+                    <h1 class="ml-4 pr-5 pt-2 "><b style="color:white !important"> Train through immersive simulators
                         </b>
                     </h1>
                   </div>
@@ -120,22 +120,22 @@ We offer a curriculum that is robust and trainer-independent, making it the perf
     </section>
 
 
-    <section class="pt-5 pb-5 pl-4 pr-4 mb-5 text-center" >
-        <div class="p-5 " style="border-radius:35px;background-color:#4cbd94">
-            <div class="row mt-2 mb-4 ml-4 mr-3 text-left">
+    <section class=" pl-4  mb-5 text-center" >
+        <div class="" style="border-radius:35px;background-color:#4cbd94">
+            <div class="row mt-2 mb-4  mr-3 text-left">
 
-                <div class="col-lg pt-5">
-                  <img src="../assets/img/5.png" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
+                <div class="col-lg ">
+                  <img src="../assets/img/virtual-learning.jpg" alt="" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:100%">
                 </div>
                 <div class="col-lg">
-                    <h1 class="ml-4 pr-5 pt-5 "><b style="color:white !important">Analyze and manage student learning
+                    <h1 class="ml-4 pr-5  mt-3"><b style="color:white !important">Analyze and manage student learning
                         </b>
                     </h1>
-                    <p class="ml-4 pr-5 mt-5" style="color:white !important">Teachers will be able to easily monitor their students’ progress with interactive dashboards that provide valuable information about where they are struggling and what needs improvement.
+                    <p class="ml-4 pr-5 mt-3" style="color:white !important">Teachers will be able to easily monitor their students’ progress with interactive dashboards that provide valuable information about where they are struggling and what needs improvement.
    </p>
 
                     <!--button  -->
-                    <div class="mt-5">
+                    <div class="mt-4">
                     <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px; color: white;  background-color:#a3468a;width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
