@@ -456,7 +456,7 @@ to STEAM platform </b> </p>
             <div class="vc_column-inner us_custom_055b8ed2">
               <div class="wpb_wrapper p-4" style="background-color:#4cbd94;border-radius:15px">
                 <ul style="color:white !important">
-                <li>Ai &amp; Ml</li>
+                <li>AI & ML</li>
                 <li>Med-tech</li>
                 <li>FinTech</li>
                 <li>Data Science</li>
