@@ -42,11 +42,11 @@ What if there was a way to up your game in the classroom without hiring an expen
                         </b>
                     </h1>
                   </div>
-                    <p class="ml-4 pr-5 mt-2" style="color:white !important">By incorporating play-based learning, you are able to engage your students in the wonderful world of STEAM. This new approach will introduce them not only physically but emotionally as well.
+                    <p class="ml-5 pr-5 mt-5" style="color:white !important">By incorporating play-based learning, you are able to engage your students in the wonderful world of STEAM. This new approach will introduce them not only physically but emotionally as well.
                        </p>
 
                     <!--button  -->
-                    <div class="mt-3 pb-3">
+                    <div class="mt-5 pb-3">
                     <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px; color: white;  background-color:#4CBD94; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
@@ -73,12 +73,12 @@ What if there was a way to up your game in the classroom without hiring an expen
                     </h1>
                   </div>
 
-                    <p class="ml-4 pr-5 mt-5" style="color:white !important">Save time and money with our virtual reality hardware simulator.
+                    <p class="ml-5 pr-5 mt-5" style="color:white !important">Save time and money with our virtual reality hardware simulator.
 Schools can now introduce new courses without spending thousands on robotics equipment or having their students leave Class to use it - all while maintaining the school’s budget.
   </p>
 
                     <!--button  -->
-                    <div class="m-3 pb-4">
+                    <div class=" pb-4">
                     <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px;color: white;  background-color:#a3468a; width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
@@ -103,7 +103,7 @@ Schools can now introduce new courses without spending thousands on robotics equ
                     </h1>
                   </div>
 
-                    <p class="ml-4 pr-5 mt-5" style="color:white !important">
+                    <p class="ml-5 pr-5 mt-5" style="color:white !important">
 We offer a curriculum that is robust and trainer-independent, making it the perfect match for modern skills.
   </p>
 
@@ -136,7 +136,7 @@ We offer a curriculum that is robust and trainer-independent, making it the perf
 
                     <!--button  -->
                     <div class="mt-4">
-                    <button type="" class="btn btn btn-lg ml-5 mt-2" style="height:65px; color: white;  background-color:#a3468a;width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
+                    <button type="" class="btn btn btn-lg ml-4 mt-2" style="height:65px; color: white;  background-color:#a3468a;width : 190px; border-radius: 12px;font-size:16px">Get Quote</button>
                     </div>
                     
 
