@@ -465,7 +465,7 @@ li a{
     }
   } 
 #app {
-  font-family: Minion;
+  font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -473,13 +473,15 @@ li a{
 }
 
 h2,h3,h4,h5,h6{
-    font-family: Bellomatch;
+  font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
 
 h1{
-  font-family: Minion;
+  font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
-
+b{
+  font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
 a {
   text-decoration: none !important;
 }
@@ -679,7 +681,7 @@ nav {
 
 
 .navbar li {
-   font-family: "Times New Roman", Times, serif;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
     position: relative;
     text-decoration: none;
     font-weight: 100;
