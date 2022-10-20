@@ -124,15 +124,15 @@
   <section style="background-color: #231F20; color:white" class="pt-5 pb-5">
     <h1 class="mt-4 mb-4"><b style="color:white">Preview a Matic Class</b></h1>
 
-    <iframe width="560" height="315" class="mt-5 mb-5" src="https://www.youtube.com/embed/K4TOrB7at0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="400" height="300" class="mt-5 mb-5" src="https://www.youtube.com/embed/K4TOrB7at0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     <!-- col -->
     <div class="row pt-5 pl-5 pr-5">
       <div class="col-lg">
         <img src="../assets/img/f.png" alt="" class="circular--square" style="width:300px;height:240px">
         <h3 class="mt-4"><b style="color:white"> Quality Instructors </b></h3>
-        <div class="m-4 " style="text-align:left">
-          <ul>
+        <div class="m-4 d-flex justify-content-center" style="text-align:left">
+          <ul class="">
             <li>
               Instructors from top US Universities
             </li>
@@ -149,7 +149,7 @@
       <div class="col-lg">
         <img src="../assets/img/4.png" alt="" class="circular--square" style="width:300px;height:240px">
         <h3 class="mt-4"><b style="color:white"> Real-World Subjects </b></h3>
-        <div class="m-4 " style="text-align:left">
+        <div class="m-4 d-flex justify-content-center " style="text-align:left">
           <ul>
             <li>
               Structured, project-based curriculum
@@ -167,7 +167,7 @@
       <div class="col-lg">
         <img src="../assets/img/sc2.png" alt="" class="circular--square" style="width:300px;height:240px">
         <h3 class="mt-4"><b style="color:white"> Community of Learners </b></h3>
-        <div class="m-4 " style="text-align:left">
+        <div class="m-4 d-flex justify-content-center" style="text-align:left">
           <ul>
             <li>
               Meet students around the country in study groups and at live events
@@ -254,42 +254,43 @@
     </div>
   </section>
 
-  <section class="pt-5 pb-5 " >
+  <section class="p-5 " >
       <h1 class="mt-4 mb-4"><b >All Matic Courses Include:</b></h1>
-      <div class="row pl-4 pr-4 mt-3" >
+      <div class="row  mt-3" >
 
-        <div class="col-3 ">
-          
-          <div class="row">
-            <div class="col-3  ">
-                <img src="../assets/img/top_instruction.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
+        <div class="col-sm-3 d-flex justify-content-center">
+          <div>
+            <div class="row">
+              <div class="col-3  ">
+                  <img src="../assets/img/top_instruction.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
+              </div>
+              <div class="col-9 ml-0 text-left">
+                <h2 class=" mb-3 " ><b > 
+  
+                  Top Instructors </b></h2>
+              </div>
+  
             </div>
-            <div class="col-9 ml-0 text-left">
-              <h2 class=" mb-3 " ><b > 
-
-                Top Instructors </b></h2>
+            <div class="row pl-4">
+              <ul class="ml-5" style="  font-weight:bolder; text-align:left">
+                  <li>
+                    Instructors from Top US Universities
+                  </li>
+                  <li>
+                    Expert-Designed Curriculum
+                  </li>
+                  <li>
+                    Project-Based Coursework
+                  </li>
+                </ul>
             </div>
-
-          </div>
-          <div class="row pl-4">
-            <ul class="ml-5" style="  font-weight:bolder; text-align:left">
-                <li>
-                  Instructors from Top US Universities
-                </li>
-                <li>
-                  Expert-Designed Curriculum
-                </li>
-                <li>
-                  Project-Based Coursework
-                </li>
-              </ul>
-          </div>
-
-
+  
+          </div>  
         </div>
 
-        <div class="col-3 ">
-          <div class="row">
+        <div class="col-sm-3 d-flex justify-content-center">
+          <div>
+            <div class="row">
               <div class="col-3">
               <img src="../assets/img/community.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
             </div>
@@ -317,10 +318,12 @@
               </ul>
           </div>
 
+          </div>
         </div>
 
-        <div class="col-3">
-          <div class="row">   
+        <div class="col-sm-3  d-flex justify-content-center">
+          <div>
+            <div class="row">   
               <div class="col-3">
               <img src="../assets/img/live_support.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ; height:90%">
             </div>
@@ -347,10 +350,12 @@
                 </li>
               </ul>
           </div>
+          </div>
         </div>
 
-        <div class="col-3">
-          <div class="row">   
+        <div class="col-sm-3 d-flex justify-content-center">
+          <div>
+            <div class="row">   
               <div class="col-3">
               <img src="../assets/img/progress_test.png" alt=""  style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:90% ;">
             </div>
@@ -376,6 +381,7 @@
                   Certificates of Completion
                 </li>
               </ul>
+          </div>
           </div>
         </div>
 

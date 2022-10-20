@@ -7,7 +7,7 @@
       <div class="row mt-5 mb-4 ml-5 mr-5" >
         <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card3.jpeg') + ')' }"> -->
-            <div class="card-body mb-4 bg-light"> 
+            <div class="card-body no-overflow1 mb-4 bg-light"> 
              <div class="row ml-3">
                 <img src="../assets/img/code.png" alt="" class="mt-3" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:8%; height:8%">
 
@@ -45,7 +45,7 @@
       <div class="row mt-3 mb-4 ml-5 mr-5" >
         <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card3.jpeg') + ')' }"> -->
-            <div class="card-body mb-4 bg-light"> 
+            <div class="card-body no-overflow1 mb-4 bg-light"> 
 
               <div class="row ml-3">
                 <img src="../assets/img/communicatons.png" alt="" class="mt-2" style="background-size:contain;  background-repeat: no-repeat; text-align: center; width:8%; height:8%">
@@ -85,7 +85,7 @@
       <div class="row mt-3 mb-4 ml-5 mr-5" >
         <div class="col-lg no-overflow1" style="text-align:left">
           <!-- <div class="card cards collections" :style="{ backgroundImage: 'url(' + require('@/assets/img/card3.jpeg') + ')' }"> -->
-            <div class="card-body mb-4 bg-light"> 
+            <div class="card-body no-overflow1 mb-4 bg-light"> 
                            <div class="row ml-3">
                 <img src="../assets/img/Science.png" alt="" class="mt-2" style="background-size:contain;  background-repeat: no-repeat; text-align: center;width:8%; height:8%">
 
@@ -141,7 +141,8 @@ export default {
 
 <style scoped>
 .no-overflow1{
-  overflow-y:hidden
+  overflow-y:hidden;
+  overflow-x: hidden;
 }
 .card-text{
   visibility: visible;
